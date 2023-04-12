@@ -35,4 +35,7 @@ $$
 
 ## heading 2
 
+Here is how to insert a link:
+[Google](https://www.google.com/)
+
 ### heading 3
