@@ -1,0 +1,3141 @@
+County,Region,State,State_ABB,Adult Obesity,Adult Smokers,Children in Poverty,Diabetic,Food Insecure,Physically Inactive
+Adams,Midwest,Illinois,IL,35%,16%,20%,10%,13%,24%
+Alexander,Midwest,Illinois,IL,32%,24%,52%,16%,22%,30%
+Bond,Midwest,Illinois,IL,31%,17%,21%,10%,13%,26%
+Boone,Midwest,Illinois,IL,34%,16%,15%,10%,11%,24%
+Brown,Midwest,Illinois,IL,32%,16%,15%,8%,12%,27%
+Bureau,Midwest,Illinois,IL,30%,15%,20%,10%,12%,28%
+Calhoun,Midwest,Illinois,IL,30%,15%,16%,10%,13%,30%
+Carroll,Midwest,Illinois,IL,32%,15%,20%,11%,13%,27%
+Cass,Midwest,Illinois,IL,29%,16%,19%,10%,12%,25%
+Champaign,Midwest,Illinois,IL,27%,17%,24%,8%,17%,21%
+Christian,Midwest,Illinois,IL,33%,16%,20%,10%,14%,32%
+Clark,Midwest,Illinois,IL,33%,15%,20%,10%,14%,28%
+Clay,Midwest,Illinois,IL,32%,17%,20%,10%,15%,33%
+Clinton,Midwest,Illinois,IL,28%,15%,13%,9%,11%,30%
+Coles,Midwest,Illinois,IL,28%,20%,25%,9%,17%,24%
+Cook,Midwest,Illinois,IL,25%,16%,25%,10%,15%,20%
+Crawford,Midwest,Illinois,IL,34%,16%,21%,10%,14%,26%
+Cumberland,Midwest,Illinois,IL,30%,16%,16%,10%,14%,26%
+De Witt,Midwest,Illinois,IL,32%,15%,17%,9%,13%,26%
+DeKalb,Midwest,Illinois,IL,27%,17%,16%,8%,15%,22%
+Douglas,Midwest,Illinois,IL,31%,16%,15%,9%,11%,27%
+DuPage,Midwest,Illinois,IL,24%,12%,11%,8%,9%,18%
+Edgar,Midwest,Illinois,IL,33%,17%,23%,11%,15%,24%
+Edwards,Midwest,Illinois,IL,32%,16%,17%,10%,13%,27%
+Effingham,Midwest,Illinois,IL,29%,15%,17%,9%,11%,25%
+Fayette,Midwest,Illinois,IL,37%,17%,25%,10%,15%,24%
+Ford,Midwest,Illinois,IL,30%,15%,19%,10%,12%,26%
+Franklin,Midwest,Illinois,IL,31%,18%,30%,11%,17%,28%
+Fulton,Midwest,Illinois,IL,32%,16%,22%,10%,14%,29%
+Gallatin,Midwest,Illinois,IL,31%,17%,28%,11%,15%,29%
+Greene,Midwest,Illinois,IL,30%,17%,22%,10%,14%,28%
+Grundy,Midwest,Illinois,IL,31%,15%,11%,8%,12%,25%
+Hamilton,Midwest,Illinois,IL,29%,17%,21%,11%,14%,27%
+Hancock,Midwest,Illinois,IL,29%,15%,18%,11%,14%,29%
+Hardin,Midwest,Illinois,IL,33%,18%,33%,13%,17%,29%
+Henderson,Midwest,Illinois,IL,32%,15%,19%,10%,12%,28%
+Henry,Midwest,Illinois,IL,31%,15%,15%,10%,11%,29%
+Iroquois,Midwest,Illinois,IL,33%,16%,22%,11%,13%,28%
+Jackson,Midwest,Illinois,IL,31%,21%,33%,9%,19%,25%
+Jasper,Midwest,Illinois,IL,31%,15%,18%,9%,11%,24%
+Jefferson,Midwest,Illinois,IL,33%,17%,28%,10%,15%,27%
+Jersey,Midwest,Illinois,IL,32%,15%,17%,9%,11%,28%
+Jo Daviess,Midwest,Illinois,IL,29%,14%,16%,11%,11%,28%
+Johnson,Midwest,Illinois,IL,31%,17%,20%,10%,15%,26%
+Kane,Midwest,Illinois,IL,26%,14%,16%,9%,9%,19%
+Kankakee,Midwest,Illinois,IL,34%,17%,21%,10%,16%,25%
+Kendall,Midwest,Illinois,IL,35%,14%,7%,8%,8%,22%
+Knox,Midwest,Illinois,IL,25%,17%,27%,11%,15%,26%
+Lake,Midwest,Illinois,IL,29%,14%,13%,9%,9%,20%
+LaSalle,Midwest,Illinois,IL,29%,16%,20%,10%,13%,26%
+Lawrence,Midwest,Illinois,IL,32%,17%,24%,10%,14%,26%
+Lee,Midwest,Illinois,IL,33%,16%,16%,10%,13%,29%
+Livingston,Midwest,Illinois,IL,31%,15%,17%,9%,13%,31%
+Logan,Midwest,Illinois,IL,31%,17%,18%,9%,15%,25%
+Macon,Midwest,Illinois,IL,31%,17%,26%,11%,18%,24%
+Macoupin,Midwest,Illinois,IL,33%,15%,20%,10%,13%,31%
+Madison,Midwest,Illinois,IL,33%,17%,18%,9%,14%,27%
+Marion,Midwest,Illinois,IL,36%,17%,30%,11%,16%,33%
+Marshall,Midwest,Illinois,IL,32%,15%,16%,10%,12%,27%
+Mason,Midwest,Illinois,IL,33%,17%,20%,10%,15%,27%
+Massac,Midwest,Illinois,IL,34%,17%,30%,11%,15%,29%
+McDonough,Midwest,Illinois,IL,29%,19%,23%,8%,17%,23%
+McHenry,Midwest,Illinois,IL,28%,16%,9%,9%,9%,22%
+McLean,Midwest,Illinois,IL,29%,16%,13%,7%,13%,22%
+Menard,Midwest,Illinois,IL,31%,15%,15%,9%,11%,25%
+Mercer,Midwest,Illinois,IL,31%,14%,13%,10%,12%,30%
+Monroe,Midwest,Illinois,IL,33%,13%,6%,8%,10%,27%
+Montgomery,Midwest,Illinois,IL,29%,16%,23%,10%,16%,25%
+Morgan,Midwest,Illinois,IL,31%,17%,21%,10%,15%,29%
+Moultrie,Midwest,Illinois,IL,31%,17%,18%,10%,12%,27%
+Ogle,Midwest,Illinois,IL,29%,16%,16%,9%,13%,23%
+Peoria,Midwest,Illinois,IL,29%,16%,24%,10%,17%,25%
+Perry,Midwest,Illinois,IL,30%,17%,22%,10%,16%,24%
+Piatt,Midwest,Illinois,IL,30%,14%,10%,9%,11%,25%
+Pike,Midwest,Illinois,IL,32%,16%,23%,10%,13%,30%
+Pope,Midwest,Illinois,IL,31%,16%,31%,11%,15%,27%
+Pulaski,Midwest,Illinois,IL,32%,19%,36%,14%,18%,28%
+Putnam,Midwest,Illinois,IL,31%,14%,15%,10%,14%,25%
+Randolph,Midwest,Illinois,IL,30%,17%,19%,10%,14%,25%
+Richland,Midwest,Illinois,IL,31%,16%,22%,10%,14%,29%
+Rock Island,Midwest,Illinois,IL,31%,16%,25%,10%,13%,25%
+Saline,Midwest,Illinois,IL,32%,18%,32%,11%,16%,26%
+Sangamon,Midwest,Illinois,IL,30%,16%,23%,10%,14%,25%
+Schuyler,Midwest,Illinois,IL,31%,16%,17%,10%,12%,26%
+Scott,Midwest,Illinois,IL,31%,16%,18%,10%,14%,26%
+Shelby,Midwest,Illinois,IL,32%,15%,18%,10%,13%,31%
+St. Clair,Midwest,Illinois,IL,32%,17%,27%,12%,17%,28%
+Stark,Midwest,Illinois,IL,32%,14%,16%,10%,13%,28%
+Stephenson,Midwest,Illinois,IL,29%,16%,22%,12%,16%,26%
+Tazewell,Midwest,Illinois,IL,29%,15%,13%,9%,12%,26%
+Union,Midwest,Illinois,IL,31%,17%,25%,11%,16%,26%
+Vermilion,Midwest,Illinois,IL,37%,18%,28%,11%,17%,27%
+Wabash,Midwest,Illinois,IL,33%,16%,21%,10%,12%,28%
+Warren,Midwest,Illinois,IL,34%,17%,19%,10%,13%,29%
+Washington,Midwest,Illinois,IL,31%,15%,13%,9%,11%,27%
+Wayne,Midwest,Illinois,IL,31%,17%,23%,10%,13%,28%
+White,Midwest,Illinois,IL,31%,15%,22%,10%,13%,25%
+Whiteside,Midwest,Illinois,IL,27%,16%,18%,10%,12%,26%
+Will,Midwest,Illinois,IL,28%,15%,12%,9%,10%,24%
+Williamson,Midwest,Illinois,IL,32%,17%,23%,10%,14%,27%
+Winnebago,Midwest,Illinois,IL,32%,17%,25%,11%,16%,26%
+Woodford,Midwest,Illinois,IL,32%,15%,9%,9%,11%,22%
+Adair,Midwest,Iowa,IA,31%,15%,16%,10%,11%,30%
+Adams,Midwest,Iowa,IA,32%,16%,19%,10%,12%,28%
+Allamakee,Midwest,Iowa,IA,30%,16%,19%,11%,12%,25%
+Appanoose,Midwest,Iowa,IA,32%,17%,25%,11%,14%,34%
+Audubon,Midwest,Iowa,IA,33%,16%,17%,11%,12%,28%
+Benton,Midwest,Iowa,IA,33%,17%,12%,9%,11%,28%
+Black Hawk,Midwest,Iowa,IA,29%,17%,17%,9%,15%,24%
+Boone,Midwest,Iowa,IA,32%,18%,13%,9%,11%,26%
+Bremer,Midwest,Iowa,IA,32%,15%,7%,9%,10%,25%
+Buchanan,Midwest,Iowa,IA,33%,16%,16%,9%,12%,27%
+Buena Vista,Midwest,Iowa,IA,31%,16%,18%,10%,10%,25%
+Butler,Midwest,Iowa,IA,33%,15%,13%,10%,11%,29%
+Calhoun,Midwest,Iowa,IA,33%,18%,17%,11%,12%,25%
+Carroll,Midwest,Iowa,IA,30%,16%,12%,9%,11%,25%
+Cass,Midwest,Iowa,IA,32%,17%,19%,11%,13%,26%
+Cedar,Midwest,Iowa,IA,33%,16%,10%,10%,11%,32%
+Cerro Gordo,Midwest,Iowa,IA,31%,17%,15%,10%,13%,28%
+Cherokee,Midwest,Iowa,IA,36%,15%,14%,10%,12%,30%
+Chickasaw,Midwest,Iowa,IA,31%,18%,14%,10%,12%,24%
+Clarke,Midwest,Iowa,IA,30%,19%,21%,11%,12%,28%
+Clay,Midwest,Iowa,IA,31%,15%,16%,10%,12%,25%
+Clayton,Midwest,Iowa,IA,35%,16%,17%,10%,13%,29%
+Clinton,Midwest,Iowa,IA,31%,18%,18%,10%,13%,28%
+Crawford,Midwest,Iowa,IA,33%,17%,16%,11%,9%,31%
+Dallas,Midwest,Iowa,IA,31%,16%,7%,7%,9%,27%
+Davis,Midwest,Iowa,IA,31%,20%,25%,11%,14%,31%
+Decatur,Midwest,Iowa,IA,31%,19%,27%,10%,14%,25%
+Delaware,Midwest,Iowa,IA,32%,16%,12%,10%,11%,29%
+Des Moines,Midwest,Iowa,IA,32%,19%,24%,11%,14%,27%
+Dickinson,Midwest,Iowa,IA,33%,15%,10%,10%,12%,25%
+Dubuque,Midwest,Iowa,IA,28%,16%,14%,9%,12%,23%
+Emmet,Midwest,Iowa,IA,35%,16%,17%,10%,11%,30%
+Fayette,Midwest,Iowa,IA,39%,17%,18%,10%,12%,29%
+Floyd,Midwest,Iowa,IA,33%,18%,18%,11%,13%,29%
+Franklin,Midwest,Iowa,IA,33%,17%,19%,11%,11%,26%
+Fremont,Midwest,Iowa,IA,33%,17%,17%,10%,11%,28%
+Greene,Midwest,Iowa,IA,29%,17%,18%,11%,12%,30%
+Grundy,Midwest,Iowa,IA,29%,15%,9%,9%,10%,27%
+Guthrie,Midwest,Iowa,IA,35%,16%,15%,10%,12%,31%
+Hamilton,Midwest,Iowa,IA,30%,16%,16%,10%,13%,28%
+Hancock,Midwest,Iowa,IA,33%,15%,13%,10%,11%,26%
+Hardin,Midwest,Iowa,IA,33%,15%,19%,10%,12%,28%
+Harrison,Midwest,Iowa,IA,32%,17%,15%,10%,11%,28%
+Henry,Midwest,Iowa,IA,33%,17%,18%,10%,14%,28%
+Howard,Midwest,Iowa,IA,32%,17%,17%,10%,12%,29%
+Humboldt,Midwest,Iowa,IA,33%,17%,15%,10%,11%,27%
+Ida,Midwest,Iowa,IA,31%,17%,15%,11%,13%,29%
+Iowa,Midwest,Iowa,IA,30%,16%,9%,9%,11%,23%
+Jackson,Midwest,Iowa,IA,33%,17%,17%,10%,12%,27%
+Jasper,Midwest,Iowa,IA,34%,17%,14%,10%,13%,30%
+Jefferson,Midwest,Iowa,IA,28%,17%,21%,10%,13%,23%
+Johnson,Midwest,Iowa,IA,23%,17%,11%,7%,14%,16%
+Jones,Midwest,Iowa,IA,32%,16%,14%,10%,12%,24%
+Keokuk,Midwest,Iowa,IA,29%,17%,18%,10%,12%,30%
+Kossuth,Midwest,Iowa,IA,31%,15%,13%,10%,10%,27%
+Lee,Midwest,Iowa,IA,32%,18%,24%,10%,15%,28%
+Linn,Midwest,Iowa,IA,30%,16%,12%,9%,12%,22%
+Louisa,Midwest,Iowa,IA,35%,17%,15%,10%,10%,29%
+Lucas,Midwest,Iowa,IA,32%,17%,25%,11%,13%,30%
+Lyon,Midwest,Iowa,IA,30%,15%,10%,9%,10%,27%
+Madison,Midwest,Iowa,IA,34%,17%,10%,9%,12%,26%
+Mahaska,Midwest,Iowa,IA,31%,19%,16%,9%,14%,26%
+Marion,Midwest,Iowa,IA,31%,16%,13%,9%,12%,23%
+Marshall,Midwest,Iowa,IA,33%,17%,18%,10%,11%,27%
+Mills,Midwest,Iowa,IA,34%,17%,13%,10%,10%,31%
+Mitchell,Midwest,Iowa,IA,31%,15%,17%,10%,11%,25%
+Monona,Midwest,Iowa,IA,30%,17%,19%,11%,13%,29%
+Monroe,Midwest,Iowa,IA,33%,17%,18%,10%,13%,32%
+Montgomery,Midwest,Iowa,IA,34%,19%,30%,11%,13%,30%
+Muscatine,Midwest,Iowa,IA,35%,18%,17%,10%,11%,27%
+O'Brien,Midwest,Iowa,IA,31%,16%,14%,10%,11%,22%
+Osceola,Midwest,Iowa,IA,32%,16%,15%,10%,11%,30%
+Page,Midwest,Iowa,IA,33%,17%,23%,11%,13%,28%
+Palo Alto,Midwest,Iowa,IA,33%,16%,15%,10%,11%,28%
+Plymouth,Midwest,Iowa,IA,33%,16%,10%,9%,10%,25%
+Pocahontas,Midwest,Iowa,IA,31%,17%,19%,11%,12%,31%
+Polk,Midwest,Iowa,IA,29%,19%,18%,8%,12%,22%
+Pottawattamie,Midwest,Iowa,IA,37%,19%,18%,10%,12%,30%
+Poweshiek,Midwest,Iowa,IA,31%,17%,14%,9%,13%,23%
+Ringgold,Midwest,Iowa,IA,35%,17%,25%,12%,13%,30%
+Sac,Midwest,Iowa,IA,31%,15%,15%,10%,11%,26%
+Scott,Midwest,Iowa,IA,31%,18%,16%,9%,14%,23%
+Shelby,Midwest,Iowa,IA,31%,16%,12%,11%,11%,33%
+Sioux,Midwest,Iowa,IA,28%,15%,9%,8%,9%,25%
+Story,Midwest,Iowa,IA,26%,17%,10%,7%,15%,20%
+Tama,Midwest,Iowa,IA,33%,18%,18%,10%,12%,33%
+Taylor,Midwest,Iowa,IA,30%,17%,17%,11%,12%,24%
+Union,Midwest,Iowa,IA,37%,18%,19%,10%,13%,27%
+Van Buren,Midwest,Iowa,IA,32%,18%,24%,11%,13%,30%
+Wapello,Midwest,Iowa,IA,33%,21%,22%,11%,14%,32%
+Warren,Midwest,Iowa,IA,31%,15%,8%,8%,11%,29%
+Washington,Midwest,Iowa,IA,31%,15%,15%,9%,11%,27%
+Wayne,Midwest,Iowa,IA,31%,17%,25%,11%,12%,26%
+Webster,Midwest,Iowa,IA,31%,20%,20%,10%,14%,27%
+Winnebago,Midwest,Iowa,IA,32%,16%,14%,10%,12%,31%
+Winneshiek,Midwest,Iowa,IA,25%,15%,10%,8%,11%,21%
+Woodbury,Midwest,Iowa,IA,34%,20%,21%,10%,12%,27%
+Worth,Midwest,Iowa,IA,34%,17%,15%,10%,12%,31%
+Wright,Midwest,Iowa,IA,34%,16%,18%,11%,11%,30%
+Allen,Midwest,Kansas,KS,34%,17%,25%,11%,15%,30%
+Anderson,Midwest,Kansas,KS,32%,17%,21%,11%,15%,29%
+Atchison,Midwest,Kansas,KS,30%,19%,22%,10%,17%,28%
+Barber,Midwest,Kansas,KS,37%,17%,17%,11%,13%,28%
+Barton,Midwest,Kansas,KS,35%,18%,22%,11%,12%,28%
+Bourbon,Midwest,Kansas,KS,36%,19%,29%,11%,16%,28%
+Brown,Midwest,Kansas,KS,31%,19%,27%,12%,16%,32%
+Butler,Midwest,Kansas,KS,31%,17%,14%,9%,13%,26%
+Chase,Midwest,Kansas,KS,30%,16%,17%,11%,14%,29%
+Chautauqua,Midwest,Kansas,KS,33%,18%,26%,13%,15%,36%
+Cherokee,Midwest,Kansas,KS,39%,20%,27%,11%,16%,33%
+Cheyenne,Midwest,Kansas,KS,33%,14%,18%,11%,12%,34%
+Clark,Midwest,Kansas,KS,30%,18%,17%,12%,12%,28%
+Clay,Midwest,Kansas,KS,36%,15%,16%,11%,14%,28%
+Cloud,Midwest,Kansas,KS,33%,18%,19%,11%,14%,29%
+Coffey,Midwest,Kansas,KS,33%,16%,13%,10%,13%,26%
+Comanche,Midwest,Kansas,KS,34%,14%,16%,11%,12%,27%
+Cowley,Midwest,Kansas,KS,37%,20%,21%,11%,15%,30%
+Crawford,Midwest,Kansas,KS,35%,20%,25%,10%,17%,27%
+Decatur,Midwest,Kansas,KS,36%,17%,19%,13%,12%,28%
+Dickinson,Midwest,Kansas,KS,33%,18%,16%,10%,14%,30%
+Doniphan,Midwest,Kansas,KS,31%,17%,21%,10%,14%,29%
+Douglas,Midwest,Kansas,KS,23%,17%,15%,7%,17%,19%
+Edwards,Midwest,Kansas,KS,33%,16%,14%,11%,11%,29%
+Elk,Midwest,Kansas,KS,35%,17%,28%,13%,15%,27%
+Ellis,Midwest,Kansas,KS,29%,20%,12%,8%,14%,26%
+Ellsworth,Midwest,Kansas,KS,33%,17%,14%,10%,12%,33%
+Finney,Midwest,Kansas,KS,35%,18%,26%,11%,9%,22%
+Ford,Midwest,Kansas,KS,33%,19%,22%,11%,8%,31%
+Franklin,Midwest,Kansas,KS,33%,18%,19%,9%,15%,31%
+Geary,Midwest,Kansas,KS,31%,20%,20%,7%,18%,26%
+Gove,Midwest,Kansas,KS,32%,15%,15%,11%,12%,26%
+Graham,Midwest,Kansas,KS,30%,15%,18%,12%,13%,27%
+Grant,Midwest,Kansas,KS,33%,18%,17%,11%,7%,26%
+Gray,Midwest,Kansas,KS,34%,16%,11%,9%,10%,25%
+Greeley,Midwest,Kansas,KS,31%,15%,15%,11%,9%,27%
+Greenwood,Midwest,Kansas,KS,32%,19%,25%,13%,15%,29%
+Hamilton,Midwest,Kansas,KS,38%,19%,18%,11%,9%,22%
+Harper,Midwest,Kansas,KS,34%,18%,21%,11%,14%,35%
+Harvey,Midwest,Kansas,KS,32%,16%,19%,10%,13%,27%
+Haskell,Midwest,Kansas,KS,34%,17%,15%,10%,9%,28%
+Hodgeman,Midwest,Kansas,KS,31%,15%,10%,11%,10%,27%
+Jackson,Midwest,Kansas,KS,35%,16%,15%,10%,13%,30%
+Jefferson,Midwest,Kansas,KS,31%,16%,13%,9%,12%,23%
+Jewell,Midwest,Kansas,KS,30%,16%,19%,13%,13%,30%
+Johnson,Midwest,Kansas,KS,23%,13%,8%,8%,12%,18%
+Kearny,Midwest,Kansas,KS,30%,17%,19%,10%,9%,27%
+Kingman,Midwest,Kansas,KS,32%,17%,17%,11%,14%,30%
+Kiowa,Midwest,Kansas,KS,32%,18%,14%,11%,13%,27%
+Labette,Midwest,Kansas,KS,36%,20%,27%,11%,16%,33%
+Lane,Midwest,Kansas,KS,33%,15%,18%,11%,11%,26%
+Leavenworth,Midwest,Kansas,KS,31%,18%,14%,9%,15%,26%
+Lincoln,Midwest,Kansas,KS,31%,16%,19%,12%,13%,25%
+Linn,Midwest,Kansas,KS,32%,17%,22%,11%,15%,29%
+Logan,Midwest,Kansas,KS,32%,15%,13%,10%,14%,28%
+Lyon,Midwest,Kansas,KS,34%,21%,21%,10%,16%,23%
+Marion,Midwest,Kansas,KS,33%,16%,15%,11%,13%,25%
+Marshall,Midwest,Kansas,KS,34%,17%,14%,11%,13%,26%
+McPherson,Midwest,Kansas,KS,30%,15%,11%,9%,12%,25%
+Meade,Midwest,Kansas,KS,26%,15%,16%,10%,11%,26%
+Miami,Midwest,Kansas,KS,33%,16%,12%,10%,13%,26%
+Mitchell,Midwest,Kansas,KS,32%,15%,16%,10%,13%,28%
+Montgomery,Midwest,Kansas,KS,35%,20%,25%,12%,17%,27%
+Morris,Midwest,Kansas,KS,35%,16%,20%,11%,13%,29%
+Morton,Midwest,Kansas,KS,31%,17%,16%,11%,11%,33%
+Nemaha,Midwest,Kansas,KS,31%,15%,12%,10%,13%,28%
+Neosho,Midwest,Kansas,KS,33%,19%,26%,11%,16%,29%
+Ness,Midwest,Kansas,KS,31%,16%,14%,12%,11%,27%
+Norton,Midwest,Kansas,KS,34%,17%,16%,10%,13%,26%
+Osage,Midwest,Kansas,KS,36%,17%,17%,11%,14%,29%
+Osborne,Midwest,Kansas,KS,34%,16%,21%,12%,14%,30%
+Ottawa,Midwest,Kansas,KS,37%,16%,13%,10%,12%,30%
+Pawnee,Midwest,Kansas,KS,31%,17%,17%,11%,13%,25%
+Phillips,Midwest,Kansas,KS,28%,16%,19%,11%,13%,31%
+Pottawatomie,Midwest,Kansas,KS,32%,15%,12%,9%,12%,25%
+Pratt,Midwest,Kansas,KS,33%,16%,16%,10%,13%,24%
+Rawlins,Midwest,Kansas,KS,33%,16%,17%,12%,13%,32%
+Reno,Midwest,Kansas,KS,33%,17%,21%,11%,14%,27%
+Republic,Midwest,Kansas,KS,29%,16%,18%,12%,13%,35%
+Rice,Midwest,Kansas,KS,31%,17%,20%,10%,13%,26%
+Riley,Midwest,Kansas,KS,24%,17%,17%,6%,19%,17%
+Rooks,Midwest,Kansas,KS,32%,17%,16%,11%,15%,30%
+Rush,Midwest,Kansas,KS,31%,16%,19%,12%,14%,30%
+Russell,Midwest,Kansas,KS,30%,17%,20%,12%,14%,23%
+Saline,Midwest,Kansas,KS,33%,18%,19%,10%,15%,26%
+Scott,Midwest,Kansas,KS,31%,16%,13%,11%,11%,29%
+Sedgwick,Midwest,Kansas,KS,31%,18%,19%,11%,15%,25%
+Seward,Midwest,Kansas,KS,35%,18%,22%,11%,8%,27%
+Shawnee,Midwest,Kansas,KS,32%,20%,21%,11%,16%,24%
+Sheridan,Midwest,Kansas,KS,32%,17%,16%,12%,12%,30%
+Sherman,Midwest,Kansas,KS,32%,18%,23%,11%,15%,30%
+Smith,Midwest,Kansas,KS,33%,17%,18%,12%,13%,27%
+Stafford,Midwest,Kansas,KS,33%,17%,20%,12%,12%,33%
+Stanton,Midwest,Kansas,KS,30%,17%,17%,12%,6%,32%
+Stevens,Midwest,Kansas,KS,34%,16%,14%,10%,9%,29%
+Sumner,Midwest,Kansas,KS,34%,16%,19%,10%,14%,30%
+Thomas,Midwest,Kansas,KS,32%,16%,13%,8%,13%,26%
+Trego,Midwest,Kansas,KS,30%,15%,12%,11%,12%,27%
+Wabaunsee,Midwest,Kansas,KS,32%,15%,14%,10%,12%,26%
+Wallace,Midwest,Kansas,KS,33%,15%,13%,11%,11%,26%
+Washington,Midwest,Kansas,KS,32%,15%,15%,11%,12%,31%
+Wichita,Midwest,Kansas,KS,31%,17%,15%,12%,9%,27%
+Wilson,Midwest,Kansas,KS,31%,19%,26%,12%,16%,27%
+Woodson,Midwest,Kansas,KS,30%,19%,26%,12%,16%,29%
+Wyandotte,Midwest,Kansas,KS,38%,23%,35%,13%,18%,33%
+Aitkin,Midwest,Minnesota,MN,27%,16%,24%,12%,11%,29%
+Anoka,Midwest,Minnesota,MN,30%,16%,11%,8%,9%,19%
+Becker,Midwest,Minnesota,MN,29%,17%,19%,10%,11%,25%
+Beltrami,Midwest,Minnesota,MN,29%,19%,25%,10%,14%,23%
+Benton,Midwest,Minnesota,MN,28%,18%,15%,8%,12%,22%
+Big Stone,Midwest,Minnesota,MN,30%,15%,17%,10%,10%,22%
+Blue Earth,Midwest,Minnesota,MN,28%,18%,17%,7%,12%,19%
+Brown,Midwest,Minnesota,MN,28%,15%,12%,9%,10%,21%
+Carlton,Midwest,Minnesota,MN,28%,19%,14%,9%,11%,20%
+Carver,Midwest,Minnesota,MN,24%,13%,6%,6%,7%,16%
+Cass,Midwest,Minnesota,MN,27%,18%,26%,11%,12%,24%
+Chippewa,Midwest,Minnesota,MN,30%,16%,18%,9%,10%,33%
+Chisago,Midwest,Minnesota,MN,30%,16%,7%,7%,9%,23%
+Clay,Midwest,Minnesota,MN,28%,16%,15%,7%,10%,23%
+Clearwater,Midwest,Minnesota,MN,30%,19%,27%,11%,14%,24%
+Cook,Midwest,Minnesota,MN,26%,17%,16%,11%,10%,20%
+Cottonwood,Midwest,Minnesota,MN,30%,16%,19%,10%,10%,32%
+Crow Wing,Midwest,Minnesota,MN,29%,17%,16%,10%,12%,21%
+Dakota,Midwest,Minnesota,MN,26%,14%,10%,7%,9%,17%
+Dodge,Midwest,Minnesota,MN,29%,15%,10%,8%,8%,18%
+Douglas,Midwest,Minnesota,MN,26%,15%,13%,9%,10%,22%
+Faribault,Midwest,Minnesota,MN,27%,15%,21%,10%,10%,26%
+Fillmore,Midwest,Minnesota,MN,26%,16%,17%,9%,10%,21%
+Freeborn,Midwest,Minnesota,MN,31%,16%,18%,9%,9%,27%
+Goodhue,Midwest,Minnesota,MN,31%,17%,12%,9%,10%,22%
+Grant,Midwest,Minnesota,MN,30%,15%,17%,10%,10%,27%
+Hennepin,Midwest,Minnesota,MN,23%,14%,17%,7%,12%,17%
+Houston,Midwest,Minnesota,MN,26%,16%,11%,9%,10%,25%
+Hubbard,Midwest,Minnesota,MN,28%,17%,19%,10%,11%,23%
+Isanti,Midwest,Minnesota,MN,28%,17%,12%,8%,10%,20%
+Itasca,Midwest,Minnesota,MN,31%,18%,22%,10%,11%,23%
+Jackson,Midwest,Minnesota,MN,31%,15%,15%,9%,9%,20%
+Kanabec,Midwest,Minnesota,MN,27%,18%,21%,10%,12%,23%
+Kandiyohi,Midwest,Minnesota,MN,27%,16%,19%,9%,10%,23%
+Kittson,Midwest,Minnesota,MN,29%,16%,14%,10%,10%,29%
+Koochiching,Midwest,Minnesota,MN,25%,17%,23%,10%,13%,27%
+Lac qui Parle,Midwest,Minnesota,MN,29%,14%,14%,10%,9%,27%
+Lake,Midwest,Minnesota,MN,28%,15%,15%,10%,11%,20%
+Lake of the Woods,Midwest,Minnesota,MN,29%,16%,19%,10%,9%,26%
+Le Sueur,Midwest,Minnesota,MN,33%,15%,11%,8%,9%,19%
+Lincoln,Midwest,Minnesota,MN,29%,15%,13%,10%,9%,25%
+Lyon,Midwest,Minnesota,MN,29%,15%,16%,8%,11%,17%
+Mahnomen,Midwest,Minnesota,MN,29%,25%,33%,14%,14%,29%
+Marshall,Midwest,Minnesota,MN,30%,14%,13%,9%,10%,25%
+Martin,Midwest,Minnesota,MN,33%,15%,20%,10%,10%,29%
+McLeod,Midwest,Minnesota,MN,34%,15%,11%,8%,10%,21%
+Meeker,Midwest,Minnesota,MN,28%,16%,13%,9%,10%,25%
+Mille Lacs,Midwest,Minnesota,MN,33%,19%,17%,9%,13%,26%
+Morrison,Midwest,Minnesota,MN,29%,17%,16%,9%,11%,23%
+Mower,Midwest,Minnesota,MN,30%,17%,16%,9%,10%,26%
+Murray,Midwest,Minnesota,MN,30%,15%,13%,10%,9%,23%
+Nicollet,Midwest,Minnesota,MN,30%,16%,11%,7%,9%,17%
+Nobles,Midwest,Minnesota,MN,29%,17%,18%,9%,8%,28%
+Norman,Midwest,Minnesota,MN,31%,17%,19%,10%,10%,31%
+Olmsted,Midwest,Minnesota,MN,24%,13%,13%,7%,9%,20%
+Otter Tail,Midwest,Minnesota,MN,27%,15%,16%,10%,10%,22%
+Pennington,Midwest,Minnesota,MN,27%,16%,13%,8%,11%,22%
+Pine,Midwest,Minnesota,MN,31%,19%,25%,10%,12%,26%
+Pipestone,Midwest,Minnesota,MN,28%,16%,18%,10%,10%,25%
+Polk,Midwest,Minnesota,MN,31%,18%,16%,9%,10%,25%
+Pope,Midwest,Minnesota,MN,30%,15%,13%,9%,9%,28%
+Ramsey,Midwest,Minnesota,MN,25%,16%,24%,8%,13%,18%
+Red Lake,Midwest,Minnesota,MN,31%,16%,12%,9%,11%,24%
+Redwood,Midwest,Minnesota,MN,33%,17%,18%,10%,10%,24%
+Renville,Midwest,Minnesota,MN,31%,15%,17%,9%,10%,23%
+Rice,Midwest,Minnesota,MN,27%,16%,16%,8%,10%,22%
+Rock,Midwest,Minnesota,MN,28%,15%,12%,9%,10%,22%
+Roseau,Midwest,Minnesota,MN,33%,16%,12%,8%,9%,26%
+Scott,Midwest,Minnesota,MN,25%,14%,7%,6%,7%,17%
+Sherburne,Midwest,Minnesota,MN,27%,16%,9%,7%,9%,22%
+Sibley,Midwest,Minnesota,MN,31%,15%,14%,9%,9%,28%
+St. Louis,Midwest,Minnesota,MN,26%,19%,20%,9%,13%,19%
+Stearns,Midwest,Minnesota,MN,27%,15%,14%,7%,11%,21%
+Steele,Midwest,Minnesota,MN,28%,16%,17%,8%,9%,19%
+Stevens,Midwest,Minnesota,MN,29%,17%,12%,8%,10%,22%
+Swift,Midwest,Minnesota,MN,28%,16%,15%,9%,10%,28%
+Todd,Midwest,Minnesota,MN,29%,17%,25%,10%,10%,26%
+Traverse,Midwest,Minnesota,MN,30%,16%,19%,10%,9%,26%
+Wabasha,Midwest,Minnesota,MN,30%,14%,11%,8%,9%,19%
+Wadena,Midwest,Minnesota,MN,28%,17%,22%,10%,13%,21%
+Waseca,Midwest,Minnesota,MN,30%,16%,14%,8%,10%,23%
+Washington,Midwest,Minnesota,MN,26%,13%,7%,7%,8%,18%
+Watonwan,Midwest,Minnesota,MN,30%,15%,16%,9%,8%,25%
+Wilkin,Midwest,Minnesota,MN,30%,16%,13%,9%,9%,26%
+Winona,Midwest,Minnesota,MN,27%,17%,15%,8%,11%,21%
+Wright,Midwest,Minnesota,MN,28%,16%,7%,7%,8%,19%
+Yellow Medicine,Midwest,Minnesota,MN,28%,15%,15%,9%,10%,22%
+Adair,Midwest,Missouri,MO,30%,24%,23%,9%,18%,28%
+Andrew,Midwest,Missouri,MO,28%,18%,13%,10%,13%,32%
+Atchison,Midwest,Missouri,MO,31%,18%,17%,11%,14%,34%
+Audrain,Midwest,Missouri,MO,35%,21%,28%,11%,16%,27%
+Barry,Midwest,Missouri,MO,32%,21%,33%,12%,15%,31%
+Barton,Midwest,Missouri,MO,32%,23%,28%,12%,16%,31%
+Bates,Midwest,Missouri,MO,35%,21%,26%,12%,16%,32%
+Benton,Midwest,Missouri,MO,32%,20%,31%,14%,16%,32%
+Bollinger,Midwest,Missouri,MO,36%,22%,29%,11%,16%,34%
+Boone,Midwest,Missouri,MO,27%,20%,18%,8%,17%,20%
+Buchanan,Midwest,Missouri,MO,35%,22%,27%,10%,16%,28%
+Butler,Midwest,Missouri,MO,37%,23%,32%,12%,18%,29%
+Caldwell,Midwest,Missouri,MO,39%,20%,22%,11%,16%,32%
+Callaway,Midwest,Missouri,MO,34%,19%,20%,9%,14%,31%
+Camden,Midwest,Missouri,MO,28%,20%,27%,13%,16%,24%
+Cape Girardeau,Midwest,Missouri,MO,33%,20%,21%,10%,16%,30%
+Carroll,Midwest,Missouri,MO,34%,20%,24%,11%,14%,30%
+Carter,Midwest,Missouri,MO,33%,24%,35%,12%,17%,31%
+Cass,Midwest,Missouri,MO,31%,18%,14%,9%,13%,28%
+Cedar,Midwest,Missouri,MO,34%,22%,33%,14%,17%,32%
+Chariton,Midwest,Missouri,MO,32%,20%,20%,12%,15%,31%
+Christian,Midwest,Missouri,MO,30%,20%,17%,9%,13%,24%
+Clark,Midwest,Missouri,MO,33%,20%,24%,11%,16%,31%
+Clay,Midwest,Missouri,MO,29%,19%,12%,9%,14%,24%
+Clinton,Midwest,Missouri,MO,35%,19%,17%,10%,15%,27%
+Cole,Midwest,Missouri,MO,30%,20%,18%,10%,15%,23%
+Cooper,Midwest,Missouri,MO,35%,22%,20%,10%,16%,26%
+Crawford,Midwest,Missouri,MO,33%,24%,30%,12%,17%,28%
+Dade,Midwest,Missouri,MO,37%,22%,27%,13%,16%,33%
+Dallas,Midwest,Missouri,MO,33%,23%,33%,13%,16%,29%
+Daviess,Midwest,Missouri,MO,36%,22%,28%,11%,15%,30%
+DeKalb,Midwest,Missouri,MO,39%,20%,20%,10%,16%,33%
+Dent,Midwest,Missouri,MO,35%,22%,32%,12%,17%,34%
+Douglas,Midwest,Missouri,MO,32%,23%,35%,13%,17%,33%
+Dunklin,Midwest,Missouri,MO,33%,24%,42%,13%,20%,33%
+Franklin,Midwest,Missouri,MO,33%,21%,16%,10%,15%,32%
+Gasconade,Midwest,Missouri,MO,33%,19%,20%,11%,15%,33%
+Gentry,Midwest,Missouri,MO,32%,20%,22%,11%,15%,29%
+Greene,Midwest,Missouri,MO,29%,20%,24%,10%,17%,22%
+Grundy,Midwest,Missouri,MO,34%,21%,27%,12%,15%,31%
+Harrison,Midwest,Missouri,MO,33%,20%,27%,12%,15%,30%
+Henry,Midwest,Missouri,MO,32%,21%,26%,12%,16%,30%
+Hickory,Midwest,Missouri,MO,31%,21%,40%,15%,18%,31%
+Holt,Midwest,Missouri,MO,31%,19%,22%,11%,14%,30%
+Howard,Midwest,Missouri,MO,34%,21%,23%,10%,16%,28%
+Howell,Midwest,Missouri,MO,32%,21%,31%,12%,17%,30%
+Iron,Midwest,Missouri,MO,34%,24%,33%,12%,18%,32%
+Jackson,Midwest,Missouri,MO,30%,21%,24%,11%,18%,24%
+Jasper,Midwest,Missouri,MO,33%,24%,25%,10%,16%,27%
+Jefferson,Midwest,Missouri,MO,31%,21%,15%,9%,14%,31%
+Johnson,Midwest,Missouri,MO,29%,21%,17%,8%,17%,26%
+Knox,Midwest,Missouri,MO,32%,22%,34%,12%,17%,25%
+Laclede,Midwest,Missouri,MO,32%,23%,26%,11%,18%,32%
+Lafayette,Midwest,Missouri,MO,31%,19%,20%,10%,14%,32%
+Lawrence,Midwest,Missouri,MO,30%,21%,27%,11%,15%,25%
+Lewis,Midwest,Missouri,MO,36%,21%,23%,10%,15%,35%
+Lincoln,Midwest,Missouri,MO,33%,21%,21%,9%,15%,30%
+Linn,Midwest,Missouri,MO,30%,21%,30%,12%,16%,30%
+Livingston,Midwest,Missouri,MO,28%,20%,24%,10%,16%,29%
+Macon,Midwest,Missouri,MO,31%,20%,26%,12%,15%,32%
+Madison,Midwest,Missouri,MO,36%,22%,30%,12%,16%,33%
+Maries,Midwest,Missouri,MO,33%,20%,24%,11%,15%,31%
+Marion,Midwest,Missouri,MO,36%,22%,26%,11%,16%,30%
+McDonald,Midwest,Missouri,MO,29%,24%,32%,12%,16%,34%
+Mercer,Midwest,Missouri,MO,36%,20%,22%,12%,15%,27%
+Miller,Midwest,Missouri,MO,35%,23%,27%,12%,17%,29%
+Mississippi,Midwest,Missouri,MO,33%,27%,40%,14%,22%,36%
+Moniteau,Midwest,Missouri,MO,30%,20%,20%,9%,14%,26%
+Monroe,Midwest,Missouri,MO,31%,20%,25%,12%,16%,30%
+Montgomery,Midwest,Missouri,MO,33%,21%,25%,12%,16%,30%
+Morgan,Midwest,Missouri,MO,27%,22%,32%,13%,17%,27%
+New Madrid,Midwest,Missouri,MO,34%,24%,33%,13%,19%,38%
+Newton,Midwest,Missouri,MO,32%,21%,20%,11%,14%,28%
+Nodaway,Midwest,Missouri,MO,28%,22%,17%,9%,19%,30%
+Oregon,Midwest,Missouri,MO,34%,24%,38%,14%,18%,30%
+Osage,Midwest,Missouri,MO,33%,18%,13%,9%,12%,26%
+Ozark,Midwest,Missouri,MO,33%,22%,35%,14%,16%,34%
+Pemiscot,Midwest,Missouri,MO,34%,26%,40%,14%,23%,30%
+Perry,Midwest,Missouri,MO,32%,19%,16%,10%,13%,26%
+Pettis,Midwest,Missouri,MO,35%,23%,26%,11%,16%,31%
+Phelps,Midwest,Missouri,MO,30%,21%,26%,10%,17%,31%
+Pike,Midwest,Missouri,MO,31%,22%,27%,11%,16%,30%
+Platte,Midwest,Missouri,MO,31%,18%,9%,9%,14%,22%
+Polk,Midwest,Missouri,MO,32%,21%,28%,11%,17%,29%
+Pulaski,Midwest,Missouri,MO,33%,21%,19%,7%,17%,29%
+Putnam,Midwest,Missouri,MO,32%,20%,28%,12%,16%,35%
+Ralls,Midwest,Missouri,MO,35%,19%,17%,11%,13%,29%
+Randolph,Midwest,Missouri,MO,33%,23%,26%,11%,17%,27%
+Ray,Midwest,Missouri,MO,35%,19%,20%,10%,15%,33%
+Reynolds,Midwest,Missouri,MO,33%,22%,34%,13%,18%,35%
+Ripley,Midwest,Missouri,MO,34%,24%,37%,13%,18%,31%
+Saline,Midwest,Missouri,MO,38%,23%,23%,11%,16%,29%
+Schuyler,Midwest,Missouri,MO,32%,22%,30%,12%,18%,30%
+Scotland,Midwest,Missouri,MO,35%,21%,25%,11%,14%,31%
+Scott,Midwest,Missouri,MO,36%,23%,31%,12%,17%,34%
+Shannon,Midwest,Missouri,MO,33%,23%,48%,12%,18%,29%
+Shelby,Midwest,Missouri,MO,33%,21%,24%,12%,16%,28%
+St. Charles,Midwest,Missouri,MO,28%,16%,9%,8%,12%,21%
+St. Clair,Midwest,Missouri,MO,31%,20%,34%,13%,17%,34%
+St. Francois,Midwest,Missouri,MO,34%,23%,26%,11%,18%,32%
+St. Louis,Midwest,Missouri,MO,28%,17%,14%,11%,16%,23%
+St. Louis City,Midwest,Missouri,MO,32%,26%,43%,13%,26%,25%
+Ste. Genevieve,Midwest,Missouri,MO,29%,20%,19%,10%,14%,29%
+Stoddard,Midwest,Missouri,MO,34%,20%,26%,11%,16%,32%
+Stone,Midwest,Missouri,MO,32%,20%,28%,13%,16%,28%
+Sullivan,Midwest,Missouri,MO,34%,22%,25%,12%,13%,32%
+Taney,Midwest,Missouri,MO,31%,23%,29%,12%,18%,31%
+Texas,Midwest,Missouri,MO,31%,24%,33%,12%,17%,34%
+Vernon,Midwest,Missouri,MO,31%,22%,27%,11%,16%,27%
+Warren,Midwest,Missouri,MO,29%,19%,19%,10%,14%,31%
+Washington,Midwest,Missouri,MO,37%,25%,39%,12%,18%,33%
+Wayne,Midwest,Missouri,MO,35%,24%,41%,13%,17%,35%
+Webster,Midwest,Missouri,MO,33%,21%,28%,11%,16%,27%
+Worth,Midwest,Missouri,MO,31%,19%,21%,12%,14%,30%
+Wright,Midwest,Missouri,MO,36%,25%,34%,13%,18%,31%
+Adams,Midwest,Nebraska,NE,30%,17%,16%,9%,12%,25%
+Antelope,Midwest,Nebraska,NE,27%,15%,19%,11%,12%,28%
+Arthur,Midwest,Nebraska,NE,30%,15%,16%,10%,15%,29%
+Banner,Midwest,Nebraska,NE,33%,15%,24%,12%,14%,33%
+Blaine,Midwest,Nebraska,NE,28%,16%,22%,10%,16%,27%
+Boone,Midwest,Nebraska,NE,28%,14%,13%,10%,12%,29%
+Box Butte,Midwest,Nebraska,NE,32%,18%,17%,11%,15%,28%
+Boyd,Midwest,Nebraska,NE,33%,15%,20%,13%,12%,30%
+Brown,Midwest,Nebraska,NE,31%,15%,18%,11%,14%,31%
+Buffalo,Midwest,Nebraska,NE,30%,15%,15%,7%,13%,24%
+Burt,Midwest,Nebraska,NE,33%,18%,16%,11%,13%,35%
+Butler,Midwest,Nebraska,NE,28%,16%,12%,10%,12%,24%
+Cass,Midwest,Nebraska,NE,34%,18%,10%,8%,11%,25%
+Cedar,Midwest,Nebraska,NE,28%,14%,14%,10%,11%,29%
+Chase,Midwest,Nebraska,NE,27%,14%,11%,10%,11%,27%
+Cherry,Midwest,Nebraska,NE,26%,16%,22%,10%,13%,31%
+Cheyenne,Midwest,Nebraska,NE,28%,17%,12%,9%,13%,26%
+Clay,Midwest,Nebraska,NE,32%,15%,16%,10%,11%,28%
+Colfax,Midwest,Nebraska,NE,31%,15%,15%,10%,7%,27%
+Cuming,Midwest,Nebraska,NE,29%,14%,12%,10%,12%,25%
+Custer,Midwest,Nebraska,NE,34%,15%,19%,10%,12%,29%
+Dakota,Midwest,Nebraska,NE,34%,18%,22%,10%,12%,29%
+Dawes,Midwest,Nebraska,NE,28%,17%,22%,9%,15%,28%
+Dawson,Midwest,Nebraska,NE,33%,17%,20%,10%,10%,25%
+Deuel,Midwest,Nebraska,NE,27%,16%,19%,11%,12%,27%
+Dixon,Midwest,Nebraska,NE,31%,15%,16%,11%,11%,32%
+Dodge,Midwest,Nebraska,NE,31%,18%,17%,10%,12%,25%
+Douglas,Midwest,Nebraska,NE,28%,17%,18%,9%,14%,22%
+Dundy,Midwest,Nebraska,NE,34%,16%,21%,11%,12%,29%
+Fillmore,Midwest,Nebraska,NE,31%,15%,14%,10%,11%,29%
+Franklin,Midwest,Nebraska,NE,36%,16%,19%,11%,12%,32%
+Frontier,Midwest,Nebraska,NE,35%,16%,18%,10%,12%,28%
+Furnas,Midwest,Nebraska,NE,33%,16%,19%,11%,14%,28%
+Gage,Midwest,Nebraska,NE,35%,17%,16%,10%,13%,30%
+Garden,Midwest,Nebraska,NE,31%,15%,24%,11%,11%,30%
+Garfield,Midwest,Nebraska,NE,28%,15%,15%,11%,13%,28%
+Gosper,Midwest,Nebraska,NE,34%,16%,15%,10%,12%,26%
+Grant,Midwest,Nebraska,NE,29%,17%,17%,11%,14%,32%
+Greeley,Midwest,Nebraska,NE,33%,15%,19%,11%,12%,35%
+Hall,Midwest,Nebraska,NE,33%,17%,19%,10%,11%,28%
+Hamilton,Midwest,Nebraska,NE,30%,15%,10%,9%,11%,23%
+Harlan,Midwest,Nebraska,NE,31%,15%,17%,11%,12%,27%
+Hayes,Midwest,Nebraska,NE,30%,15%,18%,11%,12%,32%
+Hitchcock,Midwest,Nebraska,NE,34%,17%,21%,12%,14%,28%
+Holt,Midwest,Nebraska,NE,32%,15%,17%,10%,12%,31%
+Hooker,Midwest,Nebraska,NE,27%,15%,14%,12%,12%,27%
+Howard,Midwest,Nebraska,NE,31%,16%,15%,9%,12%,32%
+Jefferson,Midwest,Nebraska,NE,35%,16%,17%,10%,12%,32%
+Johnson,Midwest,Nebraska,NE,30%,19%,17%,10%,13%,29%
+Kearney,Midwest,Nebraska,NE,32%,16%,13%,9%,10%,26%
+Keith,Midwest,Nebraska,NE,28%,17%,20%,10%,12%,29%
+Keya Paha,Midwest,Nebraska,NE,28%,15%,31%,12%,14%,35%
+Kimball,Midwest,Nebraska,NE,32%,17%,18%,11%,13%,30%
+Knox,Midwest,Nebraska,NE,30%,16%,22%,11%,13%,32%
+Lancaster,Midwest,Nebraska,NE,26%,16%,16%,7%,14%,19%
+Lincoln,Midwest,Nebraska,NE,33%,20%,19%,9%,12%,25%
+Logan,Midwest,Nebraska,NE,29%,16%,13%,10%,12%,30%
+Loup,Midwest,Nebraska,NE,30%,17%,24%,12%,15%,33%
+Madison,Midwest,Nebraska,NE,32%,18%,18%,9%,12%,25%
+McPherson,Midwest,Nebraska,NE,31%,15%,27%,10%,13%,32%
+Merrick,Midwest,Nebraska,NE,34%,16%,15%,10%,12%,28%
+Morrill,Midwest,Nebraska,NE,31%,19%,20%,11%,12%,26%
+Nance,Midwest,Nebraska,NE,31%,16%,16%,10%,12%,23%
+Nemaha,Midwest,Nebraska,NE,35%,16%,17%,9%,14%,26%
+Nuckolls,Midwest,Nebraska,NE,31%,14%,19%,11%,12%,31%
+Otoe,Midwest,Nebraska,NE,34%,15%,13%,10%,12%,30%
+Pawnee,Midwest,Nebraska,NE,32%,15%,22%,12%,14%,31%
+Perkins,Midwest,Nebraska,NE,26%,14%,15%,9%,10%,24%
+Phelps,Midwest,Nebraska,NE,35%,15%,13%,9%,11%,27%
+Pierce,Midwest,Nebraska,NE,35%,15%,13%,9%,11%,30%
+Platte,Midwest,Nebraska,NE,30%,16%,11%,9%,11%,25%
+Polk,Midwest,Nebraska,NE,30%,15%,12%,10%,11%,30%
+Red Willow,Midwest,Nebraska,NE,30%,17%,17%,9%,13%,24%
+Richardson,Midwest,Nebraska,NE,36%,17%,21%,11%,14%,33%
+Rock,Midwest,Nebraska,NE,32%,16%,22%,11%,11%,33%
+Saline,Midwest,Nebraska,NE,33%,17%,13%,9%,12%,31%
+Sarpy,Midwest,Nebraska,NE,29%,15%,7%,7%,11%,20%
+Saunders,Midwest,Nebraska,NE,27%,16%,11%,9%,11%,27%
+Scotts Bluff,Midwest,Nebraska,NE,34%,19%,22%,11%,11%,25%
+Seward,Midwest,Nebraska,NE,29%,14%,9%,8%,12%,23%
+Sheridan,Midwest,Nebraska,NE,30%,18%,26%,12%,14%,32%
+Sherman,Midwest,Nebraska,NE,34%,15%,18%,11%,12%,30%
+Sioux,Midwest,Nebraska,NE,31%,16%,23%,10%,12%,31%
+Stanton,Midwest,Nebraska,NE,33%,17%,13%,9%,11%,25%
+Thayer,Midwest,Nebraska,NE,30%,15%,15%,11%,12%,30%
+Thomas,Midwest,Nebraska,NE,31%,15%,26%,10%,12%,31%
+Thurston,Midwest,Nebraska,NE,41%,31%,44%,14%,18%,30%
+Valley,Midwest,Nebraska,NE,31%,15%,15%,11%,13%,26%
+Washington,Midwest,Nebraska,NE,31%,14%,9%,8%,11%,22%
+Wayne,Midwest,Nebraska,NE,30%,16%,12%,7%,14%,26%
+Webster,Midwest,Nebraska,NE,32%,15%,16%,11%,13%,33%
+Wheeler,Midwest,Nebraska,NE,28%,17%,20%,11%,14%,29%
+York,Midwest,Nebraska,NE,32%,16%,15%,8%,12%,25%
+Adams,Midwest,North Dakota,ND,33%,15%,14%,10%,7%,32%
+Barnes,Midwest,North Dakota,ND,33%,16%,14%,9%,7%,25%
+Benson,Midwest,North Dakota,ND,35%,32%,41%,14%,15%,32%
+Billings,Midwest,North Dakota,ND,30%,16%,9%,8%,5%,32%
+Bottineau,Midwest,North Dakota,ND,30%,17%,12%,10%,7%,28%
+Bowman,Midwest,North Dakota,ND,30%,15%,10%,9%,5%,30%
+Burke,Midwest,North Dakota,ND,30%,19%,10%,10%,7%,31%
+Burleigh,Midwest,North Dakota,ND,29%,15%,9%,7%,6%,21%
+Cass,Midwest,North Dakota,ND,27%,16%,12%,7%,10%,21%
+Cavalier,Midwest,North Dakota,ND,31%,15%,14%,10%,5%,30%
+Dickey,Midwest,North Dakota,ND,33%,16%,16%,9%,7%,26%
+Divide,Midwest,North Dakota,ND,29%,16%,12%,10%,5%,36%
+Dunn,Midwest,North Dakota,ND,30%,20%,13%,9%,5%,36%
+Eddy,Midwest,North Dakota,ND,32%,19%,14%,12%,9%,29%
+Emmons,Midwest,North Dakota,ND,31%,16%,19%,11%,9%,37%
+Foster,Midwest,North Dakota,ND,29%,16%,10%,10%,7%,34%
+Golden Valley,Midwest,North Dakota,ND,29%,18%,15%,10%,8%,33%
+Grand Forks,Midwest,North Dakota,ND,29%,19%,17%,7%,10%,22%
+Grant,Midwest,North Dakota,ND,32%,17%,24%,11%,8%,32%
+Griggs,Midwest,North Dakota,ND,30%,14%,11%,10%,6%,30%
+Hettinger,Midwest,North Dakota,ND,31%,17%,15%,9%,7%,30%
+Kidder,Midwest,North Dakota,ND,29%,17%,18%,10%,8%,29%
+LaMoure,Midwest,North Dakota,ND,33%,16%,12%,10%,6%,29%
+Logan,Midwest,North Dakota,ND,34%,16%,18%,11%,6%,29%
+McHenry,Midwest,North Dakota,ND,29%,17%,16%,9%,8%,29%
+McIntosh,Midwest,North Dakota,ND,32%,15%,18%,11%,7%,32%
+McKenzie,Midwest,North Dakota,ND,34%,21%,12%,8%,7%,32%
+McLean,Midwest,North Dakota,ND,33%,17%,15%,11%,7%,29%
+Mercer,Midwest,North Dakota,ND,31%,18%,9%,9%,6%,26%
+Morton,Midwest,North Dakota,ND,32%,19%,12%,8%,6%,26%
+Mountrail,Midwest,North Dakota,ND,34%,22%,14%,10%,6%,34%
+Nelson,Midwest,North Dakota,ND,30%,16%,16%,11%,6%,28%
+Oliver,Midwest,North Dakota,ND,31%,16%,21%,10%,5%,28%
+Pembina,Midwest,North Dakota,ND,32%,16%,11%,10%,8%,29%
+Pierce,Midwest,North Dakota,ND,33%,17%,15%,10%,9%,28%
+Ramsey,Midwest,North Dakota,ND,31%,19%,18%,9%,9%,24%
+Ransom,Midwest,North Dakota,ND,32%,18%,12%,9%,7%,30%
+Renville,Midwest,North Dakota,ND,30%,16%,10%,9%,6%,31%
+Richland,Midwest,North Dakota,ND,33%,17%,12%,8%,8%,26%
+Rolette,Midwest,North Dakota,ND,41%,38%,41%,16%,18%,34%
+Sargent,Midwest,North Dakota,ND,32%,15%,10%,9%,6%,33%
+Sheridan,Midwest,North Dakota,ND,32%,16%,27%,11%,8%,33%
+Sioux,Midwest,North Dakota,ND,39%,40%,42%,15%,16%,31%
+Slope,Midwest,North Dakota,ND,28%,16%,7%,10%,4%,29%
+Stark,Midwest,North Dakota,ND,29%,17%,9%,7%,5%,26%
+Steele,Midwest,North Dakota,ND,31%,15%,11%,10%,5%,29%
+Stutsman,Midwest,North Dakota,ND,30%,17%,14%,8%,8%,29%
+Towner,Midwest,North Dakota,ND,31%,16%,17%,11%,7%,29%
+Traill,Midwest,North Dakota,ND,36%,17%,11%,9%,7%,26%
+Walsh,Midwest,North Dakota,ND,30%,15%,14%,10%,7%,32%
+Ward,Midwest,North Dakota,ND,30%,21%,11%,7%,8%,27%
+Wells,Midwest,North Dakota,ND,32%,16%,14%,10%,8%,33%
+Williams,Midwest,North Dakota,ND,35%,21%,9%,7%,5%,30%
+Adair,Midwest,Oklahoma,OK,38%,29%,37%,16%,19%,38%
+Alfalfa,Midwest,Oklahoma,OK,35%,19%,18%,12%,14%,40%
+Atoka,Midwest,Oklahoma,OK,36%,23%,31%,13%,18%,30%
+Beaver,Midwest,Oklahoma,OK,36%,16%,16%,11%,11%,31%
+Beckham,Midwest,Oklahoma,OK,34%,20%,19%,10%,15%,31%
+Blaine,Midwest,Oklahoma,OK,38%,18%,25%,12%,15%,36%
+Bryan,Midwest,Oklahoma,OK,35%,23%,26%,12%,17%,32%
+Caddo,Midwest,Oklahoma,OK,36%,23%,29%,13%,17%,37%
+Canadian,Midwest,Oklahoma,OK,34%,18%,10%,9%,13%,29%
+Carter,Midwest,Oklahoma,OK,32%,22%,22%,12%,16%,32%
+Cherokee,Midwest,Oklahoma,OK,35%,26%,29%,14%,18%,28%
+Choctaw,Midwest,Oklahoma,OK,34%,24%,38%,15%,20%,35%
+Cimarron,Midwest,Oklahoma,OK,31%,18%,26%,14%,14%,35%
+Cleveland,Midwest,Oklahoma,OK,30%,19%,14%,9%,15%,25%
+Coal,Midwest,Oklahoma,OK,36%,23%,26%,15%,18%,36%
+Comanche,Midwest,Oklahoma,OK,35%,22%,24%,11%,19%,30%
+Cotton,Midwest,Oklahoma,OK,36%,20%,25%,13%,15%,36%
+Craig,Midwest,Oklahoma,OK,30%,23%,26%,14%,17%,32%
+Creek,Midwest,Oklahoma,OK,36%,22%,23%,13%,16%,35%
+Custer,Midwest,Oklahoma,OK,30%,19%,19%,10%,15%,30%
+Delaware,Midwest,Oklahoma,OK,33%,24%,31%,16%,17%,33%
+Dewey,Midwest,Oklahoma,OK,34%,19%,17%,12%,14%,36%
+Ellis,Midwest,Oklahoma,OK,32%,19%,17%,12%,13%,37%
+Garfield,Midwest,Oklahoma,OK,36%,19%,19%,11%,15%,33%
+Garvin,Midwest,Oklahoma,OK,36%,21%,24%,12%,16%,35%
+Grady,Midwest,Oklahoma,OK,33%,20%,17%,11%,15%,29%
+Grant,Midwest,Oklahoma,OK,37%,16%,16%,11%,13%,41%
+Greer,Midwest,Oklahoma,OK,32%,20%,29%,11%,16%,33%
+Harmon,Midwest,Oklahoma,OK,37%,20%,34%,15%,16%,36%
+Harper,Midwest,Oklahoma,OK,35%,18%,15%,12%,12%,36%
+Haskell,Midwest,Oklahoma,OK,36%,22%,37%,14%,17%,38%
+Hughes,Midwest,Oklahoma,OK,36%,24%,29%,14%,19%,35%
+Jackson,Midwest,Oklahoma,OK,31%,19%,23%,11%,15%,34%
+Jefferson,Midwest,Oklahoma,OK,35%,21%,31%,14%,16%,34%
+Johnston,Midwest,Oklahoma,OK,39%,23%,27%,13%,18%,36%
+Kay,Midwest,Oklahoma,OK,29%,22%,26%,12%,17%,30%
+Kingfisher,Midwest,Oklahoma,OK,29%,17%,14%,10%,11%,29%
+Kiowa,Midwest,Oklahoma,OK,30%,23%,26%,15%,17%,33%
+Latimer,Midwest,Oklahoma,OK,36%,22%,27%,13%,19%,34%
+Le Flore,Midwest,Oklahoma,OK,39%,24%,31%,13%,19%,33%
+Lincoln,Midwest,Oklahoma,OK,37%,20%,20%,12%,16%,39%
+Logan,Midwest,Oklahoma,OK,32%,18%,17%,10%,15%,30%
+Love,Midwest,Oklahoma,OK,35%,18%,22%,12%,14%,33%
+Major,Midwest,Oklahoma,OK,32%,17%,16%,11%,13%,32%
+Marshall,Midwest,Oklahoma,OK,34%,20%,26%,14%,15%,38%
+Mayes,Midwest,Oklahoma,OK,35%,23%,24%,13%,17%,35%
+McClain,Midwest,Oklahoma,OK,30%,17%,14%,10%,13%,28%
+McCurtain,Midwest,Oklahoma,OK,34%,23%,29%,14%,21%,37%
+McIntosh,Midwest,Oklahoma,OK,36%,22%,33%,15%,18%,38%
+Murray,Midwest,Oklahoma,OK,38%,21%,20%,13%,15%,33%
+Muskogee,Midwest,Oklahoma,OK,35%,23%,31%,14%,19%,31%
+Noble,Midwest,Oklahoma,OK,34%,19%,18%,12%,15%,32%
+Nowata,Midwest,Oklahoma,OK,35%,22%,23%,13%,16%,30%
+Okfuskee,Midwest,Oklahoma,OK,32%,26%,29%,15%,20%,28%
+Oklahoma,Midwest,Oklahoma,OK,30%,18%,25%,11%,17%,29%
+Okmulgee,Midwest,Oklahoma,OK,37%,23%,29%,14%,19%,35%
+Osage,Midwest,Oklahoma,OK,37%,21%,24%,13%,17%,31%
+Ottawa,Midwest,Oklahoma,OK,33%,23%,33%,14%,18%,34%
+Pawnee,Midwest,Oklahoma,OK,34%,20%,23%,13%,16%,36%
+Payne,Midwest,Oklahoma,OK,30%,22%,22%,9%,20%,26%
+Pittsburg,Midwest,Oklahoma,OK,33%,22%,29%,13%,17%,36%
+Pontotoc,Midwest,Oklahoma,OK,36%,22%,21%,12%,17%,34%
+Pottawatomie,Midwest,Oklahoma,OK,36%,21%,25%,12%,17%,30%
+Pushmataha,Midwest,Oklahoma,OK,31%,22%,33%,16%,19%,33%
+Roger Mills,Midwest,Oklahoma,OK,31%,18%,17%,12%,13%,37%
+Rogers,Midwest,Oklahoma,OK,32%,18%,14%,11%,14%,30%
+Seminole,Midwest,Oklahoma,OK,36%,26%,34%,14%,19%,39%
+Sequoyah,Midwest,Oklahoma,OK,37%,24%,38%,14%,19%,34%
+Stephens,Midwest,Oklahoma,OK,33%,20%,22%,12%,15%,35%
+Texas,Midwest,Oklahoma,OK,31%,18%,19%,11%,10%,29%
+Tillman,Midwest,Oklahoma,OK,34%,21%,33%,14%,15%,36%
+Tulsa,Midwest,Oklahoma,OK,30%,18%,20%,10%,17%,29%
+Wagoner,Midwest,Oklahoma,OK,34%,18%,14%,11%,14%,31%
+Washington,Midwest,Oklahoma,OK,29%,18%,19%,12%,15%,29%
+Washita,Midwest,Oklahoma,OK,41%,19%,19%,11%,15%,34%
+Woods,Midwest,Oklahoma,OK,32%,19%,17%,10%,15%,37%
+Woodward,Midwest,Oklahoma,OK,39%,19%,16%,10%,13%,29%
+Aurora,Midwest,South Dakota,SD,31%,14%,15%,9%,9%,31%
+Beadle,Midwest,South Dakota,SD,32%,17%,22%,10%,13%,26%
+Bennett,Midwest,South Dakota,SD,37%,29%,46%,14%,19%,27%
+Bon Homme,Midwest,South Dakota,SD,33%,17%,18%,9%,12%,27%
+Brookings,Midwest,South Dakota,SD,28%,14%,12%,6%,14%,20%
+Brown,Midwest,South Dakota,SD,30%,15%,13%,8%,11%,23%
+Brule,Midwest,South Dakota,SD,35%,17%,19%,10%,12%,24%
+Buffalo,Midwest,South Dakota,SD,42%,37%,48%,15%,24%,31%
+Butte,Midwest,South Dakota,SD,27%,17%,23%,10%,11%,24%
+Campbell,Midwest,South Dakota,SD,33%,15%,10%,11%,12%,30%
+Charles Mix,Midwest,South Dakota,SD,35%,21%,31%,12%,14%,26%
+Clark,Midwest,South Dakota,SD,34%,15%,26%,10%,11%,27%
+Clay,Midwest,South Dakota,SD,29%,20%,18%,7%,16%,22%
+Codington,Midwest,South Dakota,SD,30%,17%,14%,8%,12%,23%
+Corson,Midwest,South Dakota,SD,39%,35%,45%,15%,21%,29%
+Custer,Midwest,South Dakota,SD,29%,13%,19%,10%,11%,23%
+Davison,Midwest,South Dakota,SD,35%,16%,15%,8%,12%,24%
+Day,Midwest,South Dakota,SD,32%,19%,20%,12%,15%,26%
+Deuel,Midwest,South Dakota,SD,33%,14%,13%,9%,9%,30%
+Dewey,Midwest,South Dakota,SD,40%,32%,33%,14%,22%,31%
+Douglas,Midwest,South Dakota,SD,29%,15%,14%,10%,11%,26%
+Edmunds,Midwest,South Dakota,SD,30%,14%,14%,9%,11%,26%
+Fall River,Midwest,South Dakota,SD,31%,16%,24%,12%,14%,25%
+Faulk,Midwest,South Dakota,SD,30%,16%,21%,11%,11%,31%
+Grant,Midwest,South Dakota,SD,32%,15%,14%,9%,12%,30%
+Gregory,Midwest,South Dakota,SD,33%,17%,27%,12%,13%,30%
+Haakon,Midwest,South Dakota,SD,34%,16%,15%,11%,11%,28%
+Hamlin,Midwest,South Dakota,SD,32%,15%,13%,9%,10%,24%
+Hand,Midwest,South Dakota,SD,30%,14%,12%,10%,11%,29%
+Hanson,Midwest,South Dakota,SD,28%,17%,15%,9%,11%,26%
+Harding,Midwest,South Dakota,SD,31%,16%,15%,9%,12%,28%
+Hughes,Midwest,South Dakota,SD,29%,15%,15%,8%,11%,22%
+Hutchinson,Midwest,South Dakota,SD,32%,14%,20%,10%,11%,31%
+Hyde,Midwest,South Dakota,SD,31%,14%,8%,9%,10%,29%
+Jackson,Midwest,South Dakota,SD,34%,25%,43%,13%,16%,30%
+Jerauld,Midwest,South Dakota,SD,29%,14%,19%,10%,10%,28%
+Jones,Midwest,South Dakota,SD,30%,15%,23%,10%,12%,28%
+Kingsbury,Midwest,South Dakota,SD,34%,14%,13%,9%,10%,29%
+Lake,Midwest,South Dakota,SD,29%,15%,11%,9%,12%,25%
+Lawrence,Midwest,South Dakota,SD,25%,15%,18%,8%,13%,23%
+Lincoln,Midwest,South Dakota,SD,28%,15%,5%,6%,9%,22%
+Lyman,Midwest,South Dakota,SD,33%,22%,35%,11%,14%,24%
+Marshall,Midwest,South Dakota,SD,31%,16%,19%,10%,13%,27%
+McCook,Midwest,South Dakota,SD,28%,14%,13%,9%,10%,28%
+McPherson,Midwest,South Dakota,SD,30%,15%,25%,11%,13%,28%
+Meade,Midwest,South Dakota,SD,28%,18%,15%,8%,11%,25%
+Mellette,Midwest,South Dakota,SD,32%,28%,43%,15%,18%,30%
+Miner,Midwest,South Dakota,SD,31%,15%,15%,10%,11%,27%
+Minnehaha,Midwest,South Dakota,SD,28%,17%,14%,7%,12%,23%
+Moody,Midwest,South Dakota,SD,34%,18%,15%,10%,12%,26%
+Pennington,Midwest,South Dakota,SD,28%,18%,20%,9%,12%,21%
+Perkins,Midwest,South Dakota,SD,34%,15%,19%,10%,12%,33%
+Potter,Midwest,South Dakota,SD,30%,14%,16%,11%,11%,32%
+Roberts,Midwest,South Dakota,SD,34%,21%,29%,12%,14%,25%
+Sanborn,Midwest,South Dakota,SD,30%,15%,21%,9%,11%,28%
+Shannon,Midwest,South Dakota,SD,45%,41%,54%,17%,26%,24%
+Spink,Midwest,South Dakota,SD,31%,15%,17%,9%,12%,25%
+Stanley,Midwest,South Dakota,SD,33%,15%,12%,8%,10%,27%
+Sully,Midwest,South Dakota,SD,32%,13%,7%,9%,10%,29%
+Todd,Midwest,South Dakota,SD,38%,38%,53%,16%,23%,29%
+Tripp,Midwest,South Dakota,SD,30%,18%,28%,11%,14%,26%
+Turner,Midwest,South Dakota,SD,33%,14%,12%,9%,10%,34%
+Union,Midwest,South Dakota,SD,31%,14%,9%,8%,10%,25%
+Walworth,Midwest,South Dakota,SD,29%,15%,21%,10%,13%,30%
+Yankton,Midwest,South Dakota,SD,29%,15%,17%,9%,12%,21%
+Ziebach,Midwest,South Dakota,SD,43%,36%,49%,15%,20%,28%
+Adams,Midwest,Wisconsin,WI,31%,16%,29%,12%,12%,25%
+Ashland,Midwest,Wisconsin,WI,28%,20%,24%,11%,15%,23%
+Barron,Midwest,Wisconsin,WI,33%,17%,21%,10%,13%,25%
+Bayfield,Midwest,Wisconsin,WI,28%,17%,24%,12%,13%,21%
+Brown,Midwest,Wisconsin,WI,27%,16%,17%,9%,11%,21%
+Buffalo,Midwest,Wisconsin,WI,33%,15%,15%,10%,11%,26%
+Burnett,Midwest,Wisconsin,WI,29%,18%,27%,13%,13%,26%
+Calumet,Midwest,Wisconsin,WI,29%,14%,8%,8%,9%,23%
+Chippewa,Midwest,Wisconsin,WI,29%,16%,16%,9%,12%,20%
+Clark,Midwest,Wisconsin,WI,34%,17%,24%,10%,12%,21%
+Columbia,Midwest,Wisconsin,WI,33%,16%,12%,9%,11%,23%
+Crawford,Midwest,Wisconsin,WI,29%,16%,22%,10%,13%,22%
+Dane,Midwest,Wisconsin,WI,22%,13%,14%,7%,12%,15%
+Dodge,Midwest,Wisconsin,WI,28%,17%,14%,9%,11%,23%
+Door,Midwest,Wisconsin,WI,28%,15%,17%,11%,12%,22%
+Douglas,Midwest,Wisconsin,WI,32%,19%,21%,9%,13%,25%
+Dunn,Midwest,Wisconsin,WI,30%,16%,16%,8%,13%,22%
+Eau Claire,Midwest,Wisconsin,WI,32%,17%,15%,8%,13%,21%
+Florence,Midwest,Wisconsin,WI,34%,16%,20%,12%,12%,25%
+Fond du Lac,Midwest,Wisconsin,WI,31%,15%,14%,9%,11%,24%
+Forest,Midwest,Wisconsin,WI,32%,19%,26%,12%,14%,25%
+Grant,Midwest,Wisconsin,WI,30%,17%,19%,9%,13%,23%
+Green,Midwest,Wisconsin,WI,31%,15%,12%,9%,11%,24%
+Green Lake,Midwest,Wisconsin,WI,31%,16%,20%,11%,12%,23%
+Iowa,Midwest,Wisconsin,WI,28%,15%,13%,9%,11%,22%
+Iron,Midwest,Wisconsin,WI,29%,17%,24%,12%,15%,21%
+Jackson,Midwest,Wisconsin,WI,33%,19%,21%,10%,13%,23%
+Jefferson,Midwest,Wisconsin,WI,29%,16%,14%,9%,11%,17%
+Juneau,Midwest,Wisconsin,WI,34%,18%,21%,11%,13%,29%
+Kenosha,Midwest,Wisconsin,WI,32%,17%,22%,9%,12%,23%
+Kewaunee,Midwest,Wisconsin,WI,35%,14%,12%,9%,10%,30%
+La Crosse,Midwest,Wisconsin,WI,25%,16%,12%,8%,12%,21%
+Lafayette,Midwest,Wisconsin,WI,33%,16%,19%,9%,10%,18%
+Langlade,Midwest,Wisconsin,WI,29%,16%,23%,11%,13%,23%
+Lincoln,Midwest,Wisconsin,WI,32%,16%,17%,10%,13%,23%
+Manitowoc,Midwest,Wisconsin,WI,31%,16%,15%,9%,11%,22%
+Marathon,Midwest,Wisconsin,WI,30%,16%,15%,9%,11%,25%
+Marinette,Midwest,Wisconsin,WI,33%,16%,20%,11%,13%,24%
+Marquette,Midwest,Wisconsin,WI,33%,16%,22%,11%,12%,25%
+Menominee,Midwest,Wisconsin,WI,41%,32%,44%,18%,20%,31%
+Milwaukee,Midwest,Wisconsin,WI,31%,20%,32%,11%,17%,23%
+Monroe,Midwest,Wisconsin,WI,32%,17%,23%,10%,12%,27%
+Oconto,Midwest,Wisconsin,WI,29%,16%,15%,10%,11%,25%
+Oneida,Midwest,Wisconsin,WI,30%,15%,19%,11%,12%,24%
+Outagamie,Midwest,Wisconsin,WI,32%,14%,13%,8%,11%,20%
+Ozaukee,Midwest,Wisconsin,WI,27%,13%,6%,9%,9%,21%
+Pepin,Midwest,Wisconsin,WI,32%,15%,20%,11%,11%,26%
+Pierce,Midwest,Wisconsin,WI,31%,16%,11%,8%,11%,23%
+Polk,Midwest,Wisconsin,WI,30%,16%,15%,10%,12%,21%
+Portage,Midwest,Wisconsin,WI,35%,16%,15%,8%,12%,20%
+Price,Midwest,Wisconsin,WI,32%,16%,20%,11%,12%,19%
+Racine,Midwest,Wisconsin,WI,32%,17%,19%,10%,13%,23%
+Richland,Midwest,Wisconsin,WI,33%,16%,22%,10%,11%,19%
+Rock,Midwest,Wisconsin,WI,34%,18%,24%,10%,13%,24%
+Rusk,Midwest,Wisconsin,WI,32%,18%,30%,12%,14%,28%
+Sauk,Midwest,Wisconsin,WI,30%,16%,17%,9%,11%,27%
+Sawyer,Midwest,Wisconsin,WI,28%,20%,29%,13%,15%,27%
+Shawano,Midwest,Wisconsin,WI,33%,17%,18%,11%,12%,24%
+Sheboygan,Midwest,Wisconsin,WI,28%,15%,13%,9%,11%,24%
+St. Croix,Midwest,Wisconsin,WI,28%,15%,6%,8%,9%,23%
+Taylor,Midwest,Wisconsin,WI,34%,16%,18%,10%,12%,27%
+Trempealeau,Midwest,Wisconsin,WI,31%,16%,17%,9%,10%,24%
+Vernon,Midwest,Wisconsin,WI,34%,18%,30%,10%,12%,27%
+Vilas,Midwest,Wisconsin,WI,27%,17%,24%,13%,14%,20%
+Walworth,Midwest,Wisconsin,WI,27%,17%,16%,9%,11%,26%
+Washburn,Midwest,Wisconsin,WI,29%,16%,22%,12%,12%,25%
+Washington,Midwest,Wisconsin,WI,30%,14%,7%,8%,10%,20%
+Waukesha,Midwest,Wisconsin,WI,27%,13%,7%,8%,9%,17%
+Waupaca,Midwest,Wisconsin,WI,26%,16%,16%,10%,11%,25%
+Waushara,Midwest,Wisconsin,WI,32%,17%,22%,11%,11%,27%
+Winnebago,Midwest,Wisconsin,WI,28%,15%,16%,9%,12%,23%
+Wood,Midwest,Wisconsin,WI,34%,15%,17%,10%,12%,23%
+Fairfield,Northeast,Connecticut,CT,21%,14%,12%,8%,11%,20%
+Hartford,Northeast,Connecticut,CT,27%,13%,18%,9%,13%,23%
+Litchfield,Northeast,Connecticut,CT,23%,13%,9%,8%,11%,21%
+Middlesex,Northeast,Connecticut,CT,24%,13%,9%,8%,11%,21%
+New Haven,Northeast,Connecticut,CT,26%,14%,18%,9%,14%,23%
+New London,Northeast,Connecticut,CT,27%,14%,17%,8%,13%,22%
+Tolland,Northeast,Connecticut,CT,24%,14%,7%,7%,11%,18%
+Windham,Northeast,Connecticut,CT,29%,15%,16%,8%,13%,24%
+Kent,Northeast,Delaware,DE,33%,18%,21%,12%,13%,28%
+New Castle,Northeast,Delaware,DE,27%,17%,17%,10%,12%,23%
+Sussex,Northeast,Delaware,DE,31%,17%,24%,13%,11%,27%
+Adams,Northeast,Indiana,IN,30%,21%,29%,11%,14%,31%
+Allen,Northeast,Indiana,IN,29%,20%,22%,11%,15%,24%
+Bartholomew,Northeast,Indiana,IN,32%,19%,16%,10%,13%,27%
+Benton,Northeast,Indiana,IN,33%,21%,18%,11%,13%,33%
+Blackford,Northeast,Indiana,IN,36%,20%,24%,12%,16%,31%
+Boone,Northeast,Indiana,IN,28%,17%,8%,9%,12%,25%
+Brown,Northeast,Indiana,IN,31%,20%,21%,12%,13%,29%
+Carroll,Northeast,Indiana,IN,29%,20%,16%,11%,13%,33%
+Cass,Northeast,Indiana,IN,34%,22%,21%,11%,13%,30%
+Clark,Northeast,Indiana,IN,31%,20%,16%,10%,14%,34%
+Clay,Northeast,Indiana,IN,33%,20%,21%,10%,15%,27%
+Clinton,Northeast,Indiana,IN,30%,20%,20%,11%,13%,32%
+Crawford,Northeast,Indiana,IN,35%,22%,30%,11%,16%,32%
+Daviess,Northeast,Indiana,IN,33%,21%,22%,10%,13%,32%
+Dearborn,Northeast,Indiana,IN,30%,19%,17%,10%,13%,31%
+Decatur,Northeast,Indiana,IN,30%,21%,19%,11%,14%,32%
+DeKalb,Northeast,Indiana,IN,31%,20%,15%,10%,13%,28%
+Delaware,Northeast,Indiana,IN,32%,23%,26%,10%,18%,31%
+Dubois,Northeast,Indiana,IN,28%,17%,10%,10%,11%,24%
+Elkhart,Northeast,Indiana,IN,33%,20%,20%,11%,14%,29%
+Fayette,Northeast,Indiana,IN,32%,23%,23%,12%,18%,35%
+Floyd,Northeast,Indiana,IN,31%,20%,17%,10%,14%,32%
+Fountain,Northeast,Indiana,IN,31%,19%,20%,11%,15%,31%
+Franklin,Northeast,Indiana,IN,26%,21%,15%,10%,14%,27%
+Fulton,Northeast,Indiana,IN,37%,21%,22%,11%,15%,25%
+Gibson,Northeast,Indiana,IN,32%,19%,17%,10%,13%,35%
+Grant,Northeast,Indiana,IN,35%,23%,31%,12%,17%,30%
+Greene,Northeast,Indiana,IN,32%,20%,22%,11%,15%,30%
+Hamilton,Northeast,Indiana,IN,25%,13%,6%,8%,10%,19%
+Hancock,Northeast,Indiana,IN,35%,18%,9%,10%,12%,29%
+Harrison,Northeast,Indiana,IN,35%,20%,16%,10%,13%,32%
+Hendricks,Northeast,Indiana,IN,30%,16%,8%,9%,11%,29%
+Henry,Northeast,Indiana,IN,32%,22%,22%,11%,16%,30%
+Howard,Northeast,Indiana,IN,36%,22%,24%,12%,16%,30%
+Huntington,Northeast,Indiana,IN,32%,22%,17%,10%,14%,29%
+Jackson,Northeast,Indiana,IN,39%,21%,20%,10%,13%,30%
+Jasper,Northeast,Indiana,IN,29%,18%,14%,10%,12%,29%
+Jay,Northeast,Indiana,IN,35%,20%,35%,11%,14%,35%
+Jefferson,Northeast,Indiana,IN,35%,22%,25%,11%,14%,29%
+Jennings,Northeast,Indiana,IN,33%,21%,22%,10%,15%,32%
+Johnson,Northeast,Indiana,IN,32%,19%,13%,9%,13%,25%
+Knox,Northeast,Indiana,IN,32%,20%,24%,10%,15%,34%
+Kosciusko,Northeast,Indiana,IN,30%,19%,17%,10%,12%,23%
+LaGrange,Northeast,Indiana,IN,34%,22%,17%,10%,13%,27%
+Lake,Northeast,Indiana,IN,36%,24%,27%,12%,16%,30%
+LaPorte,Northeast,Indiana,IN,34%,20%,29%,11%,16%,28%
+Lawrence,Northeast,Indiana,IN,38%,23%,19%,11%,15%,30%
+Madison,Northeast,Indiana,IN,34%,22%,23%,11%,17%,28%
+Marion,Northeast,Indiana,IN,32%,22%,31%,11%,19%,27%
+Marshall,Northeast,Indiana,IN,29%,22%,16%,11%,13%,27%
+Martin,Northeast,Indiana,IN,35%,21%,19%,11%,13%,34%
+Miami,Northeast,Indiana,IN,35%,23%,23%,11%,16%,31%
+Monroe,Northeast,Indiana,IN,21%,20%,19%,8%,18%,21%
+Montgomery,Northeast,Indiana,IN,34%,21%,19%,10%,14%,27%
+Morgan,Northeast,Indiana,IN,34%,19%,18%,10%,13%,30%
+Newton,Northeast,Indiana,IN,35%,22%,18%,11%,13%,33%
+Noble,Northeast,Indiana,IN,34%,20%,17%,10%,13%,27%
+Ohio,Northeast,Indiana,IN,32%,19%,17%,11%,13%,28%
+Orange,Northeast,Indiana,IN,32%,21%,28%,12%,16%,32%
+Owen,Northeast,Indiana,IN,32%,22%,24%,11%,15%,30%
+Parke,Northeast,Indiana,IN,32%,22%,26%,11%,14%,33%
+Perry,Northeast,Indiana,IN,30%,20%,20%,10%,13%,26%
+Pike,Northeast,Indiana,IN,34%,19%,17%,11%,13%,32%
+Porter,Northeast,Indiana,IN,31%,19%,13%,10%,12%,27%
+Posey,Northeast,Indiana,IN,32%,18%,14%,10%,12%,29%
+Pulaski,Northeast,Indiana,IN,32%,21%,22%,11%,13%,30%
+Putnam,Northeast,Indiana,IN,32%,20%,18%,9%,13%,31%
+Randolph,Northeast,Indiana,IN,34%,20%,24%,12%,15%,32%
+Ripley,Northeast,Indiana,IN,32%,20%,16%,10%,14%,28%
+Rush,Northeast,Indiana,IN,33%,20%,21%,11%,14%,35%
+Scott,Northeast,Indiana,IN,29%,23%,27%,11%,16%,32%
+Shelby,Northeast,Indiana,IN,32%,21%,17%,10%,14%,31%
+Spencer,Northeast,Indiana,IN,29%,18%,13%,10%,13%,29%
+St. Joseph,Northeast,Indiana,IN,29%,21%,27%,10%,16%,25%
+Starke,Northeast,Indiana,IN,36%,23%,24%,12%,15%,34%
+Steuben,Northeast,Indiana,IN,34%,20%,19%,10%,13%,30%
+Sullivan,Northeast,Indiana,IN,33%,22%,22%,11%,17%,35%
+Switzerland,Northeast,Indiana,IN,31%,23%,28%,12%,15%,33%
+Tippecanoe,Northeast,Indiana,IN,25%,21%,20%,8%,17%,25%
+Tipton,Northeast,Indiana,IN,32%,18%,13%,10%,13%,31%
+Union,Northeast,Indiana,IN,32%,20%,22%,11%,14%,34%
+Vanderburgh,Northeast,Indiana,IN,34%,20%,25%,10%,16%,29%
+Vermillion,Northeast,Indiana,IN,31%,20%,20%,11%,16%,31%
+Vigo,Northeast,Indiana,IN,33%,24%,28%,11%,18%,30%
+Wabash,Northeast,Indiana,IN,31%,19%,21%,11%,14%,36%
+Warren,Northeast,Indiana,IN,27%,17%,16%,10%,13%,26%
+Warrick,Northeast,Indiana,IN,28%,17%,11%,10%,11%,26%
+Washington,Northeast,Indiana,IN,28%,21%,25%,10%,15%,30%
+Wayne,Northeast,Indiana,IN,31%,22%,26%,12%,18%,29%
+Wells,Northeast,Indiana,IN,28%,19%,16%,10%,13%,31%
+White,Northeast,Indiana,IN,34%,19%,18%,11%,12%,28%
+Whitley,Northeast,Indiana,IN,32%,18%,13%,10%,12%,24%
+Androscoggin,Northeast,Maine,ME,32%,18%,23%,9%,16%,24%
+Aroostook,Northeast,Maine,ME,34%,19%,28%,11%,17%,28%
+Cumberland,Northeast,Maine,ME,22%,12%,14%,8%,14%,16%
+Franklin,Northeast,Maine,ME,30%,17%,23%,10%,16%,22%
+Hancock,Northeast,Maine,ME,24%,18%,19%,9%,16%,19%
+Kennebec,Northeast,Maine,ME,30%,21%,19%,10%,15%,21%
+Knox,Northeast,Maine,ME,24%,14%,20%,9%,14%,19%
+Lincoln,Northeast,Maine,ME,24%,14%,19%,10%,13%,21%
+Oxford,Northeast,Maine,ME,32%,17%,23%,11%,16%,23%
+Penobscot,Northeast,Maine,ME,31%,17%,22%,9%,17%,25%
+Piscataquis,Northeast,Maine,ME,31%,19%,30%,11%,17%,26%
+Sagadahoc,Northeast,Maine,ME,26%,16%,16%,9%,13%,20%
+Somerset,Northeast,Maine,ME,34%,21%,25%,10%,17%,28%
+Waldo,Northeast,Maine,ME,29%,16%,22%,10%,16%,25%
+Washington,Northeast,Maine,ME,31%,19%,26%,12%,18%,28%
+York,Northeast,Maine,ME,27%,16%,14%,9%,14%,20%
+Allegany,Northeast,Maryland,MD,28%,17%,23%,10%,14%,29%
+Anne Arundel,Northeast,Maryland,MD,28%,13%,9%,9%,9%,23%
+Baltimore,Northeast,Maryland,MD,28%,15%,13%,10%,13%,25%
+Baltimore City,Northeast,Maryland,MD,34%,21%,32%,13%,23%,29%
+Calvert,Northeast,Maryland,MD,30%,14%,8%,9%,8%,23%
+Caroline,Northeast,Maryland,MD,34%,18%,24%,11%,13%,31%
+Carroll,Northeast,Maryland,MD,28%,13%,7%,9%,8%,22%
+Cecil,Northeast,Maryland,MD,32%,16%,15%,10%,11%,26%
+Charles,Northeast,Maryland,MD,35%,14%,10%,11%,11%,23%
+Dorchester,Northeast,Maryland,MD,33%,17%,29%,14%,17%,31%
+Frederick,Northeast,Maryland,MD,28%,12%,8%,9%,8%,20%
+Howard,Northeast,Maryland,MD,23%,10%,7%,8%,8%,18%
+Montgomery,Northeast,Maryland,MD,19%,8%,9%,9%,8%,18%
+Harford,Northeast,Maryland,MD,28%,15%,10%,9%,10%,23%
+St. Mary's,Northeast,Maryland,MD,30%,15%,12%,9%,10%,24%
+Queen Anne's,Northeast,Maryland,MD,28%,14%,11%,10%,8%,23%
+Garrett,Northeast,Maryland,MD,31%,15%,20%,10%,12%,30%
+Washington,Northeast,Maryland,MD,33%,17%,20%,10%,13%,27%
+Wicomico,Northeast,Maryland,MD,35%,18%,24%,11%,16%,28%
+Kent,Northeast,Maryland,MD,27%,14%,21%,11%,13%,26%
+Talbot,Northeast,Maryland,MD,28%,14%,18%,12%,11%,22%
+Somerset,Northeast,Maryland,MD,40%,20%,33%,12%,19%,31%
+Prince George's,Northeast,Maryland,MD,33%,13%,15%,12%,15%,24%
+Worcester,Northeast,Maryland,MD,30%,15%,21%,13%,14%,27%
+Hampshire,Northeast,Massachusetts,MA,21%,15%,13%,8%,11%,16%
+Middlesex,Northeast,Massachusetts,MA,23%,12%,10%,8%,9%,21%
+Nantucket,Northeast,Massachusetts,MA,21%,15%,8%,9%,9%,18%
+Suffolk,Northeast,Massachusetts,MA,21%,15%,32%,9%,16%,20%
+Norfolk,Northeast,Massachusetts,MA,20%,12%,7%,9%,9%,19%
+Worcester,Northeast,Massachusetts,MA,26%,16%,15%,9%,11%,23%
+Essex,Northeast,Massachusetts,MA,24%,15%,16%,10%,10%,21%
+Franklin,Northeast,Massachusetts,MA,22%,15%,17%,10%,11%,18%
+Plymouth,Northeast,Massachusetts,MA,26%,17%,12%,10%,10%,25%
+Barnstable,Northeast,Massachusetts,MA,20%,12%,13%,10%,10%,17%
+Berkshire,Northeast,Massachusetts,MA,23%,15%,20%,10%,12%,20%
+Dukes,Northeast,Massachusetts,MA,22%,15%,13%,10%,10%,20%
+Bristol,Northeast,Massachusetts,MA,28%,19%,17%,11%,13%,27%
+Hampden,Northeast,Massachusetts,MA,29%,18%,26%,11%,12%,26%
+Ottawa,Northeast,Michigan,MI,26%,15%,10%,8%,11%,19%
+Isabella,Northeast,Michigan,MI,30%,22%,22%,8%,18%,22%
+Washtenaw,Northeast,Michigan,MI,23%,14%,14%,8%,15%,16%
+Livingston,Northeast,Michigan,MI,29%,15%,8%,8%,11%,19%
+Kent,Northeast,Michigan,MI,29%,16%,20%,9%,13%,20%
+Midland,Northeast,Michigan,MI,32%,16%,15%,9%,13%,23%
+Ingham,Northeast,Michigan,MI,30%,18%,24%,9%,17%,19%
+Ionia,Northeast,Michigan,MI,36%,19%,19%,9%,14%,21%
+Kalamazoo,Northeast,Michigan,MI,30%,16%,20%,9%,16%,19%
+Clinton,Northeast,Michigan,MI,33%,16%,11%,9%,11%,21%
+Houghton,Northeast,Michigan,MI,31%,18%,19%,9%,17%,22%
+Marquette,Northeast,Michigan,MI,29%,19%,17%,9%,15%,17%
+Grand Traverse,Northeast,Michigan,MI,28%,17%,14%,9%,13%,21%
+Monroe,Northeast,Michigan,MI,34%,18%,15%,9%,13%,22%
+Oakland,Northeast,Michigan,MI,26%,14%,12%,9%,14%,20%
+Barry,Northeast,Michigan,MI,34%,17%,15%,9%,12%,22%
+Mecosta,Northeast,Michigan,MI,33%,19%,31%,10%,17%,26%
+Eaton,Northeast,Michigan,MI,35%,16%,14%,10%,13%,25%
+Allegan,Northeast,Michigan,MI,32%,17%,15%,10%,12%,23%
+Lapeer,Northeast,Michigan,MI,30%,17%,16%,10%,13%,23%
+Macomb,Northeast,Michigan,MI,33%,20%,18%,10%,14%,23%
+Gratiot,Northeast,Michigan,MI,36%,18%,23%,10%,15%,31%
+Shiawassee,Northeast,Michigan,MI,32%,17%,23%,10%,15%,21%
+Lenawee,Northeast,Michigan,MI,33%,16%,21%,10%,13%,25%
+Otsego,Northeast,Michigan,MI,36%,17%,21%,10%,15%,24%
+St. Clair,Northeast,Michigan,MI,32%,17%,20%,10%,15%,24%
+Emmet,Northeast,Michigan,MI,28%,16%,16%,10%,15%,18%
+Branch,Northeast,Michigan,MI,35%,19%,23%,10%,14%,26%
+St. Joseph,Northeast,Michigan,MI,34%,19%,27%,10%,14%,29%
+Bay,Northeast,Michigan,MI,33%,18%,25%,10%,14%,24%
+Jackson,Northeast,Michigan,MI,33%,20%,24%,10%,15%,21%
+Tuscola,Northeast,Michigan,MI,31%,17%,24%,10%,15%,30%
+Dickinson,Northeast,Michigan,MI,30%,17%,19%,10%,13%,20%
+Montcalm,Northeast,Michigan,MI,34%,19%,31%,10%,16%,25%
+Cass,Northeast,Michigan,MI,35%,17%,22%,11%,13%,24%
+Sanilac,Northeast,Michigan,MI,34%,18%,23%,11%,15%,22%
+Wexford,Northeast,Michigan,MI,31%,19%,29%,11%,17%,23%
+Hillsdale,Northeast,Michigan,MI,32%,19%,26%,11%,15%,25%
+Charlevoix,Northeast,Michigan,MI,28%,17%,19%,11%,15%,21%
+Missaukee,Northeast,Michigan,MI,33%,19%,25%,11%,16%,26%
+Van Buren,Northeast,Michigan,MI,34%,19%,24%,11%,14%,26%
+Benzie,Northeast,Michigan,MI,31%,16%,19%,11%,14%,21%
+Calhoun,Northeast,Michigan,MI,35%,19%,24%,11%,15%,27%
+Newaygo,Northeast,Michigan,MI,35%,19%,28%,11%,14%,23%
+Chippewa,Northeast,Michigan,MI,38%,21%,25%,11%,17%,28%
+Huron,Northeast,Michigan,MI,31%,16%,21%,11%,14%,28%
+Berrien,Northeast,Michigan,MI,37%,17%,26%,11%,16%,28%
+Menominee,Northeast,Michigan,MI,34%,17%,21%,11%,13%,29%
+Mason,Northeast,Michigan,MI,29%,18%,27%,11%,15%,24%
+Baraga,Northeast,Michigan,MI,34%,19%,22%,11%,18%,22%
+Alpena,Northeast,Michigan,MI,33%,19%,26%,11%,15%,22%
+Kalkaska,Northeast,Michigan,MI,32%,19%,27%,11%,15%,23%
+Osceola,Northeast,Michigan,MI,34%,20%,31%,11%,17%,28%
+Delta,Northeast,Michigan,MI,33%,18%,21%,11%,15%,24%
+Muskegon,Northeast,Michigan,MI,37%,20%,27%,11%,16%,25%
+Crawford,Northeast,Michigan,MI,32%,17%,28%,11%,15%,24%
+Genesee,Northeast,Michigan,MI,36%,19%,33%,11%,18%,27%
+Alger,Northeast,Michigan,MI,32%,17%,23%,12%,15%,24%
+Manistee,Northeast,Michigan,MI,34%,18%,27%,12%,15%,21%
+Leelanau,Northeast,Michigan,MI,23%,14%,15%,12%,12%,22%
+Saginaw,Northeast,Michigan,MI,40%,18%,25%,12%,16%,24%
+Antrim,Northeast,Michigan,MI,32%,16%,23%,12%,15%,25%
+Arenac,Northeast,Michigan,MI,34%,18%,32%,12%,16%,24%
+Oceana,Northeast,Michigan,MI,34%,19%,31%,12%,14%,22%
+Luce,Northeast,Michigan,MI,36%,20%,29%,12%,17%,24%
+Gogebic,Northeast,Michigan,MI,30%,19%,31%,12%,17%,24%
+Cheboygan,Northeast,Michigan,MI,32%,18%,28%,12%,16%,27%
+Iron,Northeast,Michigan,MI,31%,16%,26%,12%,14%,20%
+Wayne,Northeast,Michigan,MI,34%,22%,35%,12%,21%,26%
+Ogemaw,Northeast,Michigan,MI,36%,18%,36%,12%,16%,29%
+Presque Isle,Northeast,Michigan,MI,33%,16%,26%,13%,16%,30%
+Iosco,Northeast,Michigan,MI,34%,17%,31%,13%,17%,24%
+Gladwin,Northeast,Michigan,MI,36%,19%,31%,13%,17%,30%
+Clare,Northeast,Michigan,MI,31%,20%,39%,13%,18%,30%
+Keweenaw,Northeast,Michigan,MI,32%,16%,21%,13%,16%,23%
+Montmorency,Northeast,Michigan,MI,32%,17%,31%,13%,17%,26%
+Schoolcraft,Northeast,Michigan,MI,30%,19%,27%,13%,17%,25%
+Oscoda,Northeast,Michigan,MI,33%,19%,32%,13%,18%,23%
+Alcona,Northeast,Michigan,MI,31%,16%,31%,14%,15%,26%
+Mackinac,Northeast,Michigan,MI,33%,19%,26%,14%,16%,24%
+Ontonagon,Northeast,Michigan,MI,34%,17%,31%,14%,16%,24%
+Roscommon,Northeast,Michigan,MI,32%,19%,34%,14%,17%,25%
+Lake,Northeast,Michigan,MI,33%,21%,44%,16%,19%,22%
+Strafford,Northeast,New Hampshire,NH,30%,17%,14%,8%,11%,23%
+Rockingham,Northeast,New Hampshire,NH,26%,16%,8%,8%,9%,20%
+Merrimack,Northeast,New Hampshire,NH,29%,16%,13%,9%,10%,20%
+Grafton,Northeast,New Hampshire,NH,27%,17%,16%,9%,11%,18%
+Hillsborough,Northeast,New Hampshire,NH,27%,15%,12%,9%,10%,22%
+Cheshire,Northeast,New Hampshire,NH,25%,17%,15%,9%,11%,20%
+Sullivan,Northeast,New Hampshire,NH,28%,18%,16%,10%,10%,23%
+Belknap,Northeast,New Hampshire,NH,31%,16%,15%,10%,10%,22%
+Carroll,Northeast,New Hampshire,NH,23%,16%,18%,11%,10%,19%
+Coos,Northeast,New Hampshire,NH,30%,19%,23%,12%,13%,26%
+Sussex,Northeast,New Jersey,NJ,26%,15%,7%,8%,9%,25%
+Hunterdon,Northeast,New Jersey,NJ,21%,12%,5%,8%,7%,18%
+Morris,Northeast,New Jersey,NJ,20%,13%,6%,8%,8%,20%
+Somerset,Northeast,New Jersey,NJ,21%,11%,7%,9%,8%,20%
+Monmouth,Northeast,New Jersey,NJ,23%,14%,11%,9%,10%,20%
+Bergen,Northeast,New Jersey,NJ,20%,12%,9%,9%,10%,23%
+Warren,Northeast,New Jersey,NJ,27%,15%,11%,9%,10%,24%
+Burlington,Northeast,New Jersey,NJ,27%,14%,9%,9%,11%,24%
+Gloucester,Northeast,New Jersey,NJ,29%,15%,11%,9%,12%,25%
+Mercer,Northeast,New Jersey,NJ,24%,16%,16%,9%,12%,22%
+Middlesex,Northeast,New Jersey,NJ,24%,12%,11%,9%,10%,24%
+Camden,Northeast,New Jersey,NJ,29%,15%,19%,10%,14%,27%
+Union,Northeast,New Jersey,NJ,25%,15%,16%,10%,12%,25%
+Hudson,Northeast,New Jersey,NJ,24%,15%,27%,10%,14%,25%
+Ocean,Northeast,New Jersey,NJ,27%,17%,21%,11%,11%,27%
+Cape May,Northeast,New Jersey,NJ,27%,17%,20%,11%,14%,23%
+Passaic,Northeast,New Jersey,NJ,24%,16%,27%,11%,12%,25%
+Salem,Northeast,New Jersey,NJ,32%,19%,20%,11%,14%,28%
+Cumberland,Northeast,New Jersey,NJ,34%,19%,28%,12%,15%,28%
+Essex,Northeast,New Jersey,NJ,27%,17%,23%,12%,18%,27%
+Atlantic,Northeast,New Jersey,NJ,27%,19%,24%,12%,15%,26%
+Tompkins,Northeast,New York,NY,24%,15%,17%,7%,14%,25%
+Jefferson,Northeast,New York,NY,27%,16%,23%,8%,15%,27%
+Cortland,Northeast,New York,NY,28%,15%,19%,8%,14%,21%
+Saratoga,Northeast,New York,NY,26%,14%,10%,8%,10%,23%
+Putnam,Northeast,New York,NY,27%,13%,7%,8%,6%,22%
+Madison,Northeast,New York,NY,29%,15%,18%,8%,12%,26%
+Rensselaer,Northeast,New York,NY,24%,15%,20%,8%,13%,23%
+Ontario,Northeast,New York,NY,30%,14%,15%,9%,11%,17%
+Livingston,Northeast,New York,NY,30%,15%,19%,9%,12%,24%
+Wyoming,Northeast,New York,NY,26%,15%,17%,9%,12%,24%
+Clinton,Northeast,New York,NY,30%,16%,19%,9%,14%,27%
+Albany,Northeast,New York,NY,27%,14%,19%,9%,13%,22%
+Onondaga,Northeast,New York,NY,28%,16%,24%,9%,14%,25%
+Nassau,Northeast,New York,NY,23%,12%,9%,9%,7%,26%
+Dutchess,Northeast,New York,NY,25%,13%,13%,9%,10%,21%
+Cayuga,Northeast,New York,NY,30%,15%,20%,9%,12%,23%
+Genesee,Northeast,New York,NY,30%,15%,17%,9%,12%,26%
+Otsego,Northeast,New York,NY,26%,16%,22%,9%,12%,21%
+Oswego,Northeast,New York,NY,29%,16%,28%,9%,14%,27%
+St. Lawrence,Northeast,New York,NY,29%,18%,26%,9%,15%,25%
+New York,Northeast,New York,NY,15%,13%,24%,9%,15%,18%
+Schenectady,Northeast,New York,NY,26%,15%,21%,9%,13%,23%
+Lewis,Northeast,New York,NY,27%,15%,23%,9%,13%,22%
+Washington,Northeast,New York,NY,30%,15%,20%,9%,12%,24%
+Allegany,Northeast,New York,NY,30%,16%,27%,9%,13%,22%
+Suffolk,Northeast,New York,NY,23%,14%,10%,9%,7%,22%
+Tioga,Northeast,New York,NY,32%,14%,18%,9%,11%,27%
+Warren,Northeast,New York,NY,26%,14%,21%,9%,12%,21%
+Orange,Northeast,New York,NY,26%,15%,21%,9%,10%,24%
+Seneca,Northeast,New York,NY,31%,15%,21%,9%,12%,25%
+Ulster,Northeast,New York,NY,28%,14%,17%,9%,12%,19%
+Schoharie,Northeast,New York,NY,27%,15%,22%,9%,12%,26%
+Wayne,Northeast,New York,NY,29%,15%,18%,9%,11%,26%
+Monroe,Northeast,New York,NY,27%,15%,22%,9%,14%,21%
+Broome,Northeast,New York,NY,25%,16%,24%,9%,14%,24%
+Chemung,Northeast,New York,NY,32%,16%,27%,9%,14%,25%
+Niagara,Northeast,New York,NY,30%,16%,18%,9%,13%,22%
+Orleans,Northeast,New York,NY,31%,16%,22%,9%,13%,24%
+Essex,Northeast,New York,NY,29%,14%,18%,9%,13%,27%
+Richmond,Northeast,New York,NY,26%,15%,21%,9%,11%,31%
+Greene,Northeast,New York,NY,30%,15%,20%,9%,13%,25%
+Schuyler,Northeast,New York,NY,30%,15%,24%,9%,12%,27%
+Oneida,Northeast,New York,NY,30%,16%,29%,9%,14%,28%
+Herkimer,Northeast,New York,NY,30%,16%,23%,9%,13%,23%
+Steuben,Northeast,New York,NY,30%,16%,24%,9%,14%,23%
+Fulton,Northeast,New York,NY,29%,17%,26%,9%,14%,25%
+Franklin,Northeast,New York,NY,30%,18%,25%,9%,15%,26%
+Westchester,Northeast,New York,NY,20%,11%,13%,10%,9%,20%
+Erie,Northeast,New York,NY,27%,15%,23%,10%,14%,23%
+Yates,Northeast,New York,NY,25%,16%,24%,10%,12%,24%
+Columbia,Northeast,New York,NY,25%,14%,18%,10%,11%,25%
+Chenango,Northeast,New York,NY,33%,15%,25%,10%,12%,27%
+Cattaraugus,Northeast,New York,NY,28%,17%,23%,10%,14%,28%
+Montgomery,Northeast,New York,NY,25%,16%,27%,10%,14%,21%
+Rockland,Northeast,New York,NY,21%,14%,26%,10%,10%,24%
+Chautauqua,Northeast,New York,NY,30%,16%,29%,10%,14%,26%
+Delaware,Northeast,New York,NY,26%,15%,23%,10%,13%,25%
+Hamilton,Northeast,New York,NY,28%,13%,21%,10%,11%,25%
+Queens,Northeast,New York,NY,24%,12%,21%,11%,13%,28%
+Sullivan,Northeast,New York,NY,31%,16%,26%,11%,14%,23%
+Kings,Northeast,New York,NY,22%,16%,33%,11%,20%,26%
+Bronx,Northeast,New York,NY,29%,19%,43%,15%,19%,29%
+Delaware,Northeast,Ohio,OH,27%,14%,5%,9%,10%,20%
+Union,Northeast,Ohio,OH,32%,18%,9%,9%,12%,27%
+Warren,Northeast,Ohio,OH,29%,16%,8%,9%,12%,24%
+Athens,Northeast,Ohio,OH,29%,23%,31%,9%,21%,26%
+Wood,Northeast,Ohio,OH,31%,18%,12%,9%,15%,23%
+Portage,Northeast,Ohio,OH,29%,20%,18%,10%,16%,24%
+Medina,Northeast,Ohio,OH,29%,16%,10%,10%,12%,24%
+Putnam,Northeast,Ohio,OH,33%,17%,10%,10%,11%,27%
+Clermont,Northeast,Ohio,OH,29%,19%,15%,10%,13%,26%
+Greene,Northeast,Ohio,OH,29%,18%,18%,10%,15%,27%
+Butler,Northeast,Ohio,OH,30%,20%,20%,10%,15%,25%
+Holmes,Northeast,Ohio,OH,28%,20%,19%,10%,14%,27%
+Madison,Northeast,Ohio,OH,29%,19%,17%,10%,14%,29%
+Pickaway,Northeast,Ohio,OH,36%,19%,19%,10%,15%,31%
+Hardin,Northeast,Ohio,OH,34%,21%,25%,10%,16%,32%
+Mercer,Northeast,Ohio,OH,29%,16%,12%,10%,12%,29%
+Fairfield,Northeast,Ohio,OH,31%,18%,14%,10%,14%,27%
+Licking,Northeast,Ohio,OH,29%,18%,21%,10%,14%,29%
+Shelby,Northeast,Ohio,OH,32%,19%,16%,10%,14%,26%
+Lake,Northeast,Ohio,OH,26%,18%,13%,11%,13%,25%
+Auglaize,Northeast,Ohio,OH,34%,20%,12%,11%,12%,29%
+Knox,Northeast,Ohio,OH,34%,20%,21%,11%,15%,23%
+Franklin,Northeast,Ohio,OH,29%,19%,25%,11%,18%,23%
+Hancock,Northeast,Ohio,OH,30%,19%,18%,11%,14%,23%
+Wyandot,Northeast,Ohio,OH,35%,17%,14%,11%,14%,30%
+Wayne,Northeast,Ohio,OH,27%,19%,20%,11%,14%,26%
+Geauga,Northeast,Ohio,OH,28%,16%,12%,11%,11%,27%
+Seneca,Northeast,Ohio,OH,35%,19%,26%,11%,15%,27%
+Morrow,Northeast,Ohio,OH,37%,20%,21%,11%,14%,30%
+Ashland,Northeast,Ohio,OH,30%,20%,21%,11%,15%,29%
+Clinton,Northeast,Ohio,OH,35%,20%,20%,11%,17%,34%
+Huron,Northeast,Ohio,OH,34%,18%,20%,11%,16%,33%
+Champaign,Northeast,Ohio,OH,37%,20%,18%,11%,14%,29%
+Fulton,Northeast,Ohio,OH,33%,18%,15%,11%,13%,27%
+Lorain,Northeast,Ohio,OH,30%,18%,22%,11%,15%,23%
+Henry,Northeast,Ohio,OH,30%,19%,15%,11%,13%,26%
+Miami,Northeast,Ohio,OH,32%,19%,16%,11%,15%,27%
+Preble,Northeast,Ohio,OH,32%,19%,20%,11%,14%,28%
+Summit,Northeast,Ohio,OH,29%,20%,20%,11%,17%,24%
+Perry,Northeast,Ohio,OH,36%,21%,25%,11%,17%,31%
+Paulding,Northeast,Ohio,OH,30%,19%,18%,11%,14%,26%
+Van Wert,Northeast,Ohio,OH,37%,19%,15%,11%,14%,33%
+Defiance,Northeast,Ohio,OH,32%,19%,18%,11%,13%,30%
+Darke,Northeast,Ohio,OH,31%,19%,17%,12%,14%,34%
+Tuscarawas,Northeast,Ohio,OH,35%,18%,18%,12%,15%,33%
+Stark,Northeast,Ohio,OH,31%,19%,22%,12%,16%,26%
+Hamilton,Northeast,Ohio,OH,29%,20%,24%,12%,19%,23%
+Logan,Northeast,Ohio,OH,31%,20%,27%,12%,15%,28%
+Brown,Northeast,Ohio,OH,37%,21%,24%,12%,15%,35%
+Richland,Northeast,Ohio,OH,33%,20%,23%,12%,17%,29%
+Belmont,Northeast,Ohio,OH,33%,21%,25%,12%,15%,33%
+Ottawa,Northeast,Ohio,OH,31%,17%,16%,12%,14%,30%
+Williams,Northeast,Ohio,OH,34%,20%,22%,12%,14%,30%
+Fayette,Northeast,Ohio,OH,32%,21%,25%,12%,17%,31%
+Hocking,Northeast,Ohio,OH,34%,21%,26%,12%,15%,29%
+Guernsey,Northeast,Ohio,OH,36%,21%,26%,12%,17%,34%
+Marion,Northeast,Ohio,OH,34%,22%,27%,12%,17%,33%
+Ross,Northeast,Ohio,OH,36%,22%,27%,12%,17%,31%
+Jackson,Northeast,Ohio,OH,37%,22%,30%,12%,19%,36%
+Erie,Northeast,Ohio,OH,31%,20%,22%,12%,16%,25%
+Allen,Northeast,Ohio,OH,34%,21%,25%,12%,17%,32%
+Muskingum,Northeast,Ohio,OH,33%,22%,27%,12%,18%,35%
+Sandusky,Northeast,Ohio,OH,32%,20%,21%,12%,14%,33%
+Carroll,Northeast,Ohio,OH,35%,20%,21%,12%,15%,27%
+Columbiana,Northeast,Ohio,OH,32%,21%,24%,12%,16%,31%
+Highland,Northeast,Ohio,OH,34%,22%,28%,12%,18%,29%
+Crawford,Northeast,Ohio,OH,32%,18%,25%,12%,16%,31%
+Coshocton,Northeast,Ohio,OH,34%,21%,27%,12%,17%,28%
+Lawrence,Northeast,Ohio,OH,39%,21%,27%,12%,16%,37%
+Trumbull,Northeast,Ohio,OH,33%,20%,28%,12%,17%,29%
+Lucas,Northeast,Ohio,OH,32%,20%,29%,12%,19%,27%
+Washington,Northeast,Ohio,OH,33%,21%,21%,12%,15%,34%
+Clark,Northeast,Ohio,OH,30%,20%,28%,13%,17%,28%
+Ashtabula,Northeast,Ohio,OH,31%,22%,32%,13%,17%,26%
+Pike,Northeast,Ohio,OH,31%,24%,33%,13%,19%,26%
+Harrison,Northeast,Ohio,OH,29%,20%,26%,13%,16%,29%
+Monroe,Northeast,Ohio,OH,36%,18%,23%,13%,17%,36%
+Mahoning,Northeast,Ohio,OH,31%,20%,29%,13%,17%,29%
+Vinton,Northeast,Ohio,OH,31%,23%,36%,13%,18%,30%
+Gallia,Northeast,Ohio,OH,31%,23%,38%,13%,16%,32%
+Adams,Northeast,Ohio,OH,28%,23%,33%,13%,19%,30%
+Cuyahoga,Northeast,Ohio,OH,29%,18%,30%,13%,19%,26%
+Montgomery,Northeast,Ohio,OH,31%,21%,30%,13%,19%,26%
+Jefferson,Northeast,Ohio,OH,34%,21%,31%,13%,17%,29%
+Meigs,Northeast,Ohio,OH,35%,23%,33%,13%,19%,33%
+Scioto,Northeast,Ohio,OH,36%,25%,36%,13%,19%,30%
+Morgan,Northeast,Ohio,OH,33%,21%,28%,13%,18%,28%
+Noble,Northeast,Ohio,OH,33%,20%,20%,14%,16%,35%
+Centre,Northeast,Pennsylvania,PA,25%,18%,12%,8%,15%,19%
+Chester,Northeast,Pennsylvania,PA,24%,14%,9%,9%,10%,17%
+Montgomery,Northeast,Pennsylvania,PA,24%,16%,9%,9%,11%,19%
+Cumberland,Northeast,Pennsylvania,PA,26%,17%,13%,9%,12%,18%
+Bucks,Northeast,Pennsylvania,PA,26%,16%,8%,9%,10%,22%
+Perry,Northeast,Pennsylvania,PA,33%,18%,15%,10%,11%,29%
+Union,Northeast,Pennsylvania,PA,29%,18%,15%,10%,13%,26%
+Snyder,Northeast,Pennsylvania,PA,33%,19%,20%,10%,13%,25%
+Clinton,Northeast,Pennsylvania,PA,32%,21%,23%,10%,15%,25%
+Lancaster,Northeast,Pennsylvania,PA,29%,17%,15%,10%,11%,21%
+Indiana,Northeast,Pennsylvania,PA,36%,20%,22%,10%,14%,28%
+Columbia,Northeast,Pennsylvania,PA,35%,21%,18%,10%,14%,25%
+Butler,Northeast,Pennsylvania,PA,29%,18%,10%,10%,11%,22%
+Allegheny,Northeast,Pennsylvania,PA,26%,19%,19%,10%,14%,23%
+Adams,Northeast,Pennsylvania,PA,32%,17%,15%,10%,10%,24%
+Montour,Northeast,Pennsylvania,PA,32%,17%,17%,10%,11%,24%
+Lebanon,Northeast,Pennsylvania,PA,31%,18%,17%,10%,11%,22%
+Delaware,Northeast,Pennsylvania,PA,25%,19%,15%,10%,14%,21%
+Washington,Northeast,Pennsylvania,PA,29%,19%,14%,10%,12%,27%
+Wyoming,Northeast,Pennsylvania,PA,33%,19%,18%,10%,13%,26%
+Greene,Northeast,Pennsylvania,PA,33%,21%,22%,10%,13%,31%
+Franklin,Northeast,Pennsylvania,PA,30%,19%,17%,11%,12%,27%
+Lycoming,Northeast,Pennsylvania,PA,30%,20%,23%,11%,14%,25%
+Erie,Northeast,Pennsylvania,PA,31%,22%,23%,11%,15%,26%
+Elk,Northeast,Pennsylvania,PA,28%,18%,14%,11%,12%,27%
+Lackawanna,Northeast,Pennsylvania,PA,30%,20%,20%,11%,14%,25%
+Clarion,Northeast,Pennsylvania,PA,33%,20%,19%,11%,15%,26%
+Northampton,Northeast,Pennsylvania,PA,28%,17%,14%,11%,11%,26%
+Berks,Northeast,Pennsylvania,PA,31%,20%,21%,11%,11%,25%
+York,Northeast,Pennsylvania,PA,32%,18%,15%,11%,12%,23%
+Huntingdon,Northeast,Pennsylvania,PA,30%,20%,21%,11%,14%,27%
+Lehigh,Northeast,Pennsylvania,PA,29%,18%,20%,11%,12%,22%
+Schuylkill,Northeast,Pennsylvania,PA,35%,20%,19%,11%,14%,29%
+Armstrong,Northeast,Pennsylvania,PA,33%,20%,21%,11%,13%,29%
+Tioga,Northeast,Pennsylvania,PA,31%,20%,23%,11%,14%,27%
+Fulton,Northeast,Pennsylvania,PA,33%,19%,21%,11%,13%,27%
+Juniata,Northeast,Pennsylvania,PA,33%,19%,18%,11%,12%,26%
+Bradford,Northeast,Pennsylvania,PA,33%,19%,19%,11%,13%,25%
+Jefferson,Northeast,Pennsylvania,PA,29%,22%,21%,11%,14%,30%
+Mercer,Northeast,Pennsylvania,PA,33%,22%,25%,11%,14%,27%
+Westmoreland,Northeast,Pennsylvania,PA,28%,19%,14%,11%,12%,25%
+Beaver,Northeast,Pennsylvania,PA,30%,19%,17%,11%,13%,28%
+Carbon,Northeast,Pennsylvania,PA,36%,20%,21%,11%,13%,26%
+Crawford,Northeast,Pennsylvania,PA,34%,20%,23%,11%,14%,29%
+McKean,Northeast,Pennsylvania,PA,31%,21%,25%,11%,14%,26%
+Pike,Northeast,Pennsylvania,PA,29%,17%,16%,11%,11%,22%
+Luzerne,Northeast,Pennsylvania,PA,29%,18%,24%,11%,15%,30%
+Somerset,Northeast,Pennsylvania,PA,35%,19%,21%,11%,14%,29%
+Lawrence,Northeast,Pennsylvania,PA,33%,19%,21%,11%,14%,25%
+Blair,Northeast,Pennsylvania,PA,34%,20%,21%,11%,13%,29%
+Northumberland,Northeast,Pennsylvania,PA,34%,21%,23%,11%,14%,28%
+Susquehanna,Northeast,Pennsylvania,PA,32%,18%,20%,11%,12%,24%
+Dauphin,Northeast,Pennsylvania,PA,31%,19%,21%,11%,14%,24%
+Cambria,Northeast,Pennsylvania,PA,29%,20%,24%,11%,14%,26%
+Clearfield,Northeast,Pennsylvania,PA,33%,21%,22%,11%,14%,27%
+Warren,Northeast,Pennsylvania,PA,33%,18%,24%,12%,12%,22%
+Monroe,Northeast,Pennsylvania,PA,27%,19%,20%,12%,12%,25%
+Venango,Northeast,Pennsylvania,PA,34%,20%,25%,12%,14%,26%
+Bedford,Northeast,Pennsylvania,PA,35%,21%,20%,12%,13%,28%
+Wayne,Northeast,Pennsylvania,PA,33%,20%,20%,12%,12%,24%
+Mifflin,Northeast,Pennsylvania,PA,32%,21%,25%,12%,14%,27%
+Forest,Northeast,Pennsylvania,PA,33%,22%,41%,12%,15%,23%
+Potter,Northeast,Pennsylvania,PA,32%,20%,23%,12%,14%,30%
+Cameron,Northeast,Pennsylvania,RI,28%,19%,22%,12%,15%,27%
+Sullivan,Northeast,Pennsylvania,RI,32%,18%,22%,12%,13%,32%
+Philadelphia,Northeast,Pennsylvania,RI,29%,23%,37%,12%,21%,26%
+Fayette,Northeast,Pennsylvania,RI,36%,23%,31%,13%,15%,34%
+Bristol,Northeast,Rhode Island,RI,21%,13%,9%,8%,12%,22%
+Washington,Northeast,Rhode Island,RI,24%,13%,12%,8%,12%,20%
+Newport,Northeast,Rhode Island,RI,22%,14%,13%,9%,14%,19%
+Kent,Northeast,Rhode Island,RI,28%,15%,13%,9%,13%,23%
+Providence,Northeast,Rhode Island,RI,28%,16%,27%,10%,16%,26%
+Chittenden,Northeast,Vermont,VT,21%,12%,11%,6%,13%,15%
+Addison,Northeast,Vermont,VT,24%,13%,13%,7%,12%,18%
+Franklin,Northeast,Vermont,VT,28%,17%,14%,7%,12%,25%
+Washington,Northeast,Vermont,VT,23%,14%,14%,8%,12%,18%
+Lamoille,Northeast,Vermont,VT,25%,17%,16%,8%,13%,18%
+Grand Isle,Northeast,Vermont,VT,26%,16%,14%,8%,11%,19%
+Windsor,Northeast,Vermont,VT,23%,14%,16%,8%,12%,19%
+Orange,Northeast,Vermont,VT,26%,16%,18%,8%,12%,21%
+Caledonia,Northeast,Vermont,VT,29%,15%,19%,8%,14%,21%
+Windham,Northeast,Vermont,VT,23%,16%,18%,8%,13%,19%
+Bennington,Northeast,Vermont,VT,25%,15%,19%,9%,14%,20%
+Rutland,Northeast,Vermont,VT,28%,17%,19%,9%,14%,21%
+Orleans,Northeast,Vermont,VT,30%,18%,23%,9%,14%,25%
+Essex,Northeast,Vermont,VT,28%,19%,26%,10%,14%,27%
+Shelby,South,Alabama,AL,31%,16%,12%,9%,11%,24%
+Lee,South,Alabama,AL,30%,20%,26%,10%,18%,23%
+Elmore,South,Alabama,AL,30%,19%,21%,11%,15%,30%
+Tuscaloosa,South,Alabama,AL,33%,20%,23%,11%,18%,28%
+Madison,South,Alabama,AL,31%,20%,20%,11%,15%,25%
+St. Clair,South,Alabama,AL,33%,20%,19%,11%,13%,29%
+Limestone,South,Alabama,AL,34%,19%,19%,11%,14%,32%
+Baldwin,South,Alabama,AL,27%,19%,20%,11%,14%,25%
+Autauga,South,Alabama,AL,31%,19%,18%,11%,14%,29%
+Cleburne,South,Alabama,AL,30%,19%,25%,11%,14%,33%
+Morgan,South,Alabama,AL,32%,19%,23%,11%,14%,31%
+DeKalb,South,Alabama,AL,31%,19%,37%,12%,13%,32%
+Cullman,South,Alabama,AL,35%,20%,24%,12%,14%,28%
+Marshall,South,Alabama,AL,35%,20%,33%,12%,14%,32%
+Lauderdale,South,Alabama,AL,32%,19%,26%,12%,15%,30%
+Blount,South,Alabama,AL,32%,19%,24%,12%,12%,29%
+Chilton,South,Alabama,AL,37%,21%,28%,12%,14%,32%
+Pike,South,Alabama,AL,34%,22%,34%,12%,21%,29%
+Dale,South,Alabama,AL,36%,20%,34%,12%,17%,28%
+Coffee,South,Alabama,AL,30%,19%,25%,12%,16%,29%
+Franklin,South,Alabama,AL,34%,20%,36%,12%,15%,35%
+Lawrence,South,Alabama,AL,36%,20%,23%,12%,15%,35%
+Jefferson,South,Alabama,AL,34%,17%,29%,13%,18%,28%
+Cherokee,South,Alabama,AL,33%,20%,28%,13%,15%,31%
+Jackson,South,Alabama,AL,31%,20%,29%,13%,14%,32%
+Bibb,South,Alabama,AL,40%,21%,27%,13%,16%,33%
+Calhoun,South,Alabama,AL,32%,24%,28%,13%,18%,34%
+Winston,South,Alabama,AL,29%,22%,32%,13%,17%,31%
+Houston,South,Alabama,AL,34%,19%,31%,13%,17%,31%
+Covington,South,Alabama,AL,32%,20%,30%,13%,16%,36%
+Russell,South,Alabama,AL,35%,21%,30%,13%,20%,31%
+Marion,South,Alabama,AL,35%,20%,26%,13%,16%,36%
+Walker,South,Alabama,AL,33%,22%,33%,13%,16%,34%
+Etowah,South,Alabama,AL,35%,22%,30%,13%,16%,33%
+Geneva,South,Alabama,AL,35%,22%,36%,13%,16%,31%
+Colbert,South,Alabama,AL,37%,19%,25%,13%,16%,30%
+Fayette,South,Alabama,AL,32%,21%,29%,13%,17%,31%
+Lamar,South,Alabama,AL,33%,21%,28%,13%,17%,33%
+Montgomery,South,Alabama,AL,34%,20%,32%,14%,21%,28%
+Clay,South,Alabama,AL,38%,20%,29%,14%,17%,36%
+Randolph,South,Alabama,AL,33%,20%,30%,14%,18%,31%
+Mobile,South,Alabama,AL,36%,21%,30%,14%,19%,30%
+Washington,South,Alabama,AL,36%,20%,27%,14%,17%,33%
+Crenshaw,South,Alabama,AL,37%,20%,28%,14%,17%,32%
+Henry,South,Alabama,AL,35%,18%,27%,14%,16%,29%
+Tallapoosa,South,Alabama,AL,37%,21%,34%,14%,18%,32%
+Talladega,South,Alabama,AL,38%,22%,33%,15%,19%,34%
+Chambers,South,Alabama,AL,40%,21%,32%,15%,21%,35%
+Barbour,South,Alabama,AL,41%,21%,38%,15%,22%,33%
+Escambia,South,Alabama,AL,39%,23%,32%,15%,20%,33%
+Clarke,South,Alabama,AL,36%,21%,34%,16%,23%,30%
+Pickens,South,Alabama,AL,37%,22%,35%,16%,21%,34%
+Coosa,South,Alabama,AL,39%,22%,29%,16%,18%,31%
+Choctaw,South,Alabama,AL,39%,19%,32%,16%,19%,34%
+Butler,South,Alabama,AL,36%,23%,37%,16%,22%,34%
+Monroe,South,Alabama,AL,37%,22%,33%,16%,23%,32%
+Bullock,South,Alabama,AL,45%,22%,43%,17%,24%,33%
+Hale,South,Alabama,AL,36%,22%,37%,17%,23%,35%
+Marengo,South,Alabama,AL,41%,22%,33%,18%,21%,35%
+Macon,South,Alabama,AL,42%,24%,44%,18%,25%,31%
+Conecuh,South,Alabama,AL,37%,24%,41%,19%,23%,34%
+Dallas,South,Alabama,AL,42%,25%,50%,19%,29%,34%
+Lowndes,South,Alabama,AL,46%,23%,43%,19%,26%,31%
+Sumter,South,Alabama,AL,40%,24%,51%,19%,28%,31%
+Perry,South,Alabama,AL,38%,25%,66%,20%,26%,33%
+Wilcox,South,Alabama,AL,44%,25%,47%,21%,30%,32%
+Greene,South,Alabama,AL,46%,27%,46%,23%,27%,33%
+Faulkner,South,Arkansas,AL,29%,22%,17%,9%,18%,30%
+Washington,South,Arkansas,AL,29%,23%,22%,9%,17%,26%
+Benton,South,Arkansas,AL,28%,19%,16%,9%,14%,25%
+Lonoke,South,Arkansas,AL,34%,21%,18%,10%,16%,30%
+Grant,South,Arkansas,AR,37%,20%,19%,10%,15%,33%
+Pope,South,Arkansas,AR,33%,21%,25%,10%,18%,28%
+Craighead,South,Arkansas,AR,36%,24%,31%,10%,20%,34%
+Saline,South,Arkansas,AR,32%,19%,13%,10%,15%,31%
+White,South,Arkansas,AR,35%,23%,25%,10%,19%,30%
+Greene,South,Arkansas,AR,34%,23%,23%,10%,19%,39%
+Crawford,South,Arkansas,AR,36%,22%,24%,11%,18%,33%
+Perry,South,Arkansas,AR,36%,22%,27%,11%,18%,31%
+Hot Spring,South,Arkansas,AR,33%,21%,29%,11%,18%,37%
+Clark,South,Arkansas,AR,32%,23%,28%,11%,23%,32%
+Sebastian,South,Arkansas,AR,35%,23%,32%,11%,18%,31%
+Boone,South,Arkansas,AR,29%,22%,26%,12%,18%,33%
+Independence,South,Arkansas,AR,34%,23%,26%,12%,20%,37%
+Cleveland,South,Arkansas,AR,37%,20%,24%,12%,19%,32%
+Randolph,South,Arkansas,AR,35%,22%,28%,12%,19%,40%
+Franklin,South,Arkansas,AR,37%,23%,26%,12%,18%,33%
+Johnson,South,Arkansas,AR,35%,24%,29%,12%,18%,37%
+Logan,South,Arkansas,AR,35%,21%,30%,12%,18%,36%
+Yell,South,Arkansas,AR,35%,23%,27%,12%,16%,37%
+Pulaski,South,Arkansas,AR,32%,20%,24%,12%,21%,28%
+Miller,South,Arkansas,AR,34%,23%,31%,12%,21%,33%
+Lawrence,South,Arkansas,AR,33%,24%,31%,12%,21%,38%
+Pike,South,Arkansas,AR,37%,23%,30%,12%,19%,32%
+Clay,South,Arkansas,AR,33%,23%,28%,12%,21%,40%
+Madison,South,Arkansas,AR,33%,23%,28%,13%,17%,33%
+Lincoln,South,Arkansas,AR,36%,26%,30%,13%,23%,37%
+Scott,South,Arkansas,AR,31%,23%,37%,13%,17%,31%
+Poinsett,South,Arkansas,AR,40%,25%,34%,13%,22%,35%
+Cleburne,South,Arkansas,AR,31%,20%,24%,13%,17%,39%
+Conway,South,Arkansas,AR,39%,22%,27%,13%,20%,33%
+Garland,South,Arkansas,AR,31%,23%,28%,13%,19%,28%
+Jackson,South,Arkansas,AR,40%,25%,34%,13%,23%,39%
+Carroll,South,Arkansas,AR,36%,20%,30%,13%,15%,33%
+Arkansas,South,Arkansas,AR,34%,22%,29%,13%,20%,37%
+Little River,South,Arkansas,AR,33%,21%,26%,13%,18%,33%
+Columbia,South,Arkansas,AR,38%,24%,31%,13%,24%,35%
+Sevier,South,Arkansas,AR,40%,23%,31%,13%,16%,33%
+Union,South,Arkansas,AR,36%,23%,34%,13%,22%,39%
+Cross,South,Arkansas,AR,38%,23%,33%,13%,21%,36%
+Polk,South,Arkansas,AR,32%,23%,33%,13%,18%,34%
+Drew,South,Arkansas,AR,31%,25%,28%,14%,25%,32%
+Fulton,South,Arkansas,AR,32%,21%,34%,14%,18%,33%
+Izard,South,Arkansas,AR,33%,22%,29%,14%,19%,35%
+Prairie,South,Arkansas,AR,35%,22%,27%,14%,19%,35%
+Calhoun,South,Arkansas,AR,35%,22%,24%,14%,20%,36%
+Newton,South,Arkansas,AR,37%,22%,35%,14%,18%,36%
+Searcy,South,Arkansas,AR,32%,23%,38%,14%,19%,33%
+Crittenden,South,Arkansas,AR,38%,26%,41%,14%,27%,34%
+Baxter,South,Arkansas,AR,29%,20%,26%,14%,17%,32%
+Montgomery,South,Arkansas,AR,33%,21%,34%,14%,18%,32%
+Van Buren,South,Arkansas,AR,35%,23%,33%,14%,19%,34%
+Mississippi,South,Arkansas,AR,38%,26%,37%,14%,25%,40%
+Marion,South,Arkansas,AR,31%,23%,33%,14%,18%,33%
+Sharp,South,Arkansas,AR,33%,23%,34%,14%,20%,29%
+Stone,South,Arkansas,AR,35%,24%,39%,14%,21%,32%
+Ashley,South,Arkansas,AR,40%,24%,33%,14%,22%,34%
+Howard,South,Arkansas,AR,37%,25%,29%,14%,20%,34%
+Hempstead,South,Arkansas,AR,41%,26%,34%,15%,21%,36%
+Dallas,South,Arkansas,AR,36%,22%,32%,16%,24%,38%
+Ouachita,South,Arkansas,AR,38%,23%,32%,16%,24%,38%
+Jefferson,South,Arkansas,AR,39%,26%,40%,16%,26%,36%
+Bradley,South,Arkansas,AR,37%,25%,39%,16%,22%,37%
+Lafayette,South,Arkansas,AR,34%,25%,37%,16%,24%,35%
+Woodruff,South,Arkansas,AR,36%,25%,36%,16%,24%,33%
+St. Francis,South,Arkansas,AR,40%,28%,46%,16%,28%,36%
+Lee,South,Arkansas,AR,35%,28%,47%,17%,29%,35%
+Desha,South,Arkansas,AR,39%,25%,38%,17%,27%,35%
+Nevada,South,Arkansas,AR,34%,27%,34%,17%,22%,34%
+Monroe,South,Arkansas,AR,37%,26%,39%,18%,25%,38%
+Phillips,South,Arkansas,AR,42%,27%,51%,18%,30%,38%
+Chicot,South,Arkansas,AR,39%,27%,43%,18%,27%,38%
+Alachua,South,Florida,FL,25%,18%,22%,8%,20%,19%
+Leon,South,Florida,FL,28%,18%,23%,9%,21%,19%
+Santa Rosa,South,Florida,FL,26%,17%,16%,9%,15%,25%
+Okaloosa,South,Florida,FL,25%,18%,20%,9%,15%,25%
+Wakulla,South,Florida,FL,36%,18%,21%,9%,16%,26%
+St. Johns,South,Florida,FL,23%,14%,11%,9%,13%,18%
+Clay,South,Florida,FL,29%,16%,16%,9%,14%,25%
+Baker,South,Florida,FL,37%,19%,26%,9%,17%,36%
+Bay,South,Florida,FL,30%,17%,23%,9%,17%,27%
+Seminole,South,Florida,FL,25%,15%,16%,9%,14%,21%
+Orange,South,Florida,FL,24%,16%,25%,10%,16%,23%
+Liberty,South,Florida,FL,39%,21%,29%,10%,18%,31%
+Nassau,South,Florida,FL,28%,17%,18%,10%,15%,24%
+Lafayette,South,Florida,FL,37%,21%,31%,10%,16%,33%
+Escambia,South,Florida,FL,31%,18%,24%,10%,19%,26%
+Duval,South,Florida,FL,30%,18%,27%,10%,19%,24%
+Walton,South,Florida,FL,27%,18%,27%,10%,15%,24%
+Gilchrist,South,Florida,FL,32%,19%,26%,10%,17%,31%
+Hillsborough,South,Florida,FL,28%,17%,23%,10%,16%,24%
+Monroe,South,Florida,FL,21%,17%,21%,11%,13%,21%
+Bradford,South,Florida,FL,37%,19%,28%,11%,17%,33%
+Gulf,South,Florida,FL,33%,19%,30%,11%,18%,28%
+Union,South,Florida,FL,39%,21%,26%,11%,19%,31%
+Franklin,South,Florida,FL,31%,19%,37%,11%,18%,27%
+Brevard,South,Florida,FL,27%,17%,22%,11%,16%,25%
+Pinellas,South,Florida,FL,25%,18%,22%,11%,17%,24%
+Columbia,South,Florida,FL,37%,19%,31%,11%,18%,32%
+Washington,South,Florida,FL,39%,19%,29%,11%,18%,35%
+Taylor,South,Florida,FL,39%,19%,31%,11%,18%,36%
+Holmes,South,Florida,FL,32%,21%,35%,11%,17%,36%
+Sarasota,South,Florida,FL,21%,14%,19%,11%,15%,21%
+Broward,South,Florida,FL,24%,15%,20%,11%,15%,24%
+Martin,South,Florida,FL,19%,15%,21%,11%,15%,21%
+Pasco,South,Florida,FL,30%,17%,20%,11%,15%,25%
+Palm Beach,South,Florida,FL,23%,14%,22%,11%,15%,23%
+Manatee,South,Florida,FL,24%,16%,23%,11%,15%,22%
+Lee,South,Florida,FL,26%,16%,26%,11%,15%,24%
+Jackson,South,Florida,FL,36%,19%,32%,12%,18%,33%
+Suwannee,South,Florida,FL,33%,21%,33%,12%,18%,29%
+Calhoun,South,Florida,FL,41%,22%,31%,12%,18%,34%
+Dixie,South,Florida,FL,33%,20%,36%,12%,18%,32%
+Collier,South,Florida,FL,19%,14%,26%,12%,13%,18%
+Lake,South,Florida,FL,30%,15%,23%,12%,15%,26%
+Indian River,South,Florida,FL,24%,16%,25%,12%,16%,25%
+Polk,South,Florida,FL,31%,17%,27%,12%,17%,28%
+Hernando,South,Florida,FL,32%,19%,24%,12%,16%,26%
+Osceola,South,Florida,FL,29%,19%,28%,12%,13%,27%
+Hamilton,South,Florida,FL,33%,21%,40%,12%,21%,33%
+Marion,South,Florida,FL,29%,17%,30%,12%,17%,28%
+St. Lucie,South,Florida,FL,29%,18%,27%,12%,18%,26%
+Volusia,South,Florida,FL,28%,19%,27%,12%,16%,26%
+Charlotte,South,Florida,FL,26%,14%,22%,12%,15%,24%
+Levy,South,Florida,FL,32%,19%,36%,12%,18%,31%
+Okeechobee,South,Florida,FL,31%,22%,35%,12%,17%,30%
+Flagler,South,Florida,FL,25%,15%,21%,13%,17%,23%
+Hardee,South,Florida,FL,34%,22%,39%,13%,15%,34%
+Jefferson,South,Florida,FL,34%,19%,28%,13%,19%,27%
+Putnam,South,Florida,FL,35%,20%,44%,13%,20%,32%
+Glades,South,Florida,FL,34%,18%,29%,13%,17%,34%
+Madison,South,Florida,FL,34%,21%,36%,13%,21%,30%
+Hendry,South,Florida,FL,35%,21%,36%,13%,15%,31%
+Miami-Dade,South,Florida,FL,20%,15%,28%,13%,12%,22%
+Citrus,South,Florida,FL,27%,16%,34%,13%,16%,28%
+DeSoto,South,Florida,FL,36%,21%,41%,13%,16%,31%
+Sumter,South,Florida,FL,28%,12%,31%,14%,13%,22%
+Highlands,South,Florida,FL,33%,16%,32%,14%,16%,29%
+Gadsden,South,Florida,FL,38%,22%,40%,15%,23%,32%
+Chattahoochee,South,Georgia,GA,28%,18%,22%,5%,23%,28%
+Forsyth,South,Georgia,GA,26%,13%,8%,9%,9%,19%
+Cherokee,South,Georgia,GA,26%,14%,13%,9%,11%,22%
+Oconee,South,Georgia,GA,31%,13%,10%,9%,10%,22%
+Paulding,South,Georgia,GA,28%,15%,16%,9%,13%,26%
+Columbia,South,Georgia,GA,29%,14%,13%,9%,12%,23%
+Cobb,South,Georgia,GA,22%,14%,18%,9%,14%,18%
+Bryan,South,Georgia,GA,28%,15%,17%,9%,14%,26%
+Camden,South,Georgia,GA,32%,16%,18%,10%,17%,25%
+Effingham,South,Georgia,GA,34%,16%,17%,10%,13%,23%
+Barrow,South,Georgia,GA,35%,17%,19%,10%,13%,31%
+Gwinnett,South,Georgia,GA,27%,14%,20%,10%,13%,21%
+Lee,South,Georgia,GA,32%,15%,17%,10%,14%,25%
+Catoosa,South,Georgia,GA,27%,15%,19%,10%,13%,30%
+Clarke,South,Georgia,GA,25%,20%,39%,10%,22%,25%
+Dade,South,Georgia,GA,32%,16%,22%,10%,14%,27%
+Lumpkin,South,Georgia,GA,30%,17%,23%,10%,15%,26%
+Long,South,Georgia,GA,30%,18%,31%,10%,17%,28%
+Coweta,South,Georgia,GA,27%,15%,17%,10%,14%,25%
+Jackson,South,Georgia,GA,29%,16%,19%,10%,13%,28%
+Bulloch,South,Georgia,GA,35%,20%,35%,10%,22%,25%
+Liberty,South,Georgia,GA,34%,20%,28%,10%,20%,28%
+Dawson,South,Georgia,GA,29%,15%,18%,10%,13%,23%
+Walton,South,Georgia,GA,31%,15%,24%,10%,15%,24%
+Bartow,South,Georgia,GA,34%,17%,21%,10%,15%,27%
+Carroll,South,Georgia,GA,30%,18%,33%,10%,17%,29%
+Pike,South,Georgia,GA,28%,16%,18%,11%,13%,29%
+Harris,South,Georgia,GA,30%,13%,14%,11%,11%,23%
+Fulton,South,Georgia,GA,22%,14%,25%,11%,20%,19%
+Gordon,South,Georgia,GA,29%,17%,26%,11%,15%,24%
+Haralson,South,Georgia,GA,29%,17%,28%,11%,17%,28%
+Hall,South,Georgia,GA,26%,16%,25%,11%,12%,24%
+Banks,South,Georgia,GA,27%,17%,27%,11%,13%,28%
+Houston,South,Georgia,GA,32%,16%,24%,11%,16%,24%
+Murray,South,Georgia,GA,29%,19%,27%,11%,16%,32%
+Habersham,South,Georgia,GA,32%,17%,22%,11%,14%,29%
+Walker,South,Georgia,GA,33%,17%,28%,11%,15%,32%
+Pickens,South,Georgia,GA,25%,15%,22%,11%,13%,23%
+Charlton,South,Georgia,GA,31%,18%,34%,11%,17%,29%
+Brantley,South,Georgia,GA,35%,19%,32%,11%,16%,27%
+Fayette,South,Georgia,GA,29%,13%,10%,11%,12%,21%
+Henry,South,Georgia,GA,30%,15%,19%,11%,16%,24%
+Butts,South,Georgia,GA,31%,17%,31%,11%,17%,30%
+Lowndes,South,Georgia,GA,28%,19%,33%,11%,21%,29%
+Jones,South,Georgia,GA,33%,15%,21%,11%,16%,29%
+Glascock,South,Georgia,GA,31%,16%,25%,11%,18%,27%
+Chatham,South,Georgia,GA,29%,17%,28%,11%,19%,24%
+Polk,South,Georgia,GA,29%,18%,31%,11%,16%,30%
+Pierce,South,Georgia,GA,30%,18%,28%,12%,16%,33%
+Madison,South,Georgia,GA,32%,17%,29%,12%,14%,28%
+Floyd,South,Georgia,GA,29%,17%,29%,12%,17%,30%
+Bleckley,South,Georgia,GA,30%,18%,32%,12%,22%,29%
+Echols,South,Georgia,GA,29%,19%,37%,12%,14%,28%
+Oglethorpe,South,Georgia,GA,30%,15%,25%,12%,14%,27%
+White,South,Georgia,GA,28%,16%,27%,12%,15%,26%
+Newton,South,Georgia,GA,34%,17%,29%,12%,18%,30%
+Bacon,South,Georgia,GA,31%,18%,39%,12%,17%,28%
+DeKalb,South,Georgia,GA,27%,14%,33%,12%,20%,21%
+Douglas,South,Georgia,GA,34%,17%,20%,12%,17%,26%
+Lamar,South,Georgia,GA,33%,17%,31%,12%,19%,30%
+Franklin,South,Georgia,GA,27%,17%,31%,12%,16%,35%
+Whitfield,South,Georgia,GA,30%,18%,28%,12%,13%,32%
+Lanier,South,Georgia,GA,32%,20%,37%,12%,19%,28%
+Heard,South,Georgia,GA,31%,18%,28%,12%,18%,28%
+Troup,South,Georgia,GA,29%,18%,28%,12%,20%,29%
+Chattooga,South,Georgia,GA,36%,19%,28%,12%,18%,28%
+Wayne,South,Georgia,GA,32%,19%,35%,12%,19%,30%
+Stephens,South,Georgia,GA,28%,18%,30%,12%,16%,29%
+Jeff Davis,South,Georgia,GA,30%,18%,39%,12%,19%,31%
+Towns,South,Georgia,GA,26%,14%,28%,13%,13%,28%
+Morgan,South,Georgia,GA,28%,16%,24%,13%,15%,27%
+Glynn,South,Georgia,GA,28%,16%,30%,13%,18%,29%
+Monroe,South,Georgia,GA,32%,16%,21%,13%,15%,28%
+Coffee,South,Georgia,GA,32%,19%,39%,13%,19%,34%
+Tattnall,South,Georgia,GA,35%,20%,38%,13%,19%,30%
+Treutlen,South,Georgia,GA,33%,18%,40%,13%,22%,34%
+Gilmer,South,Georgia,GA,27%,16%,33%,13%,15%,28%
+Schley,South,Georgia,GA,29%,18%,27%,13%,19%,28%
+Muscogee,South,Georgia,GA,32%,19%,32%,13%,21%,28%
+Wheeler,South,Georgia,GA,34%,21%,37%,13%,23%,33%
+Tift,South,Georgia,GA,35%,18%,40%,13%,20%,30%
+Peach,South,Georgia,GA,35%,19%,33%,13%,21%,28%
+Berrien,South,Georgia,GA,34%,20%,36%,13%,17%,35%
+Crawford,South,Georgia,GA,28%,17%,31%,13%,17%,33%
+Johnson,South,Georgia,GA,34%,18%,37%,13%,21%,32%
+Appling,South,Georgia,GA,35%,18%,37%,13%,18%,30%
+Montgomery,South,Georgia,GA,37%,18%,31%,13%,19%,30%
+Dodge,South,Georgia,GA,31%,18%,37%,13%,20%,31%
+Rockdale,South,Georgia,GA,35%,16%,27%,13%,18%,28%
+Pulaski,South,Georgia,GA,32%,16%,33%,13%,18%,31%
+Rabun,South,Georgia,GA,32%,16%,33%,13%,16%,24%
+Ware,South,Georgia,GA,36%,18%,41%,13%,21%,30%
+Cook,South,Georgia,GA,29%,19%,34%,13%,19%,27%
+Baldwin,South,Georgia,GA,34%,19%,35%,13%,24%,25%
+Worth,South,Georgia,GA,37%,18%,35%,13%,18%,31%
+Toombs,South,Georgia,GA,33%,19%,38%,13%,20%,27%
+Union,South,Georgia,GA,27%,14%,29%,14%,14%,27%
+Putnam,South,Georgia,GA,32%,17%,34%,14%,16%,25%
+Hart,South,Georgia,GA,30%,17%,30%,14%,19%,29%
+Evans,South,Georgia,GA,35%,19%,39%,14%,19%,30%
+Jasper,South,Georgia,GA,31%,19%,29%,14%,17%,30%
+Spalding,South,Georgia,GA,35%,19%,41%,14%,20%,28%
+Elbert,South,Georgia,GA,32%,17%,32%,14%,19%,29%
+Irwin,South,Georgia,GA,30%,18%,35%,14%,20%,30%
+Clinch,South,Georgia,GA,30%,21%,41%,14%,21%,30%
+Fannin,South,Georgia,GA,26%,17%,32%,14%,16%,26%
+Upson,South,Georgia,GA,34%,18%,41%,14%,20%,30%
+Colquitt,South,Georgia,GA,37%,20%,40%,14%,18%,34%
+Clayton,South,Georgia,GA,40%,20%,36%,14%,23%,26%
+Wilcox,South,Georgia,GA,32%,20%,40%,14%,22%,27%
+Atkinson,South,Georgia,GA,36%,21%,38%,14%,18%,32%
+Miller,South,Georgia,GA,31%,18%,37%,14%,17%,35%
+McDuffie,South,Georgia,GA,35%,18%,42%,14%,21%,31%
+Emanuel,South,Georgia,GA,34%,21%,45%,14%,22%,30%
+Thomas,South,Georgia,GA,33%,19%,36%,14%,21%,24%
+Richmond,South,Georgia,GA,35%,20%,38%,14%,23%,28%
+Bibb,South,Georgia,GA,31%,21%,43%,14%,23%,27%
+Laurens,South,Georgia,GA,35%,19%,37%,15%,21%,32%
+McIntosh,South,Georgia,GA,31%,16%,36%,15%,18%,29%
+Marion,South,Georgia,GA,33%,19%,40%,15%,17%,31%
+Seminole,South,Georgia,GA,30%,17%,43%,15%,19%,32%
+Brooks,South,Georgia,GA,35%,19%,42%,15%,19%,29%
+Decatur,South,Georgia,GA,31%,20%,41%,15%,22%,28%
+Candler,South,Georgia,GA,32%,20%,44%,15%,19%,31%
+Jenkins,South,Georgia,GA,32%,22%,45%,15%,25%,28%
+Meriwether,South,Georgia,GA,35%,18%,34%,15%,21%,33%
+Screven,South,Georgia,GA,36%,19%,40%,15%,22%,32%
+Grady,South,Georgia,GA,31%,20%,38%,15%,20%,32%
+Lincoln,South,Georgia,GA,33%,17%,30%,15%,20%,30%
+Sumter,South,Georgia,GA,34%,20%,48%,15%,25%,29%
+Wilkinson,South,Georgia,GA,34%,18%,35%,15%,19%,30%
+Turner,South,Georgia,GA,34%,19%,47%,15%,20%,33%
+Crisp,South,Georgia,GA,30%,20%,46%,15%,24%,31%
+Ben Hill,South,Georgia,GA,36%,21%,40%,15%,24%,30%
+Telfair,South,Georgia,GA,32%,22%,42%,15%,24%,32%
+Burke,South,Georgia,GA,32%,21%,42%,15%,24%,28%
+Washington,South,Georgia,GA,35%,19%,44%,16%,22%,31%
+Taylor,South,Georgia,GA,31%,20%,35%,16%,22%,32%
+Dougherty,South,Georgia,GA,37%,21%,47%,16%,27%,29%
+Mitchell,South,Georgia,GA,31%,21%,39%,16%,22%,30%
+Early,South,Georgia,GA,31%,20%,41%,16%,23%,31%
+Baker,South,Georgia,GA,32%,18%,41%,16%,23%,29%
+Macon,South,Georgia,GA,35%,21%,41%,16%,26%,32%
+Webster,South,Georgia,GA,32%,18%,36%,17%,19%,31%
+Dooly,South,Georgia,GA,34%,22%,40%,17%,24%,32%
+Wilkes,South,Georgia,GA,33%,18%,41%,17%,22%,30%
+Stewart,South,Georgia,GA,34%,23%,45%,17%,24%,30%
+Greene,South,Georgia,GA,30%,17%,39%,17%,18%,31%
+Terrell,South,Georgia,GA,35%,21%,46%,18%,24%,31%
+Calhoun,South,Georgia,GA,35%,25%,45%,18%,25%,28%
+Talbot,South,Georgia,GA,34%,19%,37%,18%,21%,31%
+Twiggs,South,Georgia,GA,31%,21%,39%,18%,22%,32%
+Jefferson,South,Georgia,GA,38%,21%,38%,18%,26%,30%
+Warren,South,Georgia,GA,34%,19%,43%,18%,26%,33%
+Randolph,South,Georgia,GA,36%,21%,51%,19%,24%,35%
+Hancock,South,Georgia,GA,36%,21%,44%,20%,28%,30%
+Quitman,South,Georgia,GA,33%,20%,48%,21%,23%,30%
+Taliaferro,South,Georgia,GA,34%,23%,49%,21%,22%,31%
+Clay,South,Georgia,GA,31%,25%,56%,23%,25%,31%
+Oldham,South,Kentucky,KY,30%,18%,7%,10%,10%,23%
+Scott,South,Kentucky,KY,31%,21%,16%,10%,13%,24%
+Rowan,South,Kentucky,KY,34%,24%,30%,10%,18%,30%
+Boone,South,Kentucky,KY,30%,17%,11%,10%,12%,25%
+Spencer,South,Kentucky,KY,27%,19%,13%,10%,11%,30%
+Campbell,South,Kentucky,KY,33%,22%,18%,10%,14%,25%
+Madison,South,Kentucky,KY,30%,24%,23%,10%,17%,28%
+Bullitt,South,Kentucky,KY,33%,20%,17%,10%,12%,33%
+Warren,South,Kentucky,KY,29%,23%,23%,10%,16%,27%
+Fayette,South,Kentucky,KY,26%,23%,24%,11%,17%,21%
+Calloway,South,Kentucky,KY,28%,22%,25%,11%,17%,23%
+Jessamine,South,Kentucky,KY,31%,23%,22%,11%,15%,29%
+Grant,South,Kentucky,KY,34%,23%,26%,11%,15%,28%
+Hardin,South,Kentucky,KY,32%,22%,22%,11%,16%,28%
+Anderson,South,Kentucky,KY,33%,21%,17%,11%,13%,28%
+Kenton,South,Kentucky,KY,28%,22%,22%,11%,14%,24%
+Pendleton,South,Kentucky,KY,30%,22%,23%,11%,15%,32%
+Meade,South,Kentucky,KY,36%,25%,21%,11%,16%,29%
+Christian,South,Kentucky,KY,37%,27%,30%,11%,20%,31%
+Shelby,South,Kentucky,KY,34%,20%,18%,11%,13%,30%
+Nelson,South,Kentucky,KY,32%,23%,19%,11%,15%,30%
+Woodford,South,Kentucky,KY,31%,20%,16%,12%,12%,30%
+Jefferson,South,Kentucky,KY,31%,22%,24%,12%,17%,26%
+Gallatin,South,Kentucky,KY,31%,24%,26%,12%,16%,37%
+Trimble,South,Kentucky,KY,35%,22%,23%,12%,14%,28%
+Hancock,South,Kentucky,KY,33%,22%,19%,12%,13%,27%
+Graves,South,Kentucky,KY,29%,21%,26%,12%,15%,29%
+Franklin,South,Kentucky,KY,33%,21%,21%,12%,16%,29%
+Bracken,South,Kentucky,KY,31%,22%,26%,12%,15%,30%
+Clark,South,Kentucky,KY,32%,23%,25%,12%,16%,29%
+Marshall,South,Kentucky,KY,33%,19%,19%,12%,13%,29%
+Daviess,South,Kentucky,KY,29%,21%,22%,12%,14%,25%
+Owen,South,Kentucky,KY,32%,21%,25%,12%,14%,36%
+Carter,South,Kentucky,KY,34%,24%,33%,12%,17%,34%
+Boyle,South,Kentucky,KY,32%,22%,24%,12%,17%,29%
+Nicholas,South,Kentucky,KY,32%,22%,30%,12%,16%,34%
+Marion,South,Kentucky,KY,33%,25%,28%,12%,15%,25%
+Allen,South,Kentucky,KY,35%,25%,29%,12%,15%,34%
+Montgomery,South,Kentucky,KY,33%,25%,28%,12%,17%,30%
+Webster,South,Kentucky,KY,33%,22%,24%,12%,14%,30%
+Henry,South,Kentucky,KY,32%,24%,26%,12%,15%,33%
+Adair,South,Kentucky,KY,32%,24%,38%,13%,16%,32%
+Laurel,South,Kentucky,KY,35%,24%,35%,13%,17%,31%
+Washington,South,Kentucky,KY,33%,21%,21%,13%,14%,35%
+Ballard,South,Kentucky,KY,35%,22%,24%,13%,14%,33%
+Harrison,South,Kentucky,KY,30%,23%,24%,13%,17%,29%
+Muhlenberg,South,Kentucky,KY,37%,25%,30%,13%,16%,33%
+Hopkins,South,Kentucky,KY,35%,21%,25%,13%,16%,29%
+Edmonson,South,Kentucky,KY,35%,21%,28%,13%,16%,33%
+Garrard,South,Kentucky,KY,35%,23%,27%,13%,15%,31%
+Union,South,Kentucky,KY,33%,26%,23%,13%,17%,29%
+McCracken,South,Kentucky,KY,32%,20%,26%,13%,16%,28%
+Larue,South,Kentucky,KY,31%,23%,28%,13%,14%,30%
+Simpson,South,Kentucky,KY,32%,23%,24%,13%,17%,32%
+Logan,South,Kentucky,KY,36%,24%,26%,13%,16%,38%
+Livingston,South,Kentucky,KY,31%,22%,23%,13%,15%,29%
+Breckinridge,South,Kentucky,KY,37%,22%,27%,13%,15%,39%
+Henderson,South,Kentucky,KY,32%,25%,27%,13%,16%,29%
+Whitley,South,Kentucky,KY,36%,27%,39%,13%,18%,34%
+Mason,South,Kentucky,KY,34%,24%,30%,13%,17%,30%
+Boyd,South,Kentucky,KY,37%,24%,35%,13%,16%,30%
+Grayson,South,Kentucky,KY,36%,26%,31%,13%,18%,34%
+Mercer,South,Kentucky,KY,33%,22%,25%,13%,15%,30%
+Caldwell,South,Kentucky,KY,33%,22%,28%,13%,16%,33%
+Greenup,South,Kentucky,KY,38%,22%,23%,13%,15%,32%
+Bourbon,South,Kentucky,KY,34%,23%,29%,13%,16%,34%
+Powell,South,Kentucky,KY,35%,27%,39%,13%,20%,30%
+Lyon,South,Kentucky,KY,33%,21%,23%,13%,15%,31%
+Carlisle,South,Kentucky,KY,33%,22%,28%,13%,14%,31%
+McLean,South,Kentucky,KY,36%,24%,24%,13%,15%,32%
+Ohio,South,Kentucky,KY,40%,24%,29%,13%,14%,34%
+Taylor,South,Kentucky,KY,37%,25%,35%,13%,17%,35%
+Pulaski,South,Kentucky,KY,35%,25%,34%,13%,17%,32%
+Carroll,South,Kentucky,KY,38%,27%,28%,13%,18%,30%
+Martin,South,Kentucky,KY,41%,29%,43%,13%,21%,33%
+Todd,South,Kentucky,KY,33%,24%,29%,13%,16%,34%
+Fleming,South,Kentucky,KY,35%,25%,30%,13%,17%,33%
+Lawrence,South,Kentucky,KY,41%,25%,33%,13%,18%,36%
+Leslie,South,Kentucky,KY,40%,26%,38%,13%,21%,35%
+Magoffin,South,Kentucky,KY,34%,28%,41%,13%,22%,34%
+Crittenden,South,Kentucky,KY,32%,23%,31%,13%,15%,31%
+Barren,South,Kentucky,KY,33%,24%,29%,13%,16%,31%
+Johnson,South,Kentucky,KY,39%,26%,32%,13%,18%,35%
+Lincoln,South,Kentucky,KY,29%,27%,35%,13%,18%,33%
+Rockcastle,South,Kentucky,KY,39%,26%,32%,14%,16%,34%
+Knott,South,Kentucky,KY,41%,26%,44%,14%,20%,38%
+Pike,South,Kentucky,KY,38%,26%,32%,14%,18%,35%
+Floyd,South,Kentucky,KY,38%,29%,44%,14%,20%,37%
+Morgan,South,Kentucky,KY,35%,30%,40%,14%,19%,33%
+Letcher,South,Kentucky,KY,38%,25%,37%,14%,21%,35%
+Butler,South,Kentucky,KY,36%,26%,31%,14%,17%,37%
+Perry,South,Kentucky,KY,38%,27%,36%,14%,20%,36%
+Clay,South,Kentucky,KY,33%,29%,47%,14%,22%,31%
+Trigg,South,Kentucky,KY,29%,21%,26%,14%,15%,30%
+Green,South,Kentucky,KY,33%,24%,30%,14%,16%,31%
+Lee,South,Kentucky,KY,30%,27%,45%,14%,22%,37%
+Estill,South,Kentucky,KY,32%,26%,38%,14%,18%,32%
+Elliott,South,Kentucky,KY,34%,28%,40%,14%,20%,36%
+Robertson,South,Kentucky,KY,35%,24%,35%,14%,17%,33%
+Hart,South,Kentucky,KY,35%,26%,34%,14%,17%,34%
+Bath,South,Kentucky,KY,31%,27%,34%,14%,18%,30%
+Russell,South,Kentucky,KY,34%,24%,37%,14%,18%,35%
+Menifee,South,Kentucky,KY,33%,26%,42%,14%,19%,29%
+Clinton,South,Kentucky,KY,33%,26%,38%,14%,17%,32%
+Metcalfe,South,Kentucky,KY,34%,26%,38%,14%,16%,35%
+Monroe,South,Kentucky,KY,31%,26%,39%,15%,16%,28%
+Jackson,South,Kentucky,KY,41%,28%,36%,15%,22%,34%
+Breathitt,South,Kentucky,KY,43%,29%,44%,15%,20%,33%
+Lewis,South,Kentucky,KY,37%,30%,45%,15%,19%,35%
+Hickman,South,Kentucky,KY,35%,22%,29%,15%,16%,32%
+Casey,South,Kentucky,KY,36%,27%,43%,15%,16%,33%
+Wayne,South,Kentucky,KY,35%,25%,38%,15%,18%,35%
+Knox,South,Kentucky,KY,37%,29%,49%,15%,22%,34%
+Harlan,South,Kentucky,KY,37%,28%,43%,15%,23%,40%
+Bell,South,Kentucky,KY,36%,30%,45%,15%,23%,35%
+Owsley,South,Kentucky,KY,37%,29%,55%,15%,21%,31%
+Cumberland,South,Kentucky,KY,34%,25%,38%,15%,18%,34%
+McCreary,South,Kentucky,KY,34%,33%,50%,15%,22%,28%
+Fulton,South,Kentucky,KY,35%,26%,45%,16%,23%,31%
+Wolfe,South,Kentucky,KY,33%,30%,50%,16%,22%,34%
+Vernon,South,Louisiana,LA,38%,22%,20%,9%,15%,29%
+Livingston,South,Louisiana,LA,36%,23%,17%,9%,11%,29%
+Ascension,South,Louisiana,LA,32%,19%,18%,9%,11%,28%
+Cameron,South,Louisiana,LA,35%,20%,17%,9%,8%,28%
+St. Tammany,South,Louisiana,LA,28%,19%,15%,9%,10%,25%
+Lafayette,South,Louisiana,LA,29%,23%,20%,10%,14%,26%
+Lafourche,South,Louisiana,LA,36%,20%,25%,10%,11%,34%
+Plaquemines,South,Louisiana,LA,35%,20%,20%,10%,12%,32%
+Bossier,South,Louisiana,LA,34%,21%,22%,10%,13%,27%
+Grant,South,Louisiana,LA,34%,23%,26%,10%,13%,30%
+St. Charles,South,Louisiana,LA,36%,20%,18%,10%,12%,33%
+Vermilion,South,Louisiana,LA,32%,22%,25%,10%,13%,33%
+Lincoln,South,Louisiana,LA,34%,25%,31%,10%,21%,27%
+Beauregard,South,Louisiana,LA,35%,22%,23%,10%,13%,30%
+Terrebonne,South,Louisiana,LA,40%,23%,27%,10%,12%,34%
+St. Bernard,South,Louisiana,LA,35%,24%,27%,10%,14%,37%
+La Salle,South,Louisiana,LA,39%,23%,21%,11%,11%,29%
+Allen,South,Louisiana,LA,35%,23%,26%,11%,15%,34%
+East Baton Rouge,South,Louisiana,LA,32%,20%,24%,11%,17%,25%
+Calcasieu,South,Louisiana,LA,33%,25%,26%,11%,14%,33%
+Tangipahoa,South,Louisiana,LA,40%,23%,32%,11%,17%,34%
+St. Martin,South,Louisiana,LA,35%,23%,27%,11%,14%,31%
+Acadia,South,Louisiana,LA,32%,23%,28%,11%,14%,38%
+West Baton Rouge,South,Louisiana,LA,38%,21%,29%,11%,15%,30%
+Jefferson,South,Louisiana,LA,32%,19%,26%,11%,14%,31%
+Jefferson Davis,South,Louisiana,LA,36%,22%,28%,12%,14%,34%
+Iberia,South,Louisiana,LA,38%,22%,29%,12%,15%,34%
+Caldwell,South,Louisiana,LA,37%,23%,31%,12%,15%,35%
+Ouachita,South,Louisiana,LA,35%,23%,36%,12%,18%,33%
+Assumption,South,Louisiana,LA,33%,21%,27%,12%,15%,29%
+Evangeline,South,Louisiana,LA,37%,25%,32%,12%,17%,33%
+St. John the Baptist,South,Louisiana,LA,35%,23%,31%,12%,16%,32%
+Catahoula,South,Louisiana,LA,37%,24%,32%,12%,17%,33%
+West Carroll,South,Louisiana,LA,37%,24%,32%,12%,19%,34%
+Rapides,South,Louisiana,LA,37%,25%,27%,12%,16%,32%
+Natchitoches,South,Louisiana,LA,38%,24%,38%,12%,20%,30%
+St. Mary,South,Louisiana,LA,38%,24%,30%,13%,16%,34%
+Avoyelles,South,Louisiana,LA,39%,25%,34%,13%,17%,36%
+St. James,South,Louisiana,LA,38%,21%,25%,13%,16%,32%
+Orleans,South,Louisiana,LA,32%,23%,43%,13%,22%,26%
+Sabine,South,Louisiana,LA,40%,23%,27%,13%,14%,33%
+Caddo,South,Louisiana,LA,35%,23%,37%,13%,18%,31%
+Iberville,South,Louisiana,LA,40%,24%,31%,13%,17%,32%
+Pointe Coupee,South,Louisiana,LA,38%,21%,28%,13%,15%,32%
+East Feliciana,South,Louisiana,LA,39%,23%,25%,13%,16%,33%
+Richland,South,Louisiana,LA,39%,24%,36%,13%,18%,35%
+West Feliciana,South,Louisiana,LA,38%,24%,21%,13%,16%,28%
+Jackson,South,Louisiana,LA,39%,24%,33%,13%,17%,35%
+Webster,South,Louisiana,LA,33%,24%,32%,13%,17%,36%
+Winn,South,Louisiana,LA,36%,25%,34%,13%,17%,33%
+Union,South,Louisiana,LA,36%,23%,33%,13%,16%,33%
+Franklin,South,Louisiana,LA,36%,24%,44%,13%,20%,37%
+Washington,South,Louisiana,LA,40%,26%,38%,13%,18%,34%
+St. Landry,South,Louisiana,LA,42%,25%,40%,14%,18%,34%
+De Soto,South,Louisiana,LA,37%,24%,31%,14%,17%,34%
+Red River,South,Louisiana,LA,40%,24%,35%,14%,17%,37%
+Concordia,South,Louisiana,LA,39%,27%,43%,14%,22%,37%
+Claiborne,South,Louisiana,LA,38%,24%,37%,14%,21%,32%
+Morehouse,South,Louisiana,LA,40%,26%,45%,15%,22%,36%
+Bienville,South,Louisiana,LA,38%,24%,38%,15%,19%,36%
+St. Helena,South,Louisiana,LA,41%,25%,37%,16%,20%,34%
+Madison,South,Louisiana,LA,43%,32%,51%,16%,26%,32%
+East Carroll,South,Louisiana,LA,43%,33%,54%,18%,30%,37%
+Tensas,South,Louisiana,LA,34%,29%,45%,19%,23%,37%
+Lafayette,South,Mississippi,MS,35%,20%,22%,9%,21%,29%
+Lamar,South,Mississippi,MS,35%,18%,21%,9%,18%,28%
+DeSoto,South,Mississippi,MS,37%,17%,15%,9%,15%,32%
+Rankin,South,Mississippi,MS,31%,18%,15%,9%,15%,29%
+George,South,Mississippi,MS,34%,18%,24%,10%,17%,34%
+Oktibbeha,South,Mississippi,MS,33%,21%,32%,10%,25%,27%
+Stone,South,Mississippi,MS,32%,19%,28%,10%,17%,31%
+Madison,South,Mississippi,MS,32%,17%,18%,10%,18%,29%
+Greene,South,Mississippi,MS,38%,20%,25%,10%,19%,33%
+Pontotoc,South,Mississippi,MS,33%,18%,25%,11%,16%,36%
+Itawamba,South,Mississippi,MS,33%,19%,24%,11%,17%,38%
+Lee,South,Mississippi,MS,32%,19%,30%,11%,19%,34%
+Forrest,South,Mississippi,MS,34%,22%,33%,11%,23%,32%
+Harrison,South,Mississippi,MS,33%,21%,27%,11%,20%,30%
+Jackson,South,Mississippi,MS,31%,18%,23%,11%,18%,30%
+Hancock,South,Mississippi,MS,30%,20%,29%,11%,17%,32%
+Union,South,Mississippi,MS,34%,20%,23%,12%,18%,34%
+Pearl River,South,Mississippi,MS,32%,19%,29%,12%,18%,31%
+Alcorn,South,Mississippi,MS,34%,20%,29%,12%,18%,38%
+Prentiss,South,Mississippi,MS,31%,20%,30%,12%,20%,38%
+Tishomingo,South,Mississippi,MS,36%,19%,26%,12%,17%,34%
+Tate,South,Mississippi,MS,35%,21%,27%,12%,20%,37%
+Tippah,South,Mississippi,MS,34%,21%,27%,12%,20%,37%
+Webster,South,Mississippi,MS,36%,20%,32%,12%,22%,34%
+Smith,South,Mississippi,MS,36%,18%,32%,12%,19%,37%
+Jones,South,Mississippi,MS,38%,20%,36%,13%,19%,36%
+Lauderdale,South,Mississippi,MS,34%,20%,33%,13%,22%,35%
+Perry,South,Mississippi,MS,37%,20%,33%,13%,19%,37%
+Newton,South,Mississippi,MS,31%,19%,31%,13%,19%,36%
+Neshoba,South,Mississippi,MS,37%,22%,29%,13%,19%,35%
+Monroe,South,Mississippi,MS,36%,20%,30%,13%,22%,37%
+Lincoln,South,Mississippi,MS,39%,20%,29%,13%,20%,34%
+Lawrence,South,Mississippi,MS,39%,19%,31%,13%,20%,35%
+Lowndes,South,Mississippi,MS,35%,20%,34%,13%,24%,30%
+Warren,South,Mississippi,MS,36%,20%,33%,13%,23%,37%
+Scott,South,Mississippi,MS,34%,21%,36%,13%,19%,34%
+Simpson,South,Mississippi,MS,40%,20%,36%,14%,20%,39%
+Tallahatchie,South,Mississippi,MS,40%,21%,48%,14%,24%,35%
+Clarke,South,Mississippi,MS,36%,19%,33%,14%,21%,37%
+Marshall,South,Mississippi,MS,39%,20%,34%,14%,22%,39%
+Covington,South,Mississippi,MS,36%,20%,36%,14%,21%,36%
+Calhoun,South,Mississippi,MS,35%,20%,38%,14%,21%,33%
+Grenada,South,Mississippi,MS,40%,19%,35%,14%,22%,36%
+Wayne,South,Mississippi,MS,38%,21%,35%,14%,23%,37%
+Hinds,South,Mississippi,MS,35%,21%,35%,14%,25%,33%
+Panola,South,Mississippi,MS,35%,21%,39%,14%,24%,39%
+Franklin,South,Mississippi,MS,39%,20%,29%,14%,21%,34%
+Copiah,South,Mississippi,MS,38%,21%,38%,14%,23%,37%
+Benton,South,Mississippi,MS,38%,21%,38%,14%,22%,35%
+Leake,South,Mississippi,MS,39%,22%,43%,14%,22%,36%
+Carroll,South,Mississippi,MS,32%,19%,26%,14%,20%,36%
+Choctaw,South,Mississippi,MS,34%,20%,35%,14%,22%,35%
+Walthall,South,Mississippi,MS,38%,20%,40%,14%,22%,36%
+Marion,South,Mississippi,MS,35%,23%,40%,14%,22%,36%
+Yazoo,South,Mississippi,MS,40%,23%,39%,14%,27%,36%
+Yalobusha,South,Mississippi,MS,38%,20%,34%,15%,21%,36%
+Chickasaw,South,Mississippi,MS,37%,22%,35%,15%,23%,35%
+Pike,South,Mississippi,MS,38%,21%,41%,15%,24%,33%
+Issaquena,South,Mississippi,MS,37%,25%,48%,15%,30%,35%
+Attala,South,Mississippi,MS,40%,20%,33%,15%,23%,37%
+Clay,South,Mississippi,MS,38%,20%,42%,15%,29%,39%
+Winston,South,Mississippi,MS,36%,22%,40%,15%,25%,41%
+Montgomery,South,Mississippi,MS,38%,20%,36%,15%,25%,34%
+Tunica,South,Mississippi,MS,42%,24%,42%,15%,32%,39%
+Sunflower,South,Mississippi,MS,42%,23%,45%,16%,31%,36%
+Wilkinson,South,Mississippi,MS,41%,22%,40%,16%,26%,39%
+Jasper,South,Mississippi,MS,39%,22%,32%,16%,22%,36%
+Amite,South,Mississippi,MS,39%,21%,32%,16%,21%,35%
+Adams,South,Mississippi,MS,36%,22%,47%,16%,24%,29%
+Bolivar,South,Mississippi,MS,34%,23%,43%,16%,28%,35%
+Kemper,South,Mississippi,MS,38%,22%,37%,16%,27%,33%
+Coahoma,South,Mississippi,MS,46%,25%,48%,17%,32%,38%
+Washington,South,Mississippi,MS,41%,24%,48%,17%,31%,39%
+Leflore,South,Mississippi,MS,42%,24%,54%,17%,32%,36%
+Jefferson Davis,South,Mississippi,MS,38%,24%,43%,18%,25%,36%
+Claiborne,South,Mississippi,MS,43%,26%,50%,18%,30%,37%
+Noxubee,South,Mississippi,MS,42%,24%,45%,18%,30%,40%
+Sharkey,South,Mississippi,MS,41%,24%,54%,19%,28%,38%
+Quitman,South,Mississippi,MS,42%,27%,51%,19%,30%,35%
+Holmes,South,Mississippi,MS,47%,27%,58%,19%,33%,38%
+Humphreys,South,Mississippi,MS,44%,27%,57%,20%,33%,38%
+Jefferson,South,Mississippi,MS,44%,27%,45%,20%,33%,37%
+Onslow,South,North Carolina,NC,26%,20%,20%,7%,17%,23%
+Wake,South,North Carolina,NC,25%,15%,14%,8%,14%,18%
+Orange,South,North Carolina,NC,20%,17%,13%,8%,15%,15%
+Watauga,South,North Carolina,NC,26%,21%,19%,8%,20%,22%
+Union,South,North Carolina,NC,27%,17%,15%,9%,12%,19%
+Cabarrus,South,North Carolina,NC,28%,18%,17%,9%,15%,24%
+Camden,South,North Carolina,NC,32%,16%,14%,9%,13%,24%
+Mecklenburg,South,North Carolina,NC,24%,16%,21%,9%,18%,21%
+New Hanover,South,North Carolina,NC,26%,16%,23%,9%,18%,21%
+Currituck,South,North Carolina,NC,28%,18%,17%,9%,13%,25%
+Dare,South,North Carolina,NC,28%,17%,19%,10%,15%,27%
+Iredell,South,North Carolina,NC,28%,17%,19%,10%,15%,23%
+Lincoln,South,North Carolina,NC,29%,19%,21%,10%,15%,28%
+Durham,South,North Carolina,NC,28%,17%,22%,10%,18%,21%
+Buncombe,South,North Carolina,NC,23%,19%,21%,10%,15%,21%
+Harnett,South,North Carolina,NC,33%,20%,27%,10%,17%,28%
+Jackson,South,North Carolina,NC,32%,20%,28%,10%,17%,28%
+Pitt,South,North Carolina,NC,34%,21%,27%,10%,21%,26%
+Madison,South,North Carolina,NC,25%,19%,29%,10%,15%,28%
+Davie,South,North Carolina,NC,28%,16%,21%,10%,14%,27%
+Craven,South,North Carolina,NC,30%,18%,26%,10%,18%,29%
+Catawba,South,North Carolina,NC,31%,19%,23%,10%,16%,30%
+Johnston,South,North Carolina,NC,35%,20%,22%,10%,15%,24%
+Stanly,South,North Carolina,NC,30%,18%,22%,10%,16%,32%
+Davidson,South,North Carolina,NC,30%,18%,23%,10%,16%,31%
+Stokes,South,North Carolina,NC,34%,19%,21%,10%,15%,31%
+Carteret,South,North Carolina,NC,26%,17%,24%,11%,15%,26%
+Alexander,South,North Carolina,NC,33%,19%,23%,11%,15%,26%
+Guilford,South,North Carolina,NC,28%,19%,25%,11%,19%,23%
+Avery,South,North Carolina,NC,26%,19%,32%,11%,16%,24%
+Yadkin,South,North Carolina,NC,32%,20%,27%,11%,14%,26%
+Henderson,South,North Carolina,NC,24%,16%,22%,11%,13%,24%
+Haywood,South,North Carolina,NC,26%,17%,27%,11%,15%,24%
+Randolph,South,North Carolina,NC,30%,20%,26%,11%,15%,31%
+Caldwell,South,North Carolina,NC,31%,21%,28%,11%,17%,28%
+Gaston,South,North Carolina,NC,34%,21%,23%,11%,18%,30%
+Cumberland,South,North Carolina,NC,32%,22%,26%,11%,20%,27%
+Burke,South,North Carolina,NC,32%,19%,30%,11%,17%,30%
+McDowell,South,North Carolina,NC,30%,20%,27%,11%,17%,31%
+Moore,South,North Carolina,NC,28%,17%,24%,11%,15%,24%
+Alamance,South,North Carolina,NC,34%,19%,24%,11%,17%,26%
+Rowan,South,North Carolina,NC,34%,20%,29%,11%,17%,31%
+Mitchell,South,North Carolina,NC,29%,18%,29%,11%,17%,30%
+Yancey,South,North Carolina,NC,27%,19%,30%,11%,16%,25%
+Pender,South,North Carolina,NC,29%,19%,21%,11%,17%,26%
+Hoke,South,North Carolina,NC,35%,23%,28%,11%,19%,30%
+Transylvania,South,North Carolina,NC,24%,16%,29%,11%,15%,23%
+Lee,South,North Carolina,NC,29%,20%,28%,11%,17%,25%
+Polk,South,North Carolina,NC,27%,15%,25%,11%,14%,26%
+Pasquotank,South,North Carolina,NC,34%,19%,28%,11%,21%,28%
+Forsyth,South,North Carolina,NC,29%,18%,28%,11%,17%,24%
+Surry,South,North Carolina,NC,29%,19%,26%,11%,16%,32%
+Granville,South,North Carolina,NC,37%,19%,19%,11%,17%,29%
+Graham,South,North Carolina,NC,31%,19%,33%,11%,19%,26%
+Cleveland,South,North Carolina,NC,32%,20%,31%,11%,19%,30%
+Ashe,South,North Carolina,NC,26%,18%,31%,12%,17%,27%
+Franklin,South,North Carolina,NC,32%,20%,23%,12%,16%,29%
+Chatham,South,North Carolina,NC,27%,16%,21%,12%,12%,23%
+Wilkes,South,North Carolina,NC,26%,20%,30%,12%,17%,29%
+Brunswick,South,North Carolina,NC,29%,17%,30%,12%,16%,21%
+Wayne,South,North Carolina,NC,35%,20%,36%,12%,19%,27%
+Rockingham,South,North Carolina,NC,34%,20%,29%,12%,18%,31%
+Rutherford,South,North Carolina,NC,28%,22%,32%,12%,19%,29%
+Macon,South,North Carolina,NC,25%,18%,33%,12%,16%,28%
+Cherokee,South,North Carolina,NC,29%,19%,33%,12%,16%,30%
+Person,South,North Carolina,NC,33%,19%,26%,12%,18%,27%
+Alleghany,South,North Carolina,NC,26%,19%,34%,12%,15%,33%
+Hyde,South,North Carolina,NC,30%,19%,29%,12%,20%,29%
+Swain,South,North Carolina,NC,35%,23%,29%,12%,19%,29%
+Richmond,South,North Carolina,NC,37%,21%,37%,13%,22%,32%
+Clay,South,North Carolina,NC,29%,18%,30%,13%,16%,32%
+Montgomery,South,North Carolina,NC,32%,21%,31%,13%,18%,28%
+Pamlico,South,North Carolina,NC,32%,17%,32%,13%,16%,27%
+Nash,South,North Carolina,NC,31%,19%,26%,13%,21%,31%
+Gates,South,North Carolina,NC,34%,19%,24%,13%,18%,31%
+Greene,South,North Carolina,NC,34%,22%,38%,13%,19%,29%
+Beaufort,South,North Carolina,NC,33%,18%,29%,13%,19%,29%
+Wilson,South,North Carolina,NC,38%,22%,39%,13%,22%,31%
+Sampson,South,North Carolina,NC,39%,20%,37%,14%,17%,32%
+Perquimans,South,North Carolina,NC,33%,19%,29%,14%,19%,26%
+Caswell,South,North Carolina,NC,36%,19%,29%,14%,20%,32%
+Jones,South,North Carolina,NC,34%,19%,37%,14%,19%,29%
+Tyrrell,South,North Carolina,NC,31%,21%,37%,14%,18%,27%
+Columbus,South,North Carolina,NC,31%,23%,35%,14%,21%,28%
+Duplin,South,North Carolina,NC,29%,22%,38%,14%,18%,32%
+Anson,South,North Carolina,NC,35%,24%,36%,14%,23%,30%
+Vance,South,North Carolina,NC,37%,22%,39%,15%,24%,33%
+Chowan,South,North Carolina,NC,32%,20%,36%,15%,22%,28%
+Lenoir,South,North Carolina,NC,36%,21%,36%,15%,22%,33%
+Scotland,South,North Carolina,NC,37%,25%,42%,15%,26%,27%
+Bladen,South,North Carolina,NC,35%,23%,36%,15%,22%,33%
+Martin,South,North Carolina,NC,36%,22%,32%,15%,22%,32%
+Hertford,South,North Carolina,NC,35%,22%,35%,16%,24%,33%
+Halifax,South,North Carolina,NC,39%,23%,35%,16%,25%,35%
+Edgecombe,South,North Carolina,NC,39%,22%,38%,16%,26%,33%
+Washington,South,North Carolina,NC,33%,21%,43%,16%,22%,29%
+Robeson,South,North Carolina,NC,39%,29%,47%,16%,22%,34%
+Warren,South,North Carolina,NC,38%,22%,35%,17%,23%,30%
+Bertie,South,North Carolina,NC,36%,23%,39%,17%,24%,33%
+Northampton,South,North Carolina,NC,38%,21%,38%,18%,23%,34%
+Pickens,South,South Carolina,SC,31%,19%,22%,10%,14%,23%
+Lexington,South,South Carolina,SC,32%,19%,20%,10%,12%,26%
+Dorchester,South,South Carolina,SC,31%,19%,19%,10%,14%,22%
+Greenville,South,South Carolina,SC,29%,17%,22%,10%,14%,23%
+Berkeley,South,South Carolina,SC,37%,21%,21%,10%,14%,25%
+York,South,South Carolina,SC,29%,18%,19%,11%,15%,22%
+Charleston,South,South Carolina,SC,25%,18%,26%,11%,16%,21%
+Richland,South,South Carolina,SC,32%,16%,22%,11%,18%,22%
+Spartanburg,South,South Carolina,SC,29%,21%,27%,11%,15%,27%
+Beaufort,South,South Carolina,SC,23%,15%,25%,12%,12%,16%
+Anderson,South,South Carolina,SC,33%,18%,24%,12%,14%,30%
+Horry,South,South Carolina,SC,29%,20%,30%,12%,15%,23%
+Aiken,South,South Carolina,SC,32%,19%,28%,12%,15%,26%
+Oconee,South,South Carolina,SC,29%,20%,24%,12%,14%,24%
+Cherokee,South,South Carolina,SC,35%,22%,32%,12%,18%,34%
+Lancaster,South,South Carolina,SC,33%,20%,30%,12%,16%,24%
+Kershaw,South,South Carolina,SC,31%,20%,25%,12%,14%,29%
+Greenwood,South,South Carolina,SC,33%,18%,33%,13%,18%,25%
+Newberry,South,South Carolina,SC,33%,19%,30%,13%,15%,26%
+Sumter,South,South Carolina,SC,35%,19%,33%,13%,19%,30%
+Edgefield,South,South Carolina,SC,32%,20%,27%,13%,16%,27%
+Florence,South,South Carolina,SC,37%,21%,28%,13%,19%,27%
+Saluda,South,South Carolina,SC,36%,19%,33%,13%,14%,28%
+Laurens,South,South Carolina,SC,38%,21%,31%,13%,16%,33%
+Union,South,South Carolina,SC,37%,21%,29%,14%,19%,34%
+Chesterfield,South,South Carolina,SC,34%,25%,35%,14%,20%,30%
+Chester,South,South Carolina,SC,39%,20%,34%,14%,20%,30%
+Darlington,South,South Carolina,SC,36%,23%,36%,14%,19%,32%
+Abbeville,South,South Carolina,SC,34%,21%,30%,14%,18%,30%
+Georgetown,South,South Carolina,SC,34%,18%,32%,15%,17%,27%
+Hampton,South,South Carolina,SC,41%,21%,35%,15%,21%,33%
+Calhoun,South,South Carolina,SC,36%,20%,29%,15%,17%,30%
+Orangeburg,South,South Carolina,SC,41%,20%,43%,15%,23%,28%
+Colleton,South,South Carolina,SC,40%,22%,35%,15%,19%,31%
+Jasper,South,South Carolina,SC,39%,22%,41%,15%,17%,27%
+Barnwell,South,South Carolina,SC,38%,22%,42%,16%,22%,31%
+Bamberg,South,South Carolina,SC,41%,21%,41%,16%,24%,34%
+Dillon,South,South Carolina,SC,39%,25%,42%,16%,23%,36%
+Marlboro,South,South Carolina,SC,37%,25%,47%,16%,24%,33%
+McCormick,South,South Carolina,SC,34%,19%,41%,16%,19%,32%
+Clarendon,South,South Carolina,SC,40%,21%,39%,16%,21%,28%
+Lee,South,South Carolina,SC,44%,24%,36%,17%,22%,31%
+Fairfield,South,South Carolina,SC,40%,22%,35%,17%,21%,29%
+Marion,South,South Carolina,SC,39%,25%,48%,17%,25%,31%
+Williamsburg,South,South Carolina,SC,43%,22%,44%,18%,23%,34%
+Allendale,South,South Carolina,SC,40%,25%,49%,19%,28%,34%
+Williamson,South,Tennessee,TN,27%,16%,6%,9%,9%,23%
+Rutherford,South,Tennessee,TN,34%,22%,16%,9%,14%,27%
+Montgomery,South,Tennessee,TN,29%,23%,17%,9%,17%,29%
+Knox,South,Tennessee,TN,29%,22%,23%,10%,15%,30%
+Cheatham,South,Tennessee,TN,33%,22%,19%,10%,13%,35%
+Wilson,South,Tennessee,TN,33%,20%,14%,10%,12%,33%
+Sumner,South,Tennessee,TN,28%,20%,17%,10%,13%,29%
+Robertson,South,Tennessee,TN,35%,22%,19%,10%,13%,34%
+Davidson,South,Tennessee,TN,32%,22%,32%,11%,17%,26%
+Putnam,South,Tennessee,TN,34%,23%,26%,11%,17%,32%
+Dickson,South,Tennessee,TN,38%,23%,21%,11%,14%,40%
+Smith,South,Tennessee,TN,36%,21%,22%,11%,15%,35%
+Weakley,South,Tennessee,TN,31%,25%,27%,11%,19%,35%
+Bradley,South,Tennessee,TN,34%,23%,24%,11%,16%,37%
+Chester,South,Tennessee,TN,32%,22%,25%,11%,17%,29%
+Washington,South,Tennessee,TN,32%,23%,22%,11%,16%,33%
+Blount,South,Tennessee,TN,34%,21%,22%,11%,14%,35%
+Tipton,South,Tennessee,TN,34%,23%,21%,11%,16%,39%
+Anderson,South,Tennessee,TN,33%,23%,24%,11%,16%,34%
+Hickman,South,Tennessee,TN,32%,24%,29%,11%,15%,38%
+Jefferson,South,Tennessee,TN,28%,21%,26%,12%,16%,33%
+Sevier,South,Tennessee,TN,31%,22%,27%,12%,15%,40%
+Maury,South,Tennessee,TN,37%,22%,22%,12%,16%,33%
+Marshall,South,Tennessee,TN,33%,24%,22%,12%,16%,37%
+Morgan,South,Tennessee,TN,31%,25%,29%,12%,17%,38%
+Coffee,South,Tennessee,TN,38%,22%,26%,12%,16%,39%
+Macon,South,Tennessee,TN,35%,24%,29%,12%,16%,35%
+Moore,South,Tennessee,TN,34%,20%,21%,12%,13%,35%
+Hamilton,South,Tennessee,TN,30%,20%,22%,12%,17%,30%
+Humphreys,South,Tennessee,TN,35%,21%,26%,12%,15%,35%
+Trousdale,South,Tennessee,TN,33%,22%,26%,12%,16%,38%
+Rhea,South,Tennessee,TN,35%,23%,31%,12%,18%,40%
+Franklin,South,Tennessee,TN,31%,21%,24%,12%,14%,34%
+Cannon,South,Tennessee,TN,32%,24%,23%,12%,14%,36%
+Bedford,South,Tennessee,TN,34%,25%,28%,12%,15%,40%
+McMinn,South,Tennessee,TN,36%,22%,25%,12%,16%,39%
+DeKalb,South,Tennessee,TN,33%,23%,29%,12%,15%,40%
+Lawrence,South,Tennessee,TN,33%,24%,29%,12%,17%,37%
+Marion,South,Tennessee,TN,31%,23%,31%,12%,16%,37%
+Stewart,South,Tennessee,TN,31%,22%,27%,12%,16%,39%
+Hawkins,South,Tennessee,TN,35%,23%,28%,12%,15%,37%
+Henderson,South,Tennessee,TN,37%,23%,27%,12%,18%,38%
+Claiborne,South,Tennessee,TN,34%,24%,34%,12%,18%,35%
+Union,South,Tennessee,TN,32%,25%,33%,12%,16%,38%
+Hamblen,South,Tennessee,TN,30%,23%,34%,12%,15%,32%
+Sequatchie,South,Tennessee,TN,30%,23%,30%,12%,15%,36%
+Dyer,South,Tennessee,TN,35%,24%,28%,12%,19%,38%
+Greene,South,Tennessee,TN,33%,24%,25%,12%,17%,38%
+Wayne,South,Tennessee,TN,33%,25%,31%,12%,17%,37%
+Scott,South,Tennessee,TN,31%,27%,32%,12%,22%,42%
+Lincoln,South,Tennessee,TN,29%,23%,22%,13%,14%,37%
+Overton,South,Tennessee,TN,32%,24%,27%,13%,16%,40%
+Sullivan,South,Tennessee,TN,31%,25%,28%,13%,15%,36%
+Campbell,South,Tennessee,TN,32%,26%,34%,13%,18%,34%
+Loudon,South,Tennessee,TN,28%,20%,22%,13%,13%,30%
+White,South,Tennessee,TN,30%,24%,30%,13%,17%,37%
+Carter,South,Tennessee,TN,30%,24%,33%,13%,17%,34%
+Madison,South,Tennessee,TN,36%,22%,29%,13%,19%,31%
+Polk,South,Tennessee,TN,33%,23%,28%,13%,15%,36%
+Lewis,South,Tennessee,TN,32%,24%,32%,13%,17%,36%
+Grainger,South,Tennessee,TN,32%,25%,31%,13%,16%,39%
+Bledsoe,South,Tennessee,TN,32%,25%,35%,13%,17%,39%
+Johnson,South,Tennessee,TN,30%,24%,35%,13%,18%,36%
+Warren,South,Tennessee,TN,32%,24%,28%,13%,16%,32%
+Carroll,South,Tennessee,TN,30%,23%,28%,13%,18%,38%
+Obion,South,Tennessee,TN,32%,23%,32%,13%,18%,39%
+Houston,South,Tennessee,TN,35%,23%,27%,13%,18%,36%
+Shelby,South,Tennessee,TN,34%,21%,35%,13%,22%,30%
+Giles,South,Tennessee,TN,34%,23%,25%,13%,17%,32%
+Roane,South,Tennessee,TN,34%,21%,26%,13%,15%,41%
+Pickett,South,Tennessee,TN,34%,22%,30%,13%,17%,38%
+Unicoi,South,Tennessee,TN,32%,23%,29%,13%,16%,35%
+Lake,South,Tennessee,TN,37%,29%,44%,13%,23%,33%
+Decatur,South,Tennessee,TN,38%,23%,28%,13%,17%,39%
+Crockett,South,Tennessee,TN,35%,24%,26%,13%,17%,36%
+Perry,South,Tennessee,TN,33%,24%,33%,13%,18%,36%
+Henry,South,Tennessee,TN,36%,23%,31%,13%,18%,39%
+Van Buren,South,Tennessee,TN,32%,23%,32%,13%,17%,37%
+Monroe,South,Tennessee,TN,36%,24%,30%,13%,17%,36%
+Gibson,South,Tennessee,TN,31%,25%,27%,13%,19%,34%
+Meigs,South,Tennessee,TN,31%,25%,29%,13%,17%,34%
+McNairy,South,Tennessee,TN,36%,25%,29%,13%,18%,38%
+Jackson,South,Tennessee,TN,32%,24%,35%,14%,16%,39%
+Benton,South,Tennessee,TN,34%,24%,33%,14%,17%,40%
+Fayette,South,Tennessee,TN,33%,20%,21%,14%,16%,34%
+Hardin,South,Tennessee,TN,34%,24%,30%,14%,17%,35%
+Cocke,South,Tennessee,TN,34%,27%,40%,14%,19%,40%
+Cumberland,South,Tennessee,TN,30%,22%,29%,14%,15%,32%
+Fentress,South,Tennessee,TN,36%,26%,38%,14%,17%,37%
+Grundy,South,Tennessee,TN,30%,26%,37%,14%,18%,41%
+Hancock,South,Tennessee,TN,31%,28%,43%,14%,20%,39%
+Clay,South,Tennessee,TN,33%,24%,35%,14%,17%,35%
+Lauderdale,South,Tennessee,TN,38%,29%,32%,15%,24%,37%
+Hardeman,South,Tennessee,TN,39%,28%,33%,15%,22%,38%
+Haywood,South,Tennessee,TN,41%,26%,35%,17%,23%,38%
+Denton,South,Texas,TX,24%,14%,10%,8%,17%,21%
+Collin,South,Texas,TX,25%,12%,9%,8%,17%,20%
+Williamson,South,Texas,TX,29%,12%,10%,8%,15%,18%
+Travis,South,Texas,TX,20%,12%,23%,8%,18%,16%
+Brazos,South,Texas,TX,26%,16%,25%,8%,23%,22%
+Coryell,South,Texas,TX,32%,17%,22%,8%,22%,23%
+Rockwall,South,Texas,TX,28%,13%,9%,9%,14%,29%
+Randall,South,Texas,TX,27%,14%,13%,9%,16%,28%
+Roberts,South,Texas,TX,29%,12%,10%,9%,14%,28%
+Montgomery,South,Texas,TX,28%,14%,16%,9%,16%,23%
+Chambers,South,Texas,TX,31%,15%,12%,9%,16%,27%
+Midland,South,Texas,TX,31%,15%,14%,9%,13%,26%
+Hays,South,Texas,TX,24%,14%,17%,9%,16%,19%
+Parker,South,Texas,TX,31%,14%,15%,9%,17%,32%
+Johnson,South,Texas,TX,33%,15%,19%,9%,17%,26%
+Erath,South,Texas,TX,31%,17%,24%,9%,20%,24%
+Hartley,South,Texas,TX,30%,14%,11%,9%,16%,28%
+Bell,South,Texas,TX,30%,18%,21%,10%,21%,24%
+Glasscock,South,Texas,TX,29%,12%,12%,10%,14%,25%
+Carson,South,Texas,TX,29%,13%,12%,10%,15%,31%
+Lipscomb,South,Texas,TX,30%,14%,13%,10%,14%,28%
+Wise,South,Texas,TX,32%,14%,15%,10%,16%,24%
+Kaufman,South,Texas,TX,31%,15%,19%,10%,18%,29%
+Hardin,South,Texas,TX,34%,15%,17%,10%,20%,33%
+Lubbock,South,Texas,TX,28%,17%,21%,10%,18%,24%
+Brazoria,South,Texas,TX,32%,14%,13%,10%,16%,25%
+Andrews,South,Texas,TX,29%,14%,14%,10%,10%,26%
+Borden,South,Texas,TX,30%,12%,14%,10%,15%,29%
+Fort Bend,South,Texas,TX,24%,12%,12%,10%,15%,21%
+Archer,South,Texas,TX,30%,14%,14%,10%,17%,29%
+Garza,South,Texas,TX,31%,15%,29%,10%,12%,27%
+Armstrong,South,Texas,TX,31%,12%,16%,10%,16%,29%
+Hemphill,South,Texas,TX,31%,15%,13%,10%,13%,30%
+Orange,South,Texas,TX,31%,16%,22%,10%,22%,29%
+Taylor,South,Texas,TX,31%,16%,22%,10%,19%,24%
+Childress,South,Texas,TX,30%,16%,28%,10%,18%,30%
+Galveston,South,Texas,TX,25%,15%,20%,10%,18%,27%
+Ochiltree,South,Texas,TX,31%,15%,15%,10%,12%,29%
+Gaines,South,Texas,TX,32%,16%,19%,10%,14%,26%
+Ellis,South,Texas,TX,29%,14%,17%,10%,16%,25%
+Tarrant,South,Texas,TX,28%,15%,22%,10%,19%,26%
+Walker,South,Texas,TX,31%,19%,28%,10%,24%,28%
+Kendall,South,Texas,TX,27%,13%,12%,10%,15%,22%
+Somervell,South,Texas,TX,30%,14%,20%,10%,16%,30%
+Mitchell,South,Texas,TX,29%,15%,25%,10%,15%,27%
+Ector,South,Texas,TX,31%,16%,19%,10%,13%,31%
+Jack,South,Texas,TX,29%,17%,19%,10%,17%,25%
+Comal,South,Texas,TX,29%,13%,14%,10%,15%,23%
+Guadalupe,South,Texas,TX,32%,14%,15%,10%,13%,24%
+Oldham,South,Texas,TX,32%,16%,33%,10%,18%,27%
+Crane,South,Texas,TX,29%,13%,12%,11%,11%,26%
+Scurry,South,Texas,TX,29%,15%,18%,11%,14%,33%
+King,South,Texas,TX,29%,14%,17%,11%,18%,30%
+Harris,South,Texas,TX,27%,14%,25%,11%,18%,21%
+Cooke,South,Texas,TX,30%,15%,23%,11%,18%,26%
+Gray,South,Texas,TX,28%,16%,18%,11%,16%,30%
+Grayson,South,Texas,TX,29%,16%,22%,11%,20%,28%
+Dallam,South,Texas,TX,32%,17%,19%,11%,15%,26%
+Nacogdoches,South,Texas,TX,33%,18%,29%,11%,23%,26%
+Wheeler,South,Texas,TX,30%,14%,17%,11%,15%,30%
+Clay,South,Texas,TX,31%,14%,18%,11%,17%,32%
+Hutchinson,South,Texas,TX,33%,17%,18%,11%,17%,30%
+Wichita,South,Texas,TX,29%,19%,29%,11%,20%,29%
+Irion,South,Texas,TX,29%,13%,14%,11%,14%,29%
+Upshur,South,Texas,TX,32%,15%,24%,11%,19%,29%
+Jones,South,Texas,TX,30%,17%,27%,11%,18%,29%
+Liberty,South,Texas,TX,29%,17%,23%,11%,20%,28%
+Winkler,South,Texas,TX,31%,14%,17%,11%,10%,27%
+Montague,South,Texas,TX,28%,15%,22%,11%,18%,25%
+Shackelford,South,Texas,TX,34%,15%,19%,11%,17%,30%
+Panola,South,Texas,TX,32%,16%,22%,11%,19%,30%
+Hockley,South,Texas,TX,30%,16%,21%,11%,14%,26%
+Tom Green,South,Texas,TX,26%,16%,21%,11%,16%,30%
+Austin,South,Texas,TX,28%,13%,18%,11%,16%,27%
+Martin,South,Texas,TX,30%,16%,17%,11%,13%,30%
+Howard,South,Texas,TX,31%,16%,23%,11%,16%,27%
+McLennan,South,Texas,TX,30%,17%,28%,11%,21%,28%
+Smith,South,Texas,TX,28%,17%,26%,11%,20%,28%
+Wilson,South,Texas,TX,28%,13%,15%,11%,12%,28%
+Donley,South,Texas,TX,31%,14%,31%,11%,19%,27%
+Callahan,South,Texas,TX,29%,15%,23%,11%,18%,28%
+Dallas,South,Texas,TX,28%,15%,29%,11%,20%,25%
+Tyler,South,Texas,TX,33%,16%,26%,11%,22%,31%
+Hunt,South,Texas,TX,30%,17%,30%,11%,20%,28%
+Waller,South,Texas,TX,31%,20%,23%,11%,20%,27%
+Concho,South,Texas,TX,31%,14%,27%,11%,12%,28%
+Van Zandt,South,Texas,TX,31%,15%,23%,11%,19%,35%
+Rusk,South,Texas,TX,35%,16%,23%,11%,20%,27%
+Fannin,South,Texas,TX,32%,17%,23%,11%,21%,31%
+Gregg,South,Texas,TX,35%,17%,27%,11%,21%,29%
+Hood,South,Texas,TX,26%,13%,20%,11%,17%,26%
+Yoakum,South,Texas,TX,29%,14%,15%,11%,9%,28%
+Lampasas,South,Texas,TX,28%,15%,24%,11%,18%,28%
+Sherman,South,Texas,TX,30%,16%,17%,11%,13%,28%
+Madison,South,Texas,TX,31%,19%,28%,11%,21%,29%
+Hamilton,South,Texas,TX,33%,13%,26%,11%,18%,30%
+Jackson,South,Texas,TX,33%,14%,20%,11%,15%,28%
+Bastrop,South,Texas,TX,33%,16%,22%,11%,16%,29%
+Harrison,South,Texas,TX,33%,17%,23%,11%,21%,30%
+Washington,South,Texas,TX,30%,15%,22%,12%,20%,27%
+Lee,South,Texas,TX,31%,15%,19%,12%,16%,31%
+Young,South,Texas,TX,27%,15%,24%,12%,18%,29%
+Burnet,South,Texas,TX,31%,15%,24%,12%,17%,27%
+Moore,South,Texas,TX,31%,16%,20%,12%,12%,28%
+Potter,South,Texas,TX,30%,18%,30%,12%,19%,32%
+Blanco,South,Texas,TX,30%,13%,20%,12%,15%,24%
+Rains,South,Texas,TX,30%,14%,26%,12%,18%,29%
+Franklin,South,Texas,TX,29%,15%,26%,12%,18%,31%
+Stephens,South,Texas,TX,30%,17%,32%,12%,17%,27%
+Lamar,South,Texas,TX,34%,17%,29%,12%,23%,33%
+Bowie,South,Texas,TX,33%,18%,31%,12%,23%,30%
+Lavaca,South,Texas,TX,32%,14%,20%,12%,16%,31%
+Hansford,South,Texas,TX,29%,15%,18%,12%,13%,28%
+Brown,South,Texas,TX,28%,17%,27%,12%,18%,31%
+Hopkins,South,Texas,TX,29%,17%,33%,12%,19%,30%
+Throckmorton,South,Texas,TX,29%,14%,21%,12%,18%,29%
+Dickens,South,Texas,TX,29%,15%,30%,12%,18%,31%
+Reagan,South,Texas,TX,30%,15%,13%,12%,8%,26%
+Palo Pinto,South,Texas,TX,30%,17%,26%,12%,19%,31%
+Newton,South,Texas,TX,31%,17%,30%,12%,24%,31%
+Anderson,South,Texas,TX,33%,18%,25%,12%,22%,27%
+Victoria,South,Texas,TX,34%,15%,24%,12%,15%,28%
+Fayette,South,Texas,TX,29%,13%,18%,12%,16%,30%
+Burleson,South,Texas,TX,30%,14%,25%,12%,18%,30%
+Freestone,South,Texas,TX,31%,15%,23%,12%,19%,27%
+Titus,South,Texas,TX,32%,17%,30%,12%,17%,27%
+Bee,South,Texas,TX,31%,17%,30%,12%,15%,25%
+Bandera,South,Texas,TX,28%,14%,24%,12%,17%,28%
+Eastland,South,Texas,TX,32%,16%,28%,12%,19%,32%
+Kent,South,Texas,TX,30%,14%,20%,12%,16%,30%
+Wood,South,Texas,TX,30%,15%,25%,12%,19%,29%
+Ward,South,Texas,TX,31%,16%,19%,12%,14%,28%
+Wilbarger,South,Texas,TX,30%,16%,24%,12%,18%,29%
+Henderson,South,Texas,TX,31%,17%,31%,12%,20%,32%
+Sutton,South,Texas,TX,30%,13%,20%,12%,10%,26%
+Mills,South,Texas,TX,28%,14%,26%,12%,16%,27%
+San Patricio,South,Texas,TX,32%,14%,24%,12%,14%,30%
+Bosque,South,Texas,TX,30%,15%,24%,12%,18%,30%
+Parmer,South,Texas,TX,31%,15%,20%,12%,12%,28%
+Live Oak,South,Texas,TX,30%,15%,21%,12%,14%,32%
+Nolan,South,Texas,TX,31%,16%,30%,12%,17%,29%
+Dawson,South,Texas,TX,32%,16%,26%,12%,15%,26%
+Delta,South,Texas,TX,29%,16%,29%,12%,20%,32%
+Grimes,South,Texas,TX,32%,17%,25%,12%,19%,30%
+Jasper,South,Texas,TX,33%,17%,28%,12%,23%,31%
+Leon,South,Texas,TX,31%,15%,21%,12%,18%,32%
+Calhoun,South,Texas,TX,30%,15%,26%,12%,14%,26%
+Haskell,South,Texas,TX,30%,15%,35%,12%,18%,28%
+Hill,South,Texas,TX,31%,16%,32%,12%,19%,24%
+Sterling,South,Texas,TX,31%,16%,18%,12%,15%,28%
+Angelina,South,Texas,TX,34%,19%,26%,12%,20%,27%
+Mason,South,Texas,TX,28%,12%,25%,13%,15%,29%
+Coke,South,Texas,TX,29%,13%,22%,13%,17%,30%
+Bexar,South,Texas,TX,28%,13%,26%,13%,14%,21%
+Medina,South,Texas,TX,32%,14%,22%,13%,13%,28%
+Pecos,South,Texas,TX,30%,15%,22%,13%,11%,27%
+San Jacinto,South,Texas,TX,31%,16%,30%,13%,20%,31%
+Terry,South,Texas,TX,32%,16%,29%,13%,14%,28%
+Limestone,South,Texas,TX,35%,17%,29%,13%,20%,32%
+Polk,South,Texas,TX,34%,17%,31%,13%,21%,30%
+Navarro,South,Texas,TX,34%,18%,32%,13%,20%,28%
+Jefferson,South,Texas,TX,37%,18%,32%,13%,25%,30%
+Crockett,South,Texas,TX,31%,13%,19%,13%,11%,29%
+Caldwell,South,Texas,TX,28%,17%,24%,13%,16%,27%
+Hale,South,Texas,TX,28%,18%,33%,13%,18%,30%
+Foard,South,Texas,TX,29%,14%,25%,13%,19%,29%
+DeWitt,South,Texas,TX,33%,15%,26%,13%,15%,33%
+Upton,South,Texas,TX,30%,15%,19%,13%,12%,28%
+Karnes,South,Texas,TX,31%,17%,30%,13%,15%,31%
+Kleberg,South,Texas,TX,31%,17%,29%,13%,14%,27%
+Cherokee,South,Texas,TX,31%,18%,29%,13%,21%,33%
+Fisher,South,Texas,TX,29%,14%,23%,13%,17%,29%
+Reeves,South,Texas,TX,30%,16%,27%,13%,12%,29%
+Nueces,South,Texas,TX,32%,16%,23%,13%,14%,28%
+Collingsworth,South,Texas,TX,30%,17%,30%,13%,16%,29%
+Gillespie,South,Texas,TX,31%,13%,20%,13%,15%,28%
+Baylor,South,Texas,TX,29%,15%,29%,13%,19%,26%
+Camp,South,Texas,TX,32%,17%,36%,13%,21%,28%
+Schleicher,South,Texas,TX,29%,15%,19%,13%,13%,27%
+San Saba,South,Texas,TX,30%,16%,33%,13%,17%,29%
+Robertson,South,Texas,TX,31%,16%,29%,13%,21%,28%
+Morris,South,Texas,TX,34%,16%,30%,13%,24%,30%
+Cass,South,Texas,TX,31%,17%,30%,13%,24%,27%
+Shelby,South,Texas,TX,34%,19%,32%,13%,21%,28%
+Goliad,South,Texas,TX,32%,14%,24%,13%,14%,30%
+Kerr,South,Texas,TX,25%,14%,29%,13%,17%,30%
+Wharton,South,Texas,TX,32%,16%,24%,13%,17%,29%
+Deaf Smith,South,Texas,TX,32%,17%,28%,13%,11%,29%
+Milam,South,Texas,TX,31%,16%,29%,13%,20%,27%
+Swisher,South,Texas,TX,30%,16%,29%,13%,18%,30%
+Brewster,South,Texas,TX,28%,15%,23%,13%,15%,24%
+Colorado,South,Texas,TX,31%,15%,25%,13%,17%,28%
+Kimble,South,Texas,TX,30%,14%,34%,13%,17%,27%
+Knox,South,Texas,TX,29%,16%,33%,13%,18%,28%
+Lynn,South,Texas,TX,31%,16%,28%,13%,15%,30%
+Briscoe,South,Texas,TX,30%,16%,29%,13%,17%,29%
+Llano,South,Texas,TX,27%,13%,29%,14%,18%,27%
+McMullen,South,Texas,TX,31%,14%,14%,14%,11%,29%
+Stonewall,South,Texas,TX,29%,15%,22%,14%,17%,30%
+Atascosa,South,Texas,TX,28%,15%,24%,14%,11%,27%
+Comanche,South,Texas,TX,31%,16%,32%,14%,18%,29%
+McCulloch,South,Texas,TX,31%,16%,30%,14%,15%,29%
+Coleman,South,Texas,TX,30%,16%,36%,14%,21%,30%
+Falls,South,Texas,TX,30%,18%,31%,14%,22%,32%
+Red River,South,Texas,TX,31%,17%,31%,14%,23%,31%
+Matagorda,South,Texas,TX,33%,17%,30%,14%,19%,27%
+Terrell,South,Texas,TX,30%,13%,25%,14%,11%,30%
+Houston,South,Texas,TX,30%,18%,37%,14%,24%,32%
+Frio,South,Texas,TX,31%,18%,32%,14%,12%,25%
+Trinity,South,Texas,TX,31%,17%,31%,14%,20%,30%
+Aransas,South,Texas,TX,28%,15%,32%,14%,18%,28%
+Runnels,South,Texas,TX,28%,16%,27%,14%,17%,28%
+Gonzales,South,Texas,TX,33%,17%,29%,14%,15%,31%
+La Salle,South,Texas,TX,30%,18%,36%,14%,9%,26%
+Sabine,South,Texas,TX,29%,16%,30%,14%,25%,30%
+Marion,South,Texas,TX,33%,17%,36%,14%,24%,33%
+Cochran,South,Texas,TX,30%,17%,30%,14%,13%,29%
+Hardeman,South,Texas,TX,32%,19%,29%,14%,20%,28%
+Cottle,South,Texas,TX,30%,15%,32%,14%,19%,29%
+Motley,South,Texas,TX,28%,16%,31%,14%,20%,31%
+Castro,South,Texas,TX,30%,17%,29%,14%,14%,27%
+Refugio,South,Texas,TX,31%,14%,26%,15%,13%,28%
+Val Verde,South,Texas,TX,29%,16%,31%,15%,11%,28%
+Lamb,South,Texas,TX,29%,17%,32%,15%,15%,27%
+Crosby,South,Texas,TX,29%,16%,37%,15%,16%,27%
+Real,South,Texas,TX,30%,15%,34%,15%,18%,29%
+Bailey,South,Texas,TX,30%,18%,30%,15%,13%,28%
+Jeff Davis,South,Texas,TX,27%,13%,29%,15%,12%,26%
+Uvalde,South,Texas,TX,31%,17%,34%,15%,13%,29%
+Jim Wells,South,Texas,TX,29%,15%,29%,15%,10%,28%
+El Paso,South,Texas,TX,27%,16%,32%,15%,13%,24%
+Floyd,South,Texas,TX,29%,16%,37%,15%,16%,28%
+Webb,South,Texas,TX,32%,18%,42%,15%,11%,27%
+Hall,South,Texas,TX,31%,17%,39%,15%,19%,31%
+Menard,South,Texas,TX,29%,13%,40%,15%,17%,31%
+Hidalgo,South,Texas,TX,37%,15%,46%,16%,14%,25%
+Edwards,South,Texas,TX,29%,13%,37%,16%,12%,28%
+San Augustine,South,Texas,TX,33%,18%,38%,16%,25%,30%
+Dimmit,South,Texas,TX,31%,15%,35%,16%,10%,27%
+Kenedy,South,Texas,TX,30%,16%,30%,16%,15%,28%
+Zapata,South,Texas,TX,30%,18%,45%,16%,10%,28%
+Kinney,South,Texas,TX,29%,16%,25%,17%,14%,29%
+Willacy,South,Texas,TX,29%,20%,46%,17%,16%,27%
+Cameron,South,Texas,TX,32%,18%,47%,17%,14%,22%
+Loving,South,Texas,TX,31%,23%,19%,17%,18%,25%
+Culberson,South,Texas,TX,31%,18%,37%,18%,11%,29%
+Maverick,South,Texas,TX,30%,18%,36%,18%,13%,28%
+Jim Hogg,South,Texas,TX,30%,16%,33%,18%,6%,28%
+Duval,South,Texas,TX,30%,16%,34%,18%,9%,29%
+Starr,South,Texas,TX,30%,20%,44%,18%,15%,24%
+Zavala,South,Texas,TX,30%,19%,41%,18%,16%,28%
+Presidio,South,Texas,TX,28%,16%,34%,19%,14%,30%
+Hudspeth,South,Texas,TX,29%,21%,39%,20%,13%,26%
+Brooks,South,Texas,TX,29%,19%,46%,21%,13%,29%
+Bedford City,South,Virginia,VA,33%,0%,0%,0%,17%,25%
+Arlington,South,Virginia,VA,17%,13%,11%,6%,9%,14%
+Lexington City,South,Virginia,VA,27%,20%,17%,7%,18%,23%
+Radford City,South,Virginia,VA,29%,27%,21%,7%,20%,21%
+Montgomery,South,Virginia,VA,24%,21%,16%,7%,15%,19%
+Loudoun,South,Virginia,VA,22%,13%,4%,7%,5%,20%
+Harrisonburg City,South,Virginia,VA,27%,24%,24%,7%,17%,19%
+Williamsburg City,South,Virginia,VA,27%,18%,24%,7%,17%,24%
+Fairfax,South,Virginia,VA,20%,12%,9%,8%,6%,15%
+Stafford,South,Virginia,VA,33%,16%,8%,8%,8%,22%
+Alexandria City,South,Virginia,VA,21%,14%,16%,8%,11%,16%
+Falls Church City,South,Virginia,VA,26%,15%,3%,8%,7%,22%
+Charlottesville City,South,Virginia,VA,26%,22%,24%,8%,18%,19%
+Prince William,South,Virginia,VA,25%,15%,10%,8%,7%,18%
+Fredericksburg City,South,Virginia,VA,30%,20%,23%,8%,16%,23%
+Albemarle,South,Virginia,VA,23%,15%,10%,8%,10%,20%
+King George,South,Virginia,VA,29%,16%,11%,8%,10%,25%
+Virginia Beach City,South,Virginia,VA,27%,17%,12%,8%,11%,20%
+Frederick,South,Virginia,VA,33%,15%,12%,8%,8%,24%
+Hanover,South,Virginia,VA,27%,15%,8%,9%,8%,22%
+York,South,Virginia,VA,27%,15%,7%,9%,9%,22%
+Manassas Park,South,Virginia,VA,28%,17%,16%,9%,7%,22%
+Manassas Park,South,Virginia,VA,30%,17%,15%,9%,6%,24%
+Fairfax City,South,Virginia,VA,23%,13%,8%,9%,6%,19%
+Powhatan,South,Virginia,VA,31%,15%,9%,9%,8%,25%
+Poquoson City,South,Virginia,VA,27%,15%,7%,9%,7%,23%
+Fauquier,South,Virginia,VA,26%,16%,9%,9%,7%,24%
+Salem City,South,Virginia,VA,24%,17%,14%,9%,12%,23%
+Spotsylvania,South,Virginia,VA,34%,18%,13%,9%,9%,25%
+Roanoke,South,Virginia,VA,27%,18%,11%,9%,9%,25%
+Warren,South,Virginia,VA,28%,18%,16%,9%,10%,20%
+Rockingham,South,Virginia,VA,28%,16%,16%,9%,9%,24%
+New Kent,South,Virginia,VA,32%,16%,10%,9%,8%,23%
+Chesterfield,South,Virginia,VA,27%,17%,11%,9%,10%,20%
+Greene,South,Virginia,VA,27%,17%,14%,9%,9%,25%
+Botetourt,South,Virginia,VA,26%,15%,11%,9%,8%,24%
+Gloucester,South,Virginia,VA,33%,16%,15%,9%,9%,24%
+Chesapeake City,South,Virginia,VA,31%,16%,14%,9%,12%,22%
+Clarke,South,Virginia,VA,28%,16%,11%,9%,8%,23%
+Culpeper,South,Virginia,VA,30%,18%,15%,9%,10%,25%
+Prince George,South,Virginia,VA,35%,19%,13%,9%,12%,26%
+Norfolk City,South,Virginia,VA,31%,21%,32%,9%,19%,25%
+Fluvanna,South,Virginia,VA,30%,16%,11%,10%,8%,23%
+Bland,South,Virginia,VA,29%,17%,17%,10%,11%,28%
+King William,South,Virginia,VA,30%,17%,13%,10%,10%,29%
+Henrico,South,Virginia,VA,28%,16%,17%,10%,13%,22%
+Colonial Heights City,South,Virginia,VA,26%,16%,19%,10%,12%,26%
+Augusta,South,Virginia,VA,30%,17%,14%,10%,9%,24%
+Giles,South,Virginia,VA,31%,18%,18%,10%,11%,30%
+Lynchburg City,South,Virginia,VA,30%,20%,32%,10%,18%,22%
+Shenandoah,South,Virginia,VA,26%,17%,18%,10%,10%,21%
+Winchester City,South,Virginia,VA,27%,20%,22%,10%,13%,24%
+Newport News City,South,Virginia,VA,34%,21%,26%,10%,16%,27%
+Bedford,South,Virginia,VA,31%,16%,14%,10%,9%,23%
+Craig,South,Virginia,VA,29%,17%,21%,10%,10%,24%
+Washington,South,Virginia,VA,31%,17%,21%,10%,11%,28%
+Wise,South,Virginia,VA,33%,21%,29%,10%,15%,37%
+James City,South,Virginia,VA,25%,15%,12%,10%,9%,24%
+Goochland,South,Virginia,VA,25%,15%,10%,10%,8%,25%
+Orange,South,Virginia,VA,28%,17%,16%,10%,11%,28%
+Floyd,South,Virginia,VA,27%,19%,20%,10%,11%,23%
+Norton City,South,Virginia,VA,28%,22%,33%,10%,16%,24%
+Waynesboro City,South,Virginia,VA,30%,20%,25%,11%,15%,23%
+Russell,South,Virginia,VA,31%,22%,25%,11%,14%,29%
+Buena Vista City,South,Virginia,VA,28%,22%,25%,11%,14%,24%
+Franklin,South,Virginia,VA,27%,17%,24%,11%,11%,23%
+Staunton City,South,Virginia,VA,28%,19%,26%,11%,15%,26%
+Page,South,Virginia,VA,30%,19%,24%,11%,14%,25%
+Campbell,South,Virginia,VA,33%,19%,19%,11%,12%,29%
+Wythe,South,Virginia,VA,30%,20%,22%,11%,12%,27%
+Tazewell,South,Virginia,VA,29%,19%,25%,11%,13%,31%
+Smyth,South,Virginia,VA,27%,21%,27%,11%,14%,27%
+Rappahannock,South,Virginia,VA,26%,16%,17%,11%,9%,25%
+Amherst,South,Virginia,VA,30%,18%,21%,11%,12%,30%
+Pulaski,South,Virginia,VA,32%,20%,22%,11%,12%,26%
+Dickenson,South,Virginia,VA,30%,20%,27%,11%,14%,28%
+Isle of Wight,South,Virginia,VA,29%,17%,14%,11%,11%,26%
+Louisa,South,Virginia,VA,35%,17%,17%,11%,11%,28%
+Rockbridge,South,Virginia,VA,24%,17%,19%,11%,11%,28%
+Prince Edward,South,Virginia,VA,30%,21%,30%,11%,18%,25%
+Suffolk City,South,Virginia,VA,30%,19%,20%,11%,14%,25%
+Scott,South,Virginia,VA,33%,20%,26%,11%,13%,31%
+Richmond City,South,Virginia,VA,30%,24%,39%,11%,21%,22%
+Alleghany,South,Virginia,VA,31%,17%,22%,11%,12%,27%
+Madison,South,Virginia,VA,31%,18%,18%,11%,10%,26%
+Caroline,South,Virginia,VA,30%,19%,17%,11%,13%,22%
+Bristol City,South,Virginia,VA,29%,21%,35%,11%,16%,25%
+Covington City,South,Virginia,VA,29%,19%,27%,11%,15%,26%
+Bath,South,Virginia,VA,31%,18%,16%,11%,11%,29%
+Lee,South,Virginia,VA,28%,24%,32%,11%,16%,29%
+Mathews,South,Virginia,VA,27%,15%,18%,12%,10%,23%
+Dinwiddie,South,Virginia,VA,33%,19%,18%,12%,14%,29%
+Buchanan,South,Virginia,VA,30%,22%,31%,12%,15%,30%
+Appomattox,South,Virginia,VA,30%,20%,22%,12%,13%,26%
+Roanoke City,South,Virginia,VA,34%,21%,33%,12%,17%,26%
+Amelia,South,Virginia,VA,31%,19%,19%,12%,11%,27%
+Carroll,South,Virginia,VA,31%,20%,25%,12%,13%,26%
+Richmond,South,Virginia,VA,30%,19%,24%,12%,14%,25%
+Hampton City,South,Virginia,VA,32%,20%,22%,12%,17%,25%
+Hopewell City,South,Virginia,VA,34%,20%,31%,12%,19%,27%
+Nelson,South,Virginia,VA,28%,18%,22%,12%,12%,21%
+Galax City,South,Virginia,VA,29%,21%,35%,12%,14%,26%
+Highland,South,Virginia,VA,27%,17%,22%,12%,9%,25%
+Patrick,South,Virginia,VA,31%,20%,32%,12%,13%,27%
+Grayson,South,Virginia,VA,33%,21%,29%,12%,14%,34%
+Middlesex,South,Virginia,VA,26%,16%,26%,13%,11%,23%
+King and Queen,South,Virginia,VA,31%,18%,23%,13%,12%,28%
+Pittsylvania,South,Virginia,VA,33%,19%,20%,13%,13%,30%
+Portsmouth City,South,Virginia,VA,37%,20%,28%,13%,19%,28%
+Buckingham,South,Virginia,VA,33%,21%,27%,13%,16%,33%
+Southampton,South,Virginia,VA,33%,19%,22%,13%,15%,33%
+Essex,South,Virginia,VA,30%,19%,25%,13%,14%,30%
+Charlotte,South,Virginia,VA,32%,20%,30%,13%,16%,28%
+Henry,South,Virginia,VA,32%,20%,31%,14%,15%,36%
+Cumberland,South,Virginia,VA,31%,20%,29%,14%,15%,24%
+Lunenburg,South,Virginia,VA,27%,20%,29%,14%,17%,28%
+Nottoway,South,Virginia,VA,36%,22%,31%,14%,16%,31%
+Surry,South,Virginia,VA,33%,19%,20%,14%,15%,29%
+Sussex,South,Virginia,VA,39%,23%,31%,14%,18%,27%
+Lancaster,South,Virginia,VA,31%,15%,26%,14%,13%,26%
+Westmoreland,South,Virginia,VA,30%,20%,28%,14%,13%,30%
+Accomack,South,Virginia,VA,37%,20%,31%,14%,15%,30%
+Greensville,South,Virginia,VA,35%,24%,27%,14%,19%,29%
+Northumberland,South,Virginia,VA,26%,16%,30%,15%,13%,25%
+Mecklenburg,South,Virginia,VA,32%,19%,31%,15%,17%,27%
+Brunswick,South,Virginia,VA,35%,21%,32%,15%,20%,29%
+Halifax,South,Virginia,VA,36%,21%,25%,15%,18%,30%
+Northampton,South,Virginia,VA,35%,20%,33%,15%,17%,31%
+Martinsville City,South,Virginia,VA,33%,22%,35%,15%,23%,28%
+Danville City,South,Virginia,VA,35%,22%,37%,15%,22%,30%
+Charles City,South,Virginia,VA,36%,19%,19%,15%,14%,30%
+Franklin City,South,Virginia,VA,34%,23%,35%,16%,23%,28%
+Petersburg City,South,Virginia,VA,38%,23%,38%,16%,25%,28%
+Emporia City,South,Virginia,VA,32%,24%,42%,17%,25%,30%
+Monongalia,South,West Virginia,WV,27%,22%,17%,9%,16%,26%
+Putnam,South,West Virginia,WV,33%,19%,13%,11%,11%,29%
+Berkeley,South,West Virginia,WV,36%,26%,19%,11%,13%,28%
+Jefferson,South,West Virginia,WV,33%,22%,13%,11%,11%,28%
+Marion,South,West Virginia,WV,34%,23%,23%,11%,14%,30%
+Preston,South,West Virginia,WV,36%,24%,23%,12%,12%,35%
+Pleasants,South,West Virginia,WV,38%,23%,22%,12%,13%,32%
+Cabell,South,West Virginia,WV,33%,25%,27%,12%,16%,32%
+Doddridge,South,West Virginia,WV,35%,24%,25%,12%,13%,35%
+Ohio,South,West Virginia,WV,29%,24%,26%,12%,14%,22%
+Upshur,South,West Virginia,WV,36%,26%,27%,12%,14%,29%
+Taylor,South,West Virginia,WV,36%,24%,23%,12%,14%,36%
+Gilmer,South,West Virginia,WV,39%,28%,28%,12%,16%,30%
+Harrison,South,West Virginia,WV,33%,23%,19%,12%,14%,32%
+Jackson,South,West Virginia,WV,31%,23%,25%,12%,15%,31%
+Marshall,South,West Virginia,WV,33%,22%,21%,12%,14%,28%
+Wirt,South,West Virginia,WV,38%,23%,30%,12%,15%,34%
+Randolph,South,West Virginia,WV,36%,24%,28%,12%,14%,30%
+Brooke,South,West Virginia,WV,35%,22%,23%,13%,14%,33%
+Wood,South,West Virginia,WV,34%,24%,27%,13%,14%,32%
+Boone,South,West Virginia,WV,35%,25%,28%,13%,15%,35%
+Tyler,South,West Virginia,WV,34%,23%,24%,13%,15%,37%
+Nicholas,South,West Virginia,WV,36%,25%,27%,13%,15%,39%
+Mason,South,West Virginia,WV,36%,25%,28%,13%,16%,38%
+Barbour,South,West Virginia,WV,35%,25%,28%,13%,14%,36%
+Tucker,South,West Virginia,WV,36%,22%,25%,13%,15%,37%
+Raleigh,South,West Virginia,WV,35%,22%,25%,13%,15%,34%
+Hancock,South,West Virginia,WV,38%,23%,21%,13%,15%,34%
+Mingo,South,West Virginia,WV,41%,27%,37%,13%,18%,41%
+Morgan,South,West Virginia,WV,34%,22%,21%,13%,15%,31%
+Grant,South,West Virginia,WV,37%,22%,26%,13%,15%,38%
+Kanawha,South,West Virginia,WV,32%,23%,26%,13%,14%,30%
+Mineral,South,West Virginia,WV,35%,24%,22%,13%,16%,26%
+Lewis,South,West Virginia,WV,36%,27%,28%,13%,15%,32%
+Wetzel,South,West Virginia,WV,33%,23%,27%,13%,16%,35%
+Wyoming,South,West Virginia,WV,38%,26%,31%,13%,16%,38%
+Lincoln,South,West Virginia,WV,41%,27%,32%,13%,17%,40%
+Monroe,South,West Virginia,WV,32%,22%,29%,13%,12%,34%
+Greenbrier,South,West Virginia,WV,34%,24%,29%,13%,15%,34%
+Wayne,South,West Virginia,WV,38%,25%,28%,13%,15%,37%
+Hampshire,South,West Virginia,WV,34%,25%,30%,13%,17%,31%
+Ritchie,South,West Virginia,WV,34%,23%,26%,13%,14%,34%
+Hardy,South,West Virginia,WV,36%,24%,25%,14%,14%,37%
+Braxton,South,West Virginia,WV,31%,25%,31%,14%,16%,34%
+Logan,South,West Virginia,WV,41%,28%,28%,14%,16%,37%
+Mercer,South,West Virginia,WV,34%,24%,31%,14%,16%,34%
+Fayette,South,West Virginia,WV,35%,25%,31%,14%,16%,36%
+Summers,South,West Virginia,WV,38%,23%,34%,14%,15%,36%
+Pocahontas,South,West Virginia,WV,32%,23%,28%,14%,15%,28%
+Roane,South,West Virginia,WV,37%,26%,30%,14%,17%,35%
+Clay,South,West Virginia,WV,36%,26%,36%,14%,18%,40%
+Pendleton,South,West Virginia,WV,35%,22%,26%,14%,14%,30%
+Calhoun,South,West Virginia,WV,35%,26%,30%,14%,17%,35%
+Webster,South,West Virginia,WV,36%,27%,40%,15%,18%,36%
+McDowell,South,West Virginia,WV,40%,31%,46%,16%,20%,38%
+Fairbanks North Star,West,Alaska,AK,29%,16%,11%,6%,13%,20%
+Anchorage,West,Alaska,AK,27%,16%,14%,7%,12%,18%
+Juneau,West,Alaska,AK,27%,17%,10%,7%,11%,16%
+Denali,West,Alaska,AK,25%,18%,9%,7%,14%,18%
+Matanuska-Susitna,West,Alaska,AK,29%,21%,13%,7%,12%,22%
+Kodiak Island,West,Alaska,AK,29%,17%,11%,8%,13%,20%
+Kenai Peninsula,West,Alaska,AK,28%,20%,15%,8%,13%,24%
+Sitka,West,Alaska,AK,27%,18%,10%,8%,13%,17%
+Valdez-Cordova,West,Alaska,AK,30%,19%,11%,8%,13%,23%
+Ketchikan Gateway,West,Alaska,AK,29%,20%,18%,9%,14%,22%
+Aleutians West,West,Alaska,AK,36%,18%,10%,9%,16%,24%
+Southeast Fairbanks,West,Alaska,AK,33%,20%,21%,9%,16%,21%
+North Slope,West,Alaska,AK,35%,25%,17%,9%,14%,25%
+Petersburg Borough,West,Alaska,AK,30%,19%,13%,9%,15%,21%
+Bristol Bay,West,Alaska,AK,34%,21%,12%,9%,12%,23%
+Haines,West,Alaska,AK,27%,18%,15%,10%,15%,20%
+Aleutians East,West,Alaska,AK,31%,20%,16%,10%,18%,29%
+Yakutat,West,Alaska,AK,32%,21%,25%,10%,16%,25%
+Skagway,West,Alaska,AK,31%,21%,25%,11%,18%,20%
+Prince of Wales-Hyder,West,Alaska,AK,35%,25%,26%,11%,18%,29%
+Northwest Arctic,West,Alaska,AK,33%,35%,29%,12%,21%,26%
+Lake and Peninsula,West,Alaska,AK,32%,31%,22%,12%,17%,23%
+Dillingham,West,Alaska,AK,35%,32%,25%,12%,18%,26%
+Bethel,West,Alaska,AK,32%,34%,32%,13%,21%,27%
+Nome,West,Alaska,AK,33%,35%,34%,13%,21%,27%
+Wade Hampton,West,Alaska,AK,34%,41%,44%,14%,26%,28%
+Yukon-Koyukuk,West,Alaska,AK,27%,32%,33%,15%,21%,25%
+Coconino,West,Arizona,AZ,22%,20%,25%,9%,20%,16%
+Maricopa,West,Arizona,AZ,22%,15%,24%,9%,16%,20%
+Pima,West,Arizona,AZ,22%,15%,26%,9%,16%,18%
+Greenlee,West,Arizona,AZ,33%,17%,12%,10%,14%,24%
+Yavapai,West,Arizona,AZ,25%,15%,24%,10%,18%,20%
+Graham,West,Arizona,AZ,32%,18%,24%,11%,16%,23%
+Pinal,West,Arizona,AZ,30%,17%,25%,11%,16%,26%
+Cochise,West,Arizona,AZ,25%,16%,28%,11%,16%,23%
+Mohave,West,Arizona,AZ,28%,20%,32%,12%,19%,32%
+Yuma,West,Arizona,AZ,30%,15%,30%,12%,22%,28%
+Gila,West,Arizona,AZ,27%,18%,39%,12%,18%,26%
+Navajo,West,Arizona,AZ,31%,23%,35%,14%,24%,24%
+Santa Cruz,West,Arizona,AZ,21%,15%,35%,14%,15%,19%
+La Paz,West,Arizona,AZ,32%,16%,35%,15%,18%,30%
+Apache,West,Arizona,AZ,33%,26%,40%,17%,28%,22%
+Lassen,West,California,CA,25%,15%,20%,8%,18%,17%
+Santa Clara,West,California,CA,20%,9%,9%,8%,12%,15%
+Yolo,West,California,CA,20%,12%,18%,8%,16%,14%
+Placer,West,California,CA,23%,11%,10%,8%,13%,14%
+San Francisco,West,California,CA,15%,12%,14%,8%,17%,14%
+Mono,West,California,CA,22%,14%,16%,8%,14%,14%
+San Luis Obispo,West,California,CA,22%,12%,16%,9%,14%,15%
+Santa Cruz,West,California,CA,21%,13%,19%,9%,14%,11%
+San Mateo,West,California,CA,20%,9%,10%,9%,11%,16%
+Orange,West,California,CA,20%,11%,18%,9%,11%,15%
+Marin,West,California,CA,18%,11%,10%,9%,12%,11%
+El Dorado,West,California,CA,19%,12%,13%,9%,14%,15%
+Ventura,West,California,CA,21%,11%,16%,9%,10%,17%
+Alameda,West,California,CA,20%,11%,14%,9%,15%,15%
+Contra Costa,West,California,CA,23%,11%,14%,9%,13%,17%
+Santa Barbara,West,California,CA,19%,12%,23%,9%,12%,15%
+Humboldt,West,California,CA,25%,15%,24%,9%,19%,14%
+Yuba,West,California,CA,26%,15%,29%,9%,19%,15%
+Sonoma,West,California,CA,22%,12%,14%,9%,13%,13%
+San Diego,West,California,CA,20%,12%,19%,9%,14%,15%
+Napa,West,California,CA,24%,11%,12%,9%,11%,14%
+Butte,West,California,CA,25%,15%,24%,10%,18%,18%
+Sacramento,West,California,CA,27%,15%,24%,10%,17%,17%
+Nevada,West,California,CA,20%,12%,18%,10%,15%,15%
+Solano,West,California,CA,30%,12%,17%,10%,15%,18%
+Shasta,West,California,CA,27%,14%,20%,10%,19%,20%
+San Benito,West,California,CA,24%,12%,20%,10%,11%,14%
+Sutter,West,California,CA,28%,13%,21%,10%,18%,22%
+San Joaquin,West,California,CA,29%,14%,28%,10%,16%,19%
+Monterey,West,California,CA,24%,14%,25%,10%,13%,17%
+Riverside,West,California,CA,26%,14%,24%,10%,13%,18%
+Stanislaus,West,California,CA,32%,15%,24%,10%,16%,18%
+Kings,West,California,CA,25%,16%,34%,10%,16%,18%
+Tuolumne,West,California,CA,21%,13%,21%,10%,17%,16%
+San Bernardino,West,California,CA,29%,14%,28%,10%,13%,19%
+Amador,West,California,CA,27%,13%,19%,10%,15%,17%
+Kern,West,California,CA,29%,17%,33%,10%,15%,22%
+Calaveras,West,California,CA,25%,12%,21%,11%,15%,17%
+Del Norte,West,California,CA,27%,16%,31%,11%,19%,18%
+Tehama,West,California,CA,29%,15%,27%,11%,17%,21%
+Los Angeles,West,California,CA,21%,12%,27%,11%,15%,17%
+Inyo,West,California,CA,23%,13%,20%,11%,15%,16%
+Glenn,West,California,CA,28%,15%,24%,11%,16%,17%
+Merced,West,California,CA,29%,16%,36%,11%,17%,21%
+Mariposa,West,California,CA,23%,13%,25%,11%,17%,17%
+Mendocino,West,California,CA,23%,15%,26%,11%,16%,18%
+Colusa,West,California,CA,24%,14%,20%,11%,15%,16%
+Madera,West,California,CA,27%,16%,31%,11%,14%,20%
+Fresno,West,California,CA,29%,13%,38%,11%,17%,19%
+Tulare,West,California,CA,30%,15%,37%,11%,15%,18%
+Sierra,West,California,CA,24%,13%,19%,12%,19%,17%
+Plumas,West,California,CA,24%,13%,22%,12%,19%,16%
+Siskiyou,West,California,CA,23%,15%,30%,12%,21%,20%
+Lake,West,California,CA,27%,15%,32%,12%,20%,22%
+Modoc,West,California,CA,25%,14%,31%,12%,19%,21%
+Alpine,West,California,CA,24%,16%,28%,12%,17%,18%
+Trinity,West,California,CA,27%,15%,32%,12%,20%,20%
+Imperial,West,California,CA,25%,14%,31%,13%,17%,22%
+Douglas,West,Colorado,CO,17%,10%,4%,5%,10%,11%
+Boulder,West,Colorado,CO,13%,11%,14%,5%,14%,9%
+Eagle,West,Colorado,CO,11%,14%,12%,6%,11%,10%
+Summit,West,Colorado,CO,13%,15%,13%,6%,14%,9%
+Broomfield,West,Colorado,CO,18%,12%,6%,6%,13%,13%
+Routt,West,Colorado,CO,14%,13%,11%,6%,14%,12%
+Gunnison,West,Colorado,CO,16%,16%,17%,6%,16%,12%
+Larimer,West,Colorado,CO,19%,13%,12%,6%,14%,12%
+Jefferson,West,Colorado,CO,19%,13%,11%,6%,13%,12%
+Pitkin,West,Colorado,CO,14%,13%,9%,6%,14%,10%
+San Miguel,West,Colorado,CO,16%,15%,15%,6%,14%,13%
+Elbert,West,Colorado,CO,19%,13%,9%,6%,11%,18%
+La Plata,West,Colorado,CO,17%,13%,13%,7%,14%,13%
+El Paso,West,Colorado,CO,21%,15%,15%,7%,16%,16%
+Garfield,West,Colorado,CO,18%,16%,14%,7%,12%,12%
+Rio Blanco,West,Colorado,CO,23%,15%,16%,7%,14%,18%
+Grand,West,Colorado,CO,17%,15%,15%,7%,13%,12%
+Weld,West,Colorado,CO,26%,16%,13%,7%,12%,18%
+Denver,West,Colorado,CO,17%,16%,23%,7%,16%,13%
+Arapahoe,West,Colorado,CO,21%,14%,16%,7%,15%,16%
+Clear Creek,West,Colorado,CO,17%,13%,14%,7%,13%,16%
+Gilpin,West,Colorado,CO,19%,15%,12%,7%,13%,17%
+Moffat,West,Colorado,CO,26%,16%,16%,7%,13%,22%
+Cheyenne,West,Colorado,CO,25%,13%,20%,7%,11%,25%
+Mesa,West,Colorado,CO,23%,16%,20%,7%,15%,18%
+Yuma,West,Colorado,CO,28%,14%,20%,7%,11%,25%
+Lake,West,Colorado,CO,19%,15%,26%,7%,13%,16%
+Park,West,Colorado,CO,20%,13%,15%,8%,12%,16%
+Logan,West,Colorado,CO,25%,16%,21%,8%,15%,21%
+Adams,West,Colorado,CO,26%,18%,18%,8%,12%,20%
+Teller,West,Colorado,CO,18%,16%,15%,8%,13%,17%
+Chaffee,West,Colorado,CO,19%,14%,19%,8%,13%,15%
+Lincoln,West,Colorado,CO,26%,16%,24%,8%,15%,22%
+Washington,West,Colorado,CO,24%,14%,17%,8%,14%,18%
+Morgan,West,Colorado,CO,28%,14%,19%,8%,12%,20%
+Hinsdale,West,Colorado,CO,21%,13%,25%,8%,12%,16%
+Ouray,West,Colorado,CO,17%,13%,15%,8%,13%,14%
+Kit Carson,West,Colorado,CO,27%,17%,20%,8%,13%,27%
+Jackson,West,Colorado,CO,21%,15%,27%,8%,12%,19%
+Fremont,West,Colorado,CO,23%,16%,24%,9%,17%,20%
+Mineral,West,Colorado,CO,19%,14%,13%,9%,13%,19%
+Montezuma,West,Colorado,CO,22%,17%,27%,9%,16%,20%
+Kiowa,West,Colorado,CO,21%,15%,20%,9%,15%,21%
+Phillips,West,Colorado,CO,23%,15%,17%,9%,13%,21%
+Alamosa,West,Colorado,CO,23%,17%,29%,9%,14%,19%
+Sedgwick,West,Colorado,CO,23%,14%,22%,9%,14%,22%
+Archuleta,West,Colorado,CO,16%,14%,27%,9%,13%,15%
+Delta,West,Colorado,CO,22%,14%,23%,9%,15%,18%
+San Juan,West,Colorado,CO,20%,17%,32%,9%,16%,17%
+Baca,West,Colorado,CO,21%,15%,30%,9%,14%,22%
+Bent,West,Colorado,CO,24%,17%,34%,9%,15%,23%
+Crowley,West,Colorado,CO,23%,21%,38%,9%,16%,21%
+Montrose,West,Colorado,CO,20%,16%,23%,9%,15%,17%
+Dolores,West,Colorado,CO,21%,17%,20%,10%,16%,16%
+Pueblo,West,Colorado,CO,26%,17%,25%,10%,14%,20%
+Prowers,West,Colorado,CO,27%,17%,30%,10%,13%,22%
+Rio Grande,West,Colorado,CO,23%,15%,31%,10%,13%,20%
+Custer,West,Colorado,CO,21%,16%,31%,11%,15%,19%
+Otero,West,Colorado,CO,27%,17%,35%,11%,15%,21%
+Las Animas,West,Colorado,CO,21%,15%,26%,11%,13%,22%
+Conejos,West,Colorado,CO,22%,15%,30%,12%,11%,21%
+Huerfano,West,Colorado,CO,21%,14%,38%,12%,15%,22%
+Saguache,West,Colorado,CO,21%,18%,40%,12%,15%,19%
+Costilla,West,Colorado,CO,21%,16%,40%,14%,11%,26%
+Maui,West,Hawaii,HI,22%,13%,17%,9%,13%,19%
+Honolulu,West,Hawaii,HI,22%,13%,13%,9%,13%,19%
+Kauai,West,Hawaii,HI,21%,13%,15%,9%,13%,19%
+Hawaii,West,Hawaii,HI,24%,18%,25%,10%,15%,20%
+Kalawao,West,Hawaii,HI,24%,14%,0%,16%,22%,23%
+Madison,West,Idaho,ID,25%,20%,21%,5%,21%,16%
+Latah,West,Idaho,ID,27%,16%,16%,6%,18%,17%
+Ada,West,Idaho,ID,25%,15%,13%,7%,15%,16%
+Teton,West,Idaho,ID,27%,16%,18%,7%,12%,16%
+Bonneville,West,Idaho,ID,31%,14%,20%,8%,13%,20%
+Jefferson,West,Idaho,ID,30%,16%,15%,8%,13%,23%
+Elmore,West,Idaho,ID,30%,18%,22%,8%,16%,27%
+Franklin,West,Idaho,ID,28%,16%,15%,8%,13%,23%
+Blaine,West,Idaho,ID,19%,14%,16%,8%,12%,14%
+Caribou,West,Idaho,ID,28%,15%,15%,8%,12%,25%
+Bannock,West,Idaho,ID,28%,16%,20%,8%,16%,20%
+Kootenai,West,Idaho,ID,25%,17%,18%,8%,16%,18%
+Twin Falls,West,Idaho,ID,27%,19%,19%,8%,15%,23%
+Fremont,West,Idaho,ID,27%,16%,24%,9%,13%,20%
+Jerome,West,Idaho,ID,32%,20%,23%,9%,13%,23%
+Canyon,West,Idaho,ID,32%,18%,24%,9%,15%,22%
+Cassia,West,Idaho,ID,31%,17%,21%,9%,13%,24%
+Bingham,West,Idaho,ID,35%,18%,20%,9%,13%,26%
+Valley,West,Idaho,ID,24%,14%,20%,9%,16%,21%
+Bear Lake,West,Idaho,ID,29%,16%,20%,9%,14%,25%
+Nez Perce,West,Idaho,ID,32%,16%,18%,9%,15%,24%
+Payette,West,Idaho,ID,32%,18%,21%,9%,15%,24%
+Oneida,West,Idaho,ID,36%,15%,19%,9%,14%,19%
+Bonner,West,Idaho,ID,26%,17%,25%,10%,17%,22%
+Lincoln,West,Idaho,ID,32%,19%,22%,10%,14%,23%
+Butte,West,Idaho,ID,29%,16%,19%,10%,16%,24%
+Clearwater,West,Idaho,ID,29%,16%,24%,10%,18%,21%
+Minidoka,West,Idaho,ID,35%,16%,23%,10%,11%,22%
+Idaho,West,Idaho,ID,27%,17%,23%,10%,17%,24%
+Gem,West,Idaho,ID,27%,17%,25%,10%,16%,23%
+Boundary,West,Idaho,ID,27%,17%,25%,10%,18%,25%
+Shoshone,West,Idaho,ID,31%,18%,27%,10%,20%,28%
+Custer,West,Idaho,ID,27%,16%,21%,10%,16%,23%
+Gooding,West,Idaho,ID,32%,19%,25%,10%,13%,24%
+Benewah,West,Idaho,ID,29%,17%,24%,10%,18%,25%
+Power,West,Idaho,ID,31%,20%,23%,11%,12%,24%
+Boise,West,Idaho,ID,24%,16%,25%,11%,16%,25%
+Lewis,West,Idaho,ID,29%,17%,26%,11%,16%,21%
+Owyhee,West,Idaho,ID,32%,21%,30%,11%,15%,29%
+Lemhi,West,Idaho,ID,24%,19%,27%,11%,20%,22%
+Washington,West,Idaho,ID,32%,18%,25%,11%,14%,29%
+Camas,West,Idaho,ID,26%,21%,21%,12%,15%,22%
+Adams,West,Idaho,ID,29%,17%,27%,12%,19%,22%
+Clark,West,Idaho,ID,33%,23%,20%,13%,11%,25%
+Gallatin,West,Montana,MT,16%,15%,12%,6%,13%,15%
+Missoula,West,Montana,MT,21%,17%,16%,7%,15%,17%
+Fallon,West,Montana,MT,27%,15%,10%,8%,10%,32%
+Richland,West,Montana,MT,29%,18%,11%,8%,11%,27%
+Lewis and Clark,West,Montana,MT,24%,16%,15%,8%,12%,18%
+Yellowstone,West,Montana,MT,25%,19%,15%,8%,12%,24%
+Dawson,West,Montana,MT,28%,17%,14%,8%,12%,27%
+Cascade,West,Montana,MT,29%,18%,19%,9%,14%,26%
+Custer,West,Montana,MT,30%,17%,16%,9%,12%,28%
+Toole,West,Montana,MT,27%,20%,21%,9%,14%,27%
+Beaverhead,West,Montana,MT,27%,17%,23%,9%,13%,23%
+Flathead,West,Montana,MT,22%,17%,19%,9%,14%,18%
+Stillwater,West,Montana,MT,22%,16%,12%,9%,10%,27%
+Jefferson,West,Montana,MT,24%,16%,14%,9%,10%,22%
+Sheridan,West,Montana,MT,30%,16%,12%,9%,11%,32%
+Liberty,West,Montana,MT,26%,17%,21%,9%,15%,28%
+Park,West,Montana,MT,23%,15%,19%,9%,13%,19%
+Silver Bow,West,Montana,MT,25%,21%,23%,9%,15%,23%
+Daniels,West,Montana,MT,26%,14%,13%,9%,11%,25%
+Garfield,West,Montana,MT,26%,15%,18%,9%,11%,29%
+Powell,West,Montana,MT,28%,18%,23%,9%,14%,26%
+McCone,West,Montana,MT,24%,16%,21%,9%,10%,32%
+Fergus,West,Montana,MT,26%,15%,18%,10%,13%,23%
+Broadwater,West,Montana,MT,34%,16%,16%,10%,13%,27%
+Valley,West,Montana,MT,29%,17%,18%,10%,13%,28%
+Carbon,West,Montana,MT,24%,17%,18%,10%,12%,23%
+Teton,West,Montana,MT,26%,19%,19%,10%,12%,26%
+Judith Basin,West,Montana,MT,26%,16%,18%,10%,12%,26%
+Sweet Grass,West,Montana,MT,23%,15%,14%,10%,11%,24%
+Powder River,West,Montana,MT,27%,17%,16%,10%,11%,33%
+Madison,West,Montana,MT,21%,16%,17%,10%,11%,26%
+Carter,West,Montana,MT,26%,16%,22%,10%,11%,26%
+Wibaux,West,Montana,MT,28%,17%,18%,10%,12%,30%
+Pondera,West,Montana,MT,30%,20%,27%,10%,14%,27%
+Deer Lodge,West,Montana,MT,27%,20%,23%,10%,15%,24%
+Ravalli,West,Montana,MT,21%,17%,27%,10%,14%,19%
+Petroleum,West,Montana,MT,25%,18%,27%,10%,13%,25%
+Hill,West,Montana,MT,34%,23%,21%,10%,15%,29%
+Musselshell,West,Montana,MT,27%,18%,29%,11%,12%,32%
+Chouteau,West,Montana,MT,26%,21%,29%,11%,15%,28%
+Phillips,West,Montana,MT,26%,18%,20%,11%,13%,32%
+Rosebud,West,Montana,MT,34%,23%,27%,11%,14%,25%
+Granite,West,Montana,MT,26%,15%,24%,11%,15%,27%
+Wheatland,West,Montana,MT,26%,17%,28%,11%,13%,30%
+Lincoln,West,Montana,MT,27%,17%,30%,11%,18%,24%
+Treasure,West,Montana,MT,27%,18%,20%,11%,11%,29%
+Golden Valley,West,Montana,MT,27%,18%,36%,12%,13%,28%
+Prairie,West,Montana,MT,27%,16%,19%,12%,13%,28%
+Meagher,West,Montana,MT,24%,19%,30%,12%,13%,27%
+Lake,West,Montana,MT,27%,20%,30%,12%,16%,24%
+Mineral,West,Montana,MT,26%,17%,28%,12%,17%,24%
+Roosevelt,West,Montana,MT,35%,29%,31%,12%,17%,31%
+Sanders,West,Montana,MT,28%,20%,30%,13%,18%,25%
+Blaine,West,Montana,MT,34%,27%,32%,13%,17%,30%
+Big Horn,West,Montana,MT,37%,28%,36%,13%,20%,29%
+Glacier,West,Montana,MT,34%,31%,36%,14%,21%,30%
+Elko,West,Nevada,NV,32%,18%,15%,8%,10%,21%
+Washoe,West,Nevada,NV,22%,16%,19%,9%,15%,16%
+Humboldt,West,Nevada,NV,25%,17%,15%,9%,10%,21%
+White Pine,West,Nevada,NV,25%,17%,17%,9%,13%,26%
+Lander,West,Nevada,NV,29%,17%,15%,9%,8%,22%
+Eureka,West,Nevada,NV,26%,17%,13%,10%,14%,23%
+Pershing,West,Nevada,NV,32%,20%,21%,10%,15%,23%
+Lincoln,West,Nevada,NV,25%,18%,20%,10%,19%,22%
+Churchill,West,Nevada,NV,29%,18%,18%,10%,15%,24%
+Douglas,West,Nevada,NV,22%,15%,17%,10%,14%,16%
+Carson City,West,Nevada,NV,24%,17%,27%,11%,15%,17%
+Clark,West,Nevada,NV,26%,18%,23%,11%,15%,22%
+Lyon,West,Nevada,NV,30%,17%,21%,11%,17%,28%
+Storey,West,Nevada,NV,26%,14%,14%,11%,13%,24%
+Nye,West,Nevada,NV,29%,18%,28%,14%,17%,29%
+Mineral,West,Nevada,NV,26%,19%,32%,14%,18%,27%
+Esmeralda,West,Nevada,NV,27%,22%,18%,15%,15%,24%
+Los Alamos,West,New Mexico,NM,20%,11%,5%,8%,13%,15%
+Curry,West,New Mexico,NM,30%,20%,27%,9%,17%,28%
+Roosevelt,West,New Mexico,NM,28%,20%,29%,9%,18%,25%
+Lea,West,New Mexico,NM,35%,18%,21%,9%,13%,33%
+Santa Fe,West,New Mexico,NM,14%,14%,21%,10%,14%,12%
+Bernalillo,West,New Mexico,NM,20%,17%,25%,10%,16%,17%
+Sandoval,West,New Mexico,NM,24%,15%,16%,10%,15%,19%
+Eddy,West,New Mexico,NM,30%,18%,19%,10%,13%,24%
+Otero,West,New Mexico,NM,26%,20%,30%,10%,18%,23%
+Chaves,West,New Mexico,NM,30%,18%,32%,11%,15%,26%
+San Juan,West,New Mexico,NM,30%,21%,29%,11%,19%,24%
+Union,West,New Mexico,NM,28%,17%,24%,11%,15%,27%
+Dona Ana,West,New Mexico,NM,23%,17%,39%,12%,15%,20%
+Valencia,West,New Mexico,NM,27%,19%,30%,12%,14%,24%
+Lincoln,West,New Mexico,NM,22%,18%,33%,12%,15%,25%
+Grant,West,New Mexico,NM,21%,15%,28%,12%,15%,22%
+Torrance,West,New Mexico,NM,26%,20%,37%,13%,18%,25%
+Hidalgo,West,New Mexico,NM,26%,17%,34%,13%,15%,27%
+Colfax,West,New Mexico,NM,24%,16%,31%,13%,15%,25%
+Quay,West,New Mexico,NM,32%,18%,36%,13%,16%,28%
+Guadalupe,West,New Mexico,NM,27%,16%,33%,14%,11%,23%
+Sierra,West,New Mexico,NM,21%,16%,40%,14%,18%,24%
+De Baca,West,New Mexico,NM,24%,17%,32%,14%,15%,29%
+Socorro,West,New Mexico,NM,26%,21%,43%,14%,15%,23%
+Taos,West,New Mexico,NM,17%,17%,30%,14%,16%,16%
+Cibola,West,New Mexico,NM,33%,26%,38%,14%,18%,26%
+Catron,West,New Mexico,NM,22%,16%,43%,14%,17%,24%
+Rio Arriba,West,New Mexico,NM,24%,18%,31%,14%,12%,22%
+McKinley,West,New Mexico,NM,33%,21%,43%,14%,24%,23%
+Harding,West,New Mexico,NM,23%,15%,19%,15%,14%,30%
+Luna,West,New Mexico,NM,23%,19%,38%,15%,21%,25%
+San Miguel,West,New Mexico,NM,22%,19%,34%,15%,13%,20%
+Mora,West,New Mexico,NM,24%,20%,35%,19%,13%,26%
+Washington,West,Oregon,OR,24%,12%,16%,8%,12%,14%
+Benton,West,Oregon,OR,20%,15%,13%,8%,16%,13%
+Multnomah,West,Oregon,OR,21%,17%,23%,8%,16%,13%
+Clackamas,West,Oregon,OR,26%,13%,13%,9%,13%,15%
+Lane,West,Oregon,OR,27%,15%,20%,9%,17%,16%
+Deschutes,West,Oregon,OR,23%,15%,18%,9%,16%,15%
+Polk,West,Oregon,OR,34%,16%,17%,9%,14%,18%
+Yamhill,West,Oregon,OR,30%,16%,21%,10%,13%,18%
+Hood River,West,Oregon,OR,25%,15%,20%,10%,10%,17%
+Columbia,West,Oregon,OR,32%,16%,17%,10%,14%,19%
+Marion,West,Oregon,OR,33%,15%,25%,10%,14%,16%
+Umatilla,West,Oregon,OR,32%,17%,25%,10%,13%,21%
+Union,West,Oregon,OR,27%,17%,22%,10%,17%,19%
+Clatsop,West,Oregon,OR,29%,17%,23%,10%,15%,17%
+Jackson,West,Oregon,OR,25%,18%,26%,10%,16%,19%
+Linn,West,Oregon,OR,32%,17%,27%,10%,16%,20%
+Gilliam,West,Oregon,OR,27%,13%,20%,11%,14%,19%
+Morrow,West,Oregon,OR,27%,16%,22%,11%,11%,20%
+Wasco,West,Oregon,OR,27%,16%,23%,11%,14%,18%
+Klamath,West,Oregon,OR,29%,18%,29%,11%,17%,20%
+Douglas,West,Oregon,OR,31%,18%,29%,11%,17%,19%
+Sherman,West,Oregon,OR,28%,15%,23%,11%,16%,21%
+Wallowa,West,Oregon,OR,25%,14%,26%,11%,16%,20%
+Malheur,West,Oregon,OR,29%,19%,38%,12%,15%,20%
+Baker,West,Oregon,OR,26%,16%,29%,12%,17%,23%
+Josephine,West,Oregon,OR,26%,17%,33%,12%,18%,20%
+Tillamook,West,Oregon,OR,27%,16%,26%,12%,14%,19%
+Lake,West,Oregon,OR,32%,17%,28%,12%,18%,19%
+Lincoln,West,Oregon,OR,28%,17%,30%,12%,15%,18%
+Jefferson,West,Oregon,OR,31%,18%,32%,12%,16%,19%
+Coos,West,Oregon,OR,28%,17%,30%,12%,17%,20%
+Harney,West,Oregon,OR,30%,17%,32%,12%,19%,20%
+Grant,West,Oregon,OR,26%,15%,27%,12%,18%,19%
+Crook,West,Oregon,OR,27%,17%,27%,12%,18%,19%
+Curry,West,Oregon,OR,29%,15%,25%,12%,17%,19%
+Wheeler,West,Oregon,OR,27%,14%,40%,13%,15%,21%
+Utah,West,Utah,UT,23%,7%,11%,6%,15%,15%
+Cache,West,Utah,UT,22%,8%,13%,6%,16%,16%
+Summit,West,Utah,UT,14%,7%,8%,6%,12%,12%
+Davis,West,Utah,UT,25%,8%,8%,7%,13%,16%
+Wasatch,West,Utah,UT,23%,8%,10%,7%,13%,15%
+Morgan,West,Utah,UT,23%,9%,5%,7%,11%,18%
+Uintah,West,Utah,UT,28%,11%,11%,7%,14%,24%
+Duchesne,West,Utah,UT,26%,11%,12%,7%,13%,24%
+Tooele,West,Utah,UT,31%,11%,11%,7%,13%,21%
+Salt Lake,West,Utah,UT,25%,10%,15%,7%,14%,17%
+Iron,West,Utah,UT,23%,11%,26%,8%,18%,19%
+Sanpete,West,Utah,UT,25%,11%,20%,8%,15%,23%
+Box Elder,West,Utah,UT,33%,9%,15%,8%,13%,21%
+Juab,West,Utah,UT,28%,10%,15%,8%,15%,22%
+Beaver,West,Utah,UT,28%,10%,13%,8%,14%,30%
+Weber,West,Utah,UT,27%,13%,15%,8%,14%,18%
+Daggett,West,Utah,UT,26%,9%,11%,9%,15%,24%
+Emery,West,Utah,UT,27%,11%,17%,9%,14%,26%
+Millard,West,Utah,UT,29%,9%,18%,9%,14%,27%
+Sevier,West,Utah,UT,31%,10%,17%,9%,16%,25%
+Washington,West,Utah,UT,23%,8%,18%,9%,16%,18%
+Rich,West,Utah,UT,27%,10%,14%,9%,13%,20%
+Carbon,West,Utah,UT,29%,13%,19%,9%,16%,24%
+Grand,West,Utah,UT,23%,12%,22%,9%,17%,17%
+Wayne,West,Utah,UT,23%,10%,23%,9%,19%,22%
+Kane,West,Utah,UT,23%,9%,17%,9%,14%,23%
+Garfield,West,Utah,UT,29%,11%,18%,10%,17%,25%
+Piute,West,Utah,UT,25%,11%,34%,12%,16%,21%
+San Juan,West,Utah,UT,26%,17%,31%,13%,20%,26%
+Whitman,West,Washington,WA,24%,18%,17%,6%,20%,16%
+King,West,Washington,WA,22%,10%,14%,7%,13%,15%
+Thurston,West,Washington,WA,29%,14%,16%,8%,14%,17%
+Kittitas,West,Washington,WA,28%,16%,19%,8%,17%,16%
+Snohomish,West,Washington,WA,29%,13%,13%,8%,12%,19%
+Whatcom,West,Washington,WA,23%,14%,18%,8%,15%,16%
+Pierce,West,Washington,WA,31%,17%,18%,8%,15%,20%
+Kitsap,West,Washington,WA,30%,13%,14%,9%,13%,19%
+Clark,West,Washington,WA,30%,14%,14%,9%,15%,19%
+Spokane,West,Washington,WA,28%,16%,21%,9%,16%,19%
+Benton,West,Washington,WA,31%,14%,21%,9%,13%,18%
+Franklin,West,Washington,WA,32%,15%,25%,9%,10%,19%
+Island,West,Washington,WA,26%,14%,15%,9%,14%,18%
+Walla Walla,West,Washington,WA,26%,14%,21%,10%,14%,20%
+Skamania,West,Washington,WA,30%,15%,20%,10%,15%,23%
+Skagit,West,Washington,WA,28%,15%,23%,10%,13%,19%
+Chelan,West,Washington,WA,26%,14%,20%,10%,12%,17%
+Grant,West,Washington,WA,35%,16%,21%,10%,13%,29%
+Douglas,West,Washington,WA,29%,14%,24%,10%,11%,20%
+Asotin,West,Washington,WA,32%,14%,24%,10%,15%,24%
+Cowlitz,West,Washington,WA,32%,17%,27%,10%,17%,22%
+Lewis,West,Washington,WA,33%,15%,25%,10%,16%,22%
+Mason,West,Washington,WA,33%,16%,24%,11%,15%,24%
+Grays Harbor,West,Washington,WA,37%,18%,29%,11%,17%,28%
+Lincoln,West,Washington,WA,33%,13%,18%,11%,14%,27%
+Klickitat,West,Washington,WA,26%,15%,23%,11%,15%,22%
+Clallam,West,Washington,WA,27%,14%,26%,11%,16%,20%
+San Juan,West,Washington,WA,18%,12%,20%,11%,13%,14%
+Adams,West,Washington,WA,33%,16%,27%,11%,9%,25%
+Garfield,West,Washington,WA,32%,14%,21%,11%,14%,30%
+Yakima,West,Washington,WA,29%,17%,30%,11%,12%,24%
+Stevens,West,Washington,WA,30%,17%,28%,11%,16%,23%
+Jefferson,West,Washington,WA,23%,13%,25%,12%,15%,15%
+Columbia,West,Washington,WA,32%,15%,26%,12%,16%,25%
+Pend Oreille,West,Washington,WA,27%,16%,33%,12%,18%,21%
+Pacific,West,Washington,WA,35%,15%,29%,13%,16%,27%
+Okanogan,West,Washington,WA,29%,18%,32%,13%,15%,26%
+Wahkiakum,West,Washington,WA,33%,14%,27%,13%,18%,24%
+Ferry,West,Washington,WA,27%,19%,29%,13%,18%,20%
+Campbell,West,Wyoming,WY,34%,19%,9%,6%,10%,25%
+Teton,West,Wyoming,WY,13%,15%,10%,7%,12%,11%
+Albany,West,Wyoming,WY,21%,19%,15%,7%,17%,17%
+Natrona,West,Wyoming,WY,28%,20%,14%,7%,12%,23%
+Sublette,West,Wyoming,WY,21%,15%,8%,7%,10%,19%
+Sweetwater,West,Wyoming,WY,29%,19%,12%,8%,11%,26%
+Converse,West,Wyoming,WY,28%,17%,13%,8%,11%,28%
+Crook,West,Wyoming,WY,28%,15%,11%,8%,12%,29%
+Park,West,Wyoming,WY,25%,16%,16%,8%,13%,23%
+Uinta,West,Wyoming,WY,30%,18%,13%,8%,13%,25%
+Laramie,West,Wyoming,WY,28%,20%,14%,9%,12%,23%
+Lincoln,West,Wyoming,WY,24%,14%,12%,9%,12%,23%
+Carbon,West,Wyoming,WY,27%,18%,14%,9%,11%,28%
+Sheridan,West,Wyoming,WY,25%,16%,13%,9%,13%,22%
+Johnson,West,Wyoming,WY,23%,15%,12%,9%,13%,24%
+Weston,West,Wyoming,WY,29%,18%,18%,9%,13%,25%
+Niobrara,West,Wyoming,WY,27%,18%,18%,10%,15%,27%
+Big Horn,West,Wyoming,WY,28%,16%,15%,10%,12%,23%
+Fremont,West,Wyoming,WY,26%,19%,20%,10%,14%,25%
+Goshen,West,Wyoming,WY,28%,18%,19%,10%,14%,27%
+Platte,West,Wyoming,WY,27%,17%,19%,10%,13%,27%
+Washakie,West,Wyoming,WY,25%,16%,16%,11%,12%,22%
+Hot Springs,West,Wyoming,WY,25%,16%,17%,11%,14%,26%
