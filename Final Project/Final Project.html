@@ -16802,11 +16802,63 @@ class="
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<p>Based on the T-tests and the above box plot, it does not appear that there is a significant difference between younger and older raters.</p>
+<p>Based on the T-tests and the above box plot, it does not appear that there is a significant difference between younger and older raters. But we can go more in-depth.</p>
 
 </div>
 </div>
 </div>
+</div><div  class="jp-Cell jp-CodeCell jp-Notebook-cell   ">
+<div class="jp-Cell-inputWrapper">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea">
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[&nbsp;]:</div>
+<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
+     <div class="CodeMirror cm-s-jupyter">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">participants</span> <span class="o">=</span> <span class="p">[</span><span class="s2">&quot;A&quot;</span><span class="p">,</span> <span class="s2">&quot;B&quot;</span><span class="p">,</span> <span class="s2">&quot;D&quot;</span><span class="p">,</span> <span class="s2">&quot;G&quot;</span><span class="p">,</span> <span class="s2">&quot;H&quot;</span><span class="p">,</span> <span class="s2">&quot;I&quot;</span><span class="p">,</span> <span class="s2">&quot;J&quot;</span><span class="p">,</span> <span class="s2">&quot;K&quot;</span><span class="p">,</span> <span class="s2">&quot;N&quot;</span><span class="p">,</span> <span class="s2">&quot;O&quot;</span><span class="p">]</span>
+<span class="n">young_raters</span> <span class="o">=</span> <span class="n">lightings</span><span class="o">.</span><span class="n">loc</span><span class="p">[</span><span class="n">lightings</span><span class="p">[</span><span class="s2">&quot;Age&quot;</span><span class="p">]</span> <span class="o">&lt;</span> <span class="mi">37</span><span class="p">]</span>
+<span class="n">old_raters</span> <span class="o">=</span> <span class="n">lightings</span><span class="o">.</span><span class="n">loc</span><span class="p">[</span><span class="n">lightings</span><span class="p">[</span><span class="s2">&quot;Age&quot;</span><span class="p">]</span> <span class="o">&gt;=</span> <span class="mi">37</span><span class="p">]</span>
+<span class="n">young_harsh_count</span> <span class="o">=</span> <span class="mi">0</span>
+<span class="n">rater_age_diff</span> <span class="o">=</span> <span class="p">[]</span>
+<span class="k">for</span> <span class="n">p</span> <span class="ow">in</span> <span class="n">participants</span><span class="p">:</span>
+    <span class="k">for</span> <span class="n">n</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="mi">1</span><span class="p">,</span> <span class="mi">7</span><span class="p">):</span> <span class="c1">#there are 6 different lighting types</span>
+        <span class="n">col</span> <span class="o">=</span> <span class="n">p</span> <span class="o">+</span> <span class="nb">str</span><span class="p">(</span><span class="n">n</span><span class="p">)</span>
+        <span class="n">young_ratings</span> <span class="o">=</span> <span class="n">young_raters</span><span class="p">[</span><span class="n">col</span><span class="p">]</span>
+        <span class="n">old_ratings</span> <span class="o">=</span> <span class="n">old_raters</span><span class="p">[</span><span class="n">col</span><span class="p">]</span>
+        <span class="n">t_statistic</span><span class="p">,</span> <span class="n">p_value</span> <span class="o">=</span> <span class="n">stats</span><span class="o">.</span><span class="n">ttest_ind</span><span class="p">(</span><span class="n">old_ratings</span><span class="p">,</span> <span class="n">young_ratings</span><span class="p">)</span>
+        <span class="k">if</span> <span class="n">p_value</span> <span class="o">&lt;</span> <span class="mf">0.05</span> <span class="ow">and</span> <span class="n">young_ratings</span><span class="o">.</span><span class="n">mean</span><span class="p">()</span> <span class="o">&lt;</span> <span class="n">old_ratings</span><span class="o">.</span><span class="n">mean</span><span class="p">():</span>
+            <span class="n">young_harsh_count</span> <span class="o">+=</span> <span class="mi">1</span>
+        <span class="k">if</span> <span class="n">p_value</span> <span class="o">&lt;</span> <span class="mf">0.05</span><span class="p">:</span>
+            <span class="n">rater_age_diff</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="n">col</span><span class="p">)</span>
+<span class="nb">print</span><span class="p">(</span><span class="s2">&quot;In &quot;</span><span class="p">,</span> <span class="n">young_harsh_count</span> <span class="o">/</span> <span class="mi">60</span> <span class="o">*</span> <span class="mi">100</span><span class="p">,</span> <span class="s2">&quot;</span><span class="si">% o</span><span class="s2">f participant &amp; lighting combinations, younger raters were statistically significantly harsher than older raters&quot;</span><span class="p">)</span>
+</pre></div>
+
+     </div>
+</div>
+</div>
+</div>
+
+<div class="jp-Cell-outputWrapper">
+<div class="jp-Collapser jp-OutputCollapser jp-Cell-outputCollapser">
+</div>
+
+
+<div class="jp-OutputArea jp-Cell-outputArea">
+<div class="jp-OutputArea-child">
+    
+    <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
+
+
+<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain">
+<pre>In  0.0 % of participant &amp; lighting combinations, younger raters were statistically significantly harsher than older raters
+</pre>
+</div>
+</div>
+
+</div>
+
+</div>
+
 </div>
 </body>
 
